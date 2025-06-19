@@ -7,7 +7,7 @@
 3. **add_attributes.sql** – adds `neighborhood_id` FK to *properties*  
 4. **test_queries.sql** – 14 example DML / analytics queries  
 5. **stored_pgm_function / procedure** – reusable PL/pgSQL  
-6. **transaction_trigger1/2*.sql** – trigger definitions + demos  
+6. **transaction_trigger1/2.sql** – trigger definitions + demos  
 7. **indexed_performance.sql** – before/after `EXPLAIN ANALYZE` runs  
 
 ---
