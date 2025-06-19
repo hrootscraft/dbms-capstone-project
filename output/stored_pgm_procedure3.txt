@@ -1,0 +1,16 @@
+CREATE PROCEDURE
+CALL
+ agent_17_rows | props_now_with_42 | leftover_active 
+---------------+-------------------+-----------------
+             0 |                 5 |               0
+(1 row)
+
+ property_id |                            address                            |   price    | bedrooms | bathrooms | area_sqft | agent_id | neighborhood_id 
+-------------+---------------------------------------------------------------+------------+----------+-----------+-----------+----------+-----------------
+         192 | 25086 Mary Neck, Fostermouth Estates, West Tonyland           | 1616677.59 |        2 |         2 |    667.82 |       42 |             670
+         724 | 490 Dominguez Mountains, New Caseyton Gardens, Espinozaside   | 1526791.72 |        1 |         2 |    700.68 |       42 |             284
+        2777 | 43576 David Views Suite 183, Johnmouth Ridge, East Danielland |  527065.61 |        4 |         3 |   2210.51 |       42 |             697
+        2961 | 840 Chan Springs, Carlsonside Park, Melissamouth              |  743001.47 |        3 |         4 |   1502.06 |       42 |            2510
+        3001 | 15 Bayview Rd, Harbour Heights                                |     610000 |        3 |         2 |      1800 |       42 |               8
+(5 rows)
+

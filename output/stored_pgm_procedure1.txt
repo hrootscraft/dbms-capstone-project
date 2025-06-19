@@ -1,0 +1,17 @@
+CREATE PROCEDURE
+CALL
+ transaction_id | buyer_id | property_id | amount |    date    
+----------------+----------+-------------+--------+------------
+           3003 |      135 |           2 | 402000 | 2025-06-19
+(1 row)
+
+ mortgage_id | buyer_id | property_id | loan_amount | interest_rate | term_years 
+-------------+----------+-------------+-------------+---------------+------------
+        3003 |      135 |           2 |      321600 |           4.5 |         30
+(1 row)
+
+ status 
+--------
+ sold
+(1 row)
+

@@ -1,5 +1,5 @@
 -- A known buyer (already in buyers table) is buying a listed property, and you want to record the sale and mortgage in one go.
---inserts transaction --> closes an active listing --> auto‑creates mortgage
+-- inserts transaction --> closes an active listing --> auto‑creates mortgage
 
 CREATE OR REPLACE PROCEDURE create_sale(
         _buyer_id INT,  -- who is buying
@@ -50,10 +50,23 @@ END;
 $$;
 
 
-CALL create_sale(77, 950, 615000); -- example call
+CALL create_sale(135, 2, 402000); -- example call; row returned below (2,2,401575.22,859901.84)
+-- pick a property that is (1) still “available,” (2) has never been sold, and (3) is priced at or below the chosen buyer’s budget.
+-- SELECT  p.property_id,
+--         l.listing_id,
+--         p.price,
+--         b.budget
+-- FROM        buyers     b
+-- JOIN        properties p  ON p.price <= b.budget -- within budget
+-- JOIN        listings   l  USING (property_id)
+-- LEFT  JOIN  transactions t USING (property_id)
+-- WHERE       b.buyer_id = 135                     -- replace 135 with any buyer
+--   AND       l.status   = 'available'             -- listing still open
+--   AND       t.property_id IS NULL                -- property never sold
+-- LIMIT 1;
 
 
 -- verify the sale
-SELECT * FROM transactions WHERE property_id = 950;
-SELECT * FROM mortgages WHERE property_id = 950;
-SELECT status FROM listings WHERE property_id = 950;
+SELECT * FROM transactions WHERE property_id = 2;
+SELECT * FROM mortgages WHERE property_id = 2;
+SELECT status FROM listings WHERE property_id = 2;

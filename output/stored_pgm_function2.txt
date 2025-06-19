@@ -1,0 +1,6 @@
+CREATE FUNCTION
+ active_listings | sold_listings | total_properties | total_sales_value | avg_sale_amount | last_sale_date 
+-----------------+---------------+------------------+-------------------+-----------------+----------------
+               3 |             1 |                5 |        1486002.94 |       743001.47 | 2023-08-01
+(1 row)
+

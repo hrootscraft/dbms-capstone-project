@@ -16,11 +16,11 @@ DECLARE
     r RECORD;
 BEGIN
     FOR r IN
-        SELECT  pg_class.relname                   AS tbl,
-                pg_attribute.attname              AS col,
+        SELECT  pg_class.relname AS tbl,
+                pg_attribute.attname AS col,
                 pg_get_serial_sequence(
                     quote_ident(pg_class.relname),
-                    pg_attribute.attname)         AS seq
+                    pg_attribute.attname) AS seq
         FROM   pg_class
         JOIN   pg_attribute
                ON pg_attribute.attrelid = pg_class.oid

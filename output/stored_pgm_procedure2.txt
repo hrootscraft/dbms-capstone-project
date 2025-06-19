@@ -1,0 +1,25 @@
+CREATE PROCEDURE
+CALL
+-- Verify that the new property + listing exist --
+ property_id | price  | bedrooms | bathrooms |     neighborhood      | listing_id |  status   | listing_date 
+-------------+--------+----------+-----------+-----------------------+------------+-----------+--------------
+        3001 | 610000 |        3 |         2 | Caldwellshire Gardens |       3003 | available | 2025-06-19
+(1 row)
+
+ total_properties | total_listings 
+------------------+----------------
+             3001 |           2230
+(1 row)
+
+CALL
+-- Verify that the new property + listing exist --
+ property_id | price  | bedrooms | bathrooms |    neighborhood     | listing_id |  status   | listing_date 
+-------------+--------+----------+-----------+---------------------+------------+-----------+--------------
+        3002 | 450000 |        2 |         1 | Wallaceside Village |       3004 | available | 2025-06-19
+(1 row)
+
+ total_properties | total_listings 
+------------------+----------------
+             3002 |           2231
+(1 row)
+

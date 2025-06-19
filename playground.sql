@@ -53,14 +53,25 @@
 --     ON transactions (date DESC, amount)
 --     WHERE amount > 400000;     -- partial keeps index small / selective
 -- ANALYZE transactions;
-EXPLAIN ANALYZE
-SELECT transaction_id,
-       buyer_id,
-       amount,
-       date
-FROM   transactions
-WHERE  date >= CURRENT_DATE - INTERVAL '30 days'
-  AND  amount > 400000
-ORDER  BY date DESC;
+-- EXPLAIN ANALYZE
+-- SELECT transaction_id,
+--        buyer_id,
+--        amount,
+--        date
+-- FROM   transactions
+-- WHERE  date >= CURRENT_DATE - INTERVAL '30 days'
+--   AND  amount > 400000
+-- ORDER  BY date DESC;
 
-
+SELECT  p.property_id,
+        l.listing_id,
+        p.price,
+        b.budget
+FROM        buyers     b
+JOIN        properties p  ON p.price <= b.budget        -- within budget
+JOIN        listings   l  USING (property_id)
+LEFT  JOIN  transactions t USING (property_id)
+WHERE       b.buyer_id = 135                    -- replace 135 with any buyer
+  AND       l.status   = 'available'            -- listing still open
+  AND       t.property_id IS NULL               -- property never sold
+LIMIT 1;

@@ -62,34 +62,56 @@ $$;
 
 
 -- example call: Explicit neighborhood
+\set last_address '15 Bayview Rd, Harbour Heights'
 CALL add_property_with_listing(
-    '15 Bayview Rd, Harbour Heights',
-    610000,
-    3,
-    2,
-    1800,
-    42,
-    8
+  :'last_address', 610000, 3, 2, 1800, 42, 8
 );
+
+\qecho '-- Verify that the new property + listing exist --'
+-- 1. look the row up by its address (unique per demo)
+SELECT p.property_id,
+       p.price,
+       p.bedrooms,
+       p.bathrooms,
+       n.name AS neighborhood,
+       l.listing_id,
+       l.status,
+       l.listing_date
+FROM   properties   p
+JOIN   listings     l USING (property_id)
+LEFT   JOIN neighborhoods n USING (neighborhood_id)
+WHERE  p.address = :'last_address';          -- see the \set below
+
+-- 2. show delta counts so the log makes the change obvious
+SELECT 
+  (SELECT COUNT(*) FROM properties) AS total_properties,
+  (SELECT COUNT(*) FROM listings)   AS total_listings;
+-- ----------------------------------------------------------
+
 
 -- example call: Let it auto-detect neighborhood; If “Wallaceside Village” exists in neighborhoods.name, that ID is used; otherwise neighborhood_id is stored as NULL.
+\set last_address '99 Maple Lane, Wallaceside Village, Springfield'
 CALL add_property_with_listing(
-    '99 Maple Lane, Wallaceside Village, Springfield',
-    450000,
-    2,
-    1,
-    1200,
-    19
+    :'last_address', 450000, 2, 1, 1200, 19
 );
 
--- verfication 
--- SELECT COUNT(*) FROM properties;
--- SELECT p.property_id,
---     p.address,
---     p.neighborhood_id,
---     l.listing_id,
---     l.status,
---     l.listing_date
--- FROM properties p
---     JOIN listings l USING (property_id)
--- WHERE p.property_id = <id given in terminal after running 'psql -U youruser -d real_estate -f stored_pgm_procedure2.sql'>;
+\qecho '-- Verify that the new property + listing exist --'
+-- 1. look the row up by its address (unique per demo)
+SELECT p.property_id,
+       p.price,
+       p.bedrooms,
+       p.bathrooms,
+       n.name AS neighborhood,
+       l.listing_id,
+       l.status,
+       l.listing_date
+FROM   properties   p
+JOIN   listings     l USING (property_id)
+LEFT   JOIN neighborhoods n USING (neighborhood_id)
+WHERE  p.address = :'last_address';          -- see the \set below
+
+-- 2. show delta counts so the log makes the change obvious
+SELECT 
+  (SELECT COUNT(*) FROM properties) AS total_properties,
+  (SELECT COUNT(*) FROM listings)   AS total_listings;
+-- ----------------------------------------------------------
