@@ -95,9 +95,9 @@ All results are written into the individual `output/query<n>.txt` files.
 > `output/stored_pgm_<name>.txt`, e.g.
 
 ```bash
-mkdir -p output
-psql -U $USER -d real_estate -v ON_ERROR_STOP=1 \
-     -f stored_pgm_function1.sql | tee output/stored_pgm_function1.txt
+mkdir -p output 
+
+psql -U $USER -d real_estate -v ON_ERROR_STOP=1 -f stored_pgm_function1.sql | tee output/stored_pgm_function1.txt
 # …repeat for the other five files
 ```
 
