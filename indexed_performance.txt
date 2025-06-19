@@ -1,0 +1,170 @@
+Timing is on.
+========== Q1 BASELINE ==========
+                                                                    QUERY PLAN                                                                     
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=323.61..323.63 rows=10 width=103) (actual time=1.726..1.729 rows=10 loops=1)
+   ->  Sort  (cost=323.61..325.09 rows=594 width=103) (actual time=1.725..1.727 rows=10 loops=1)
+         Sort Key: p.price DESC
+         Sort Method: top-N heapsort  Memory: 28kB
+         ->  Hash Join  (cost=219.83..310.77 rows=594 width=103) (actual time=1.148..1.597 rows=581 loops=1)
+               Hash Cond: (a.agent_id = p.agent_id)
+               ->  Seq Scan on agents a  (cost=0.00..70.00 rows=3000 width=18) (actual time=0.004..0.178 rows=3000 loops=1)
+               ->  Hash  (cost=212.41..212.41 rows=594 width=93) (actual time=1.132..1.133 rows=581 loops=1)
+                     Buckets: 1024  Batches: 1  Memory Usage: 82kB
+                     ->  Hash Join  (cost=76.65..212.41 rows=594 width=93) (actual time=0.483..0.987 rows=581 loops=1)
+                           Hash Cond: (p.neighborhood_id = n.neighborhood_id)
+                           ->  Seq Scan on properties p  (cost=0.00..130.50 rows=1998 width=78) (actual time=0.012..0.350 rows=1998 loops=1)
+                                 Filter: (bedrooms >= 3)
+                                 Rows Removed by Filter: 1002
+                           ->  Hash  (cost=65.50..65.50 rows=892 width=23) (actual time=0.406..0.407 rows=893 loops=1)
+                                 Buckets: 1024  Batches: 1  Memory Usage: 58kB
+                                 ->  Seq Scan on neighborhoods n  (cost=0.00..65.50 rows=892 width=23) (actual time=0.002..0.267 rows=893 loops=1)
+                                       Filter: (school_rating >= 8)
+                                       Rows Removed by Filter: 2108
+ Planning Time: 0.740 ms
+ Execution Time: 1.781 ms
+(21 rows)
+
+Time: 3.306 ms
+========== Q1 INDEXES ==========
+CREATE INDEX
+Time: 9.906 ms
+CREATE INDEX
+Time: 3.645 ms
+ANALYZE
+Time: 9.354 ms
+ANALYZE
+Time: 9.714 ms
+========== Q1 IMPROVED ==========
+                                                                         QUERY PLAN                                                                          
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=0.84..23.58 rows=10 width=103) (actual time=0.066..0.224 rows=10 loops=1)
+   ->  Nested Loop  (cost=0.84..1353.71 rows=595 width=103) (actual time=0.065..0.222 rows=10 loops=1)
+         ->  Nested Loop  (cost=0.56..1115.95 rows=595 width=93) (actual time=0.046..0.166 rows=10 loops=1)
+               ->  Index Scan using idx_prop_bed3_price on properties p  (cost=0.28..510.23 rows=1998 width=78) (actual time=0.019..0.046 rows=30 loops=1)
+               ->  Memoize  (cost=0.29..0.37 rows=1 width=23) (actual time=0.004..0.004 rows=0 loops=30)
+                     Cache Key: p.neighborhood_id
+                     Cache Mode: logical
+                     Hits: 1  Misses: 29  Evictions: 0  Overflows: 0  Memory Usage: 3kB
+                     ->  Index Scan using idx_neigh_rating8 on neighborhoods n  (cost=0.28..0.36 rows=1 width=23) (actual time=0.002..0.002 rows=0 loops=29)
+                           Index Cond: (neighborhood_id = p.neighborhood_id)
+         ->  Index Scan using agents_pkey on agents a  (cost=0.28..0.40 rows=1 width=18) (actual time=0.005..0.005 rows=1 loops=10)
+               Index Cond: (agent_id = p.agent_id)
+ Planning Time: 0.602 ms
+ Execution Time: 0.253 ms
+(14 rows)
+
+Time: 1.181 ms
+========== Q2 BASELINE ==========
+                                                               QUERY PLAN                                                                
+-----------------------------------------------------------------------------------------------------------------------------------------
+ Sort  (cost=347.03..349.49 rows=984 width=43) (actual time=4.747..4.884 rows=1547 loops=1)
+   Sort Key: ((avg(p.price))::numeric(10,2)) DESC
+   Sort Method: quicksort  Memory: 144kB
+   ->  HashAggregate  (cost=248.91..298.11 rows=984 width=43) (actual time=2.407..4.043 rows=1547 loops=1)
+         Group Key: n.name
+         Filter: (avg(p.price) > '500000'::double precision)
+         Batches: 1  Memory Usage: 625kB
+         Rows Removed by Filter: 326
+         ->  Hash Join  (cost=95.52..226.41 rows=3000 width=27) (actual time=0.837..1.554 rows=3000 loops=1)
+               Hash Cond: (p.neighborhood_id = n.neighborhood_id)
+               ->  Seq Scan on properties p  (cost=0.00..123.00 rows=3000 width=12) (actual time=0.012..0.192 rows=3000 loops=1)
+               ->  Hash  (cost=58.01..58.01 rows=3001 width=23) (actual time=0.818..0.819 rows=3001 loops=1)
+                     Buckets: 4096  Batches: 1  Memory Usage: 200kB
+                     ->  Seq Scan on neighborhoods n  (cost=0.00..58.01 rows=3001 width=23) (actual time=0.004..0.334 rows=3001 loops=1)
+ Planning Time: 0.214 ms
+ Execution Time: 5.012 ms
+(16 rows)
+
+Time: 6.255 ms
+========== Q2 INDEX ==========
+CREATE INDEX
+Time: 3.197 ms
+ANALYZE
+Time: 9.166 ms
+========== Q2 IMPROVED ==========
+                                                                            QUERY PLAN                                                                             
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Sort  (cost=325.31..327.77 rows=984 width=43) (actual time=4.045..4.149 rows=1547 loops=1)
+   Sort Key: ((avg(p.price))::numeric(10,2)) DESC
+   Sort Method: quicksort  Memory: 144kB
+   ->  HashAggregate  (cost=227.19..276.39 rows=984 width=43) (actual time=2.190..3.446 rows=1547 loops=1)
+         Group Key: n.name
+         Filter: (avg(p.price) > '500000'::double precision)
+         Batches: 1  Memory Usage: 625kB
+         Rows Removed by Filter: 326
+         ->  Hash Join  (cost=95.80..204.69 rows=3000 width=27) (actual time=0.578..1.407 rows=3000 loops=1)
+               Hash Cond: (p.neighborhood_id = n.neighborhood_id)
+               ->  Index Only Scan using idx_prop_neigh_price on properties p  (cost=0.28..101.28 rows=3000 width=12) (actual time=0.010..0.359 rows=3000 loops=1)
+                     Heap Fetches: 0
+               ->  Hash  (cost=58.01..58.01 rows=3001 width=23) (actual time=0.559..0.560 rows=3001 loops=1)
+                     Buckets: 4096  Batches: 1  Memory Usage: 200kB
+                     ->  Seq Scan on neighborhoods n  (cost=0.00..58.01 rows=3001 width=23) (actual time=0.006..0.204 rows=3001 loops=1)
+ Planning Time: 0.316 ms
+ Execution Time: 4.227 ms
+(17 rows)
+
+Time: 4.879 ms
+========== Q3 BASELINE ==========
+                                                               QUERY PLAN                                                               
+----------------------------------------------------------------------------------------------------------------------------------------
+ Unique  (cost=340.27..340.28 rows=1 width=18) (actual time=2.984..3.577 rows=2304 loops=1)
+   ->  Sort  (cost=340.27..340.27 rows=1 width=18) (actual time=2.982..3.195 rows=2667 loops=1)
+         Sort Key: a.agent_id, a.name
+         Sort Method: quicksort  Memory: 196kB
+         ->  Hash Left Join  (cost=183.40..340.26 rows=1 width=18) (actual time=1.122..2.370 rows=2667 loops=1)
+               Hash Cond: (p.property_id = l.property_id)
+               Filter: (l.listing_id IS NULL)
+               Rows Removed by Filter: 1473
+               ->  Hash Right Join  (cost=107.50..238.39 rows=3000 width=22) (actual time=0.685..1.490 rows=4140 loops=1)
+                     Hash Cond: (p.agent_id = a.agent_id)
+                     ->  Seq Scan on properties p  (cost=0.00..123.00 rows=3000 width=8) (actual time=0.007..0.175 rows=3000 loops=1)
+                     ->  Hash  (cost=70.00..70.00 rows=3000 width=18) (actual time=0.666..0.667 rows=3000 loops=1)
+                           Buckets: 4096  Batches: 1  Memory Usage: 180kB
+                           ->  Seq Scan on agents a  (cost=0.00..70.00 rows=3000 width=18) (actual time=0.023..0.330 rows=3000 loops=1)
+               ->  Hash  (cost=57.50..57.50 rows=1472 width=8) (actual time=0.423..0.424 rows=1473 loops=1)
+                     Buckets: 2048  Batches: 1  Memory Usage: 74kB
+                     ->  Seq Scan on listings l  (cost=0.00..57.50 rows=1472 width=8) (actual time=0.013..0.284 rows=1473 loops=1)
+                           Filter: ((status)::text = 'available'::text)
+                           Rows Removed by Filter: 756
+ Planning Time: 0.625 ms
+ Execution Time: 3.701 ms
+(21 rows)
+
+Time: 5.517 ms
+========== Q3 INDEXES ==========
+CREATE INDEX
+Time: 3.162 ms
+CREATE INDEX
+Time: 2.279 ms
+ANALYZE
+Time: 9.512 ms
+ANALYZE
+Time: 3.726 ms
+========== Q3 IMPROVED ==========
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Unique  (cost=327.63..327.64 rows=1 width=18) (actual time=2.856..3.226 rows=2304 loops=1)
+   ->  Sort  (cost=327.63..327.63 rows=1 width=18) (actual time=2.855..2.961 rows=2667 loops=1)
+         Sort Key: a.agent_id, a.name
+         Sort Method: quicksort  Memory: 196kB
+         ->  Hash Right Join  (cost=268.00..327.62 rows=1 width=18) (actual time=1.897..2.399 rows=2667 loops=1)
+               Hash Cond: (p.agent_id = a.agent_id)
+               Filter: (l.listing_id IS NULL)
+               Rows Removed by Filter: 1473
+               ->  Hash Right Join  (cost=160.50..212.23 rows=3000 width=8) (actual time=0.801..1.340 rows=3000 loops=1)
+                     Hash Cond: (l.property_id = p.property_id)
+                     ->  Seq Scan on listings l  (cost=0.00..47.86 rows=1473 width=8) (actual time=0.009..0.216 rows=1473 loops=1)
+                           Filter: ((status)::text = 'available'::text)
+                           Rows Removed by Filter: 756
+                     ->  Hash  (cost=123.00..123.00 rows=3000 width=8) (actual time=0.785..0.786 rows=3000 loops=1)
+                           Buckets: 4096  Batches: 1  Memory Usage: 150kB
+                           ->  Seq Scan on properties p  (cost=0.00..123.00 rows=3000 width=8) (actual time=0.007..0.421 rows=3000 loops=1)
+               ->  Hash  (cost=70.00..70.00 rows=3000 width=18) (actual time=0.516..0.517 rows=3000 loops=1)
+                     Buckets: 4096  Batches: 1  Memory Usage: 180kB
+                     ->  Seq Scan on agents a  (cost=0.00..70.00 rows=3000 width=18) (actual time=0.010..0.217 rows=3000 loops=1)
+ Planning Time: 0.479 ms
+ Execution Time: 3.341 ms
+(21 rows)
+
+Time: 4.182 ms

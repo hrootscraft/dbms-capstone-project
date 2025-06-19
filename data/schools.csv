@@ -1,0 +1,3001 @@
+school_id,name,rating,neighborhood_id
+1,Pierce High School,6,852
+2,Brown Academy,8,2432
+3,Elliott Middle School,9,1441
+4,Schultz High School,7,85
+5,Lee Elementary,3,497
+6,Yang Elementary,5,100
+7,Morrow Academy,3,1477
+8,Benson High School,6,2995
+9,Alexander Middle School,10,1783
+10,Davis Elementary,2,1779
+11,Wood Elementary,10,2517
+12,Harris Middle School,3,2590
+13,Anderson High School,8,128
+14,Leonard Academy,10,588
+15,Carney Academy,3,1477
+16,Lewis Elementary,8,1216
+17,Franklin Middle School,2,2809
+18,Brown Academy,1,892
+19,Ochoa Middle School,6,241
+20,Harvey Middle School,10,1218
+21,Jones Middle School,10,2083
+22,Carroll High School,5,634
+23,Williams Academy,9,2348
+24,Knapp High School,3,2809
+25,Scott Middle School,7,372
+26,Hardin Academy,10,1084
+27,Gonzalez Academy,5,1377
+28,Bass High School,10,2862
+29,Henry High School,10,1451
+30,Farrell Academy,9,476
+31,Caldwell Middle School,8,2971
+32,Walters Middle School,2,2020
+33,Duncan High School,3,1800
+34,Nelson Elementary,9,937
+35,White Middle School,3,2797
+36,Wells High School,1,662
+37,Mahoney Middle School,10,855
+38,Olson Academy,3,1949
+39,Williams Academy,2,1891
+40,Chandler Academy,5,2911
+41,Thomas Elementary,5,166
+42,Hill High School,7,1378
+43,Chan High School,2,331
+44,Stephens Middle School,9,1548
+45,Myers Middle School,9,326
+46,Brown Elementary,1,1435
+47,Greene Elementary,3,2898
+48,Dickerson Middle School,9,2943
+49,Hunt Middle School,1,1954
+50,Hayes High School,6,2408
+51,Edwards High School,3,2155
+52,Reed Middle School,8,1721
+53,Decker Academy,8,1118
+54,Duffy Middle School,4,2560
+55,Jacobs Middle School,6,2864
+56,Chavez High School,4,939
+57,Martinez Academy,4,2996
+58,King Middle School,8,2131
+59,Hill Middle School,10,1714
+60,Ward Middle School,2,1412
+61,Campbell Elementary,1,49
+62,Dunn Middle School,7,6
+63,Lambert Academy,8,677
+64,Padilla Elementary,5,794
+65,Matthews High School,9,1579
+66,Morris Academy,6,888
+67,Avila Academy,2,1480
+68,Davis High School,8,1019
+69,Browning Elementary,1,1459
+70,George Middle School,1,2296
+71,Hudson Middle School,2,2278
+72,Chang Academy,4,125
+73,Morgan High School,1,1951
+74,Moore Middle School,4,1914
+75,Tucker Academy,4,432
+76,Mclaughlin Middle School,10,1952
+77,Scott Middle School,5,351
+78,Wiley High School,9,1393
+79,Clay Elementary,3,2804
+80,Keller Academy,6,2485
+81,Lewis Elementary,9,612
+82,Hansen Academy,9,2934
+83,Hanson Elementary,1,2489
+84,Hall Elementary,8,618
+85,Valdez Middle School,1,2297
+86,Miller Academy,2,642
+87,Bartlett Elementary,9,2394
+88,Gill High School,6,738
+89,Bond Middle School,10,2635
+90,Choi High School,10,1694
+91,Gonzales Elementary,3,961
+92,Cooper Middle School,2,1343
+93,Reid Academy,6,471
+94,Smith Academy,6,1825
+95,Beard Elementary,4,686
+96,Johnson Middle School,1,2257
+97,Baldwin Elementary,7,13
+98,Reyes High School,2,1905
+99,Levy High School,1,694
+100,Owen High School,2,906
+101,Turner Elementary,1,1818
+102,Mcknight Academy,8,2661
+103,Estrada High School,9,2870
+104,King Academy,6,1396
+105,Pearson High School,1,2408
+106,Black High School,10,398
+107,Aguilar High School,6,177
+108,Snyder High School,10,1793
+109,Castro Middle School,4,1601
+110,Hoffman Academy,10,1194
+111,Ross Academy,3,1825
+112,Hines Middle School,9,1759
+113,Wall High School,2,2213
+114,Morgan Elementary,5,2826
+115,Rogers Middle School,1,1264
+116,Rodriguez Middle School,9,1108
+117,Cooper High School,1,2794
+118,Mccoy High School,7,599
+119,Archer Elementary,8,1582
+120,Maldonado High School,4,1212
+121,Doyle Middle School,10,1174
+122,Sandoval Elementary,7,2929
+123,Carter Academy,8,1051
+124,Collins Elementary,8,2278
+125,Pollard Academy,10,2093
+126,Scott High School,9,1289
+127,Lewis Academy,5,2542
+128,Cooper Elementary,2,224
+129,Farley Academy,7,1875
+130,Bean Middle School,7,1187
+131,Bradley Elementary,9,1834
+132,Morgan Middle School,10,1844
+133,Long High School,4,1862
+134,Cooper Academy,1,297
+135,Lang Middle School,5,2356
+136,Chang Middle School,2,1767
+137,Joseph High School,6,2769
+138,Simmons Middle School,5,1012
+139,Johnson Academy,9,60
+140,Jordan High School,8,12
+141,Bowman High School,1,1977
+142,Miller Middle School,7,1412
+143,Marks Elementary,9,1832
+144,Reeves High School,7,2376
+145,Stone Middle School,7,2856
+146,Duran Middle School,1,904
+147,Rogers Middle School,8,854
+148,Humphrey High School,8,483
+149,Nolan Middle School,6,1595
+150,Aguilar Academy,3,297
+151,Boyd Middle School,4,20
+152,Berger Elementary,9,1399
+153,Castaneda Academy,9,2360
+154,Anderson High School,10,472
+155,Martin High School,4,582
+156,Cruz High School,3,1395
+157,Phillips Academy,7,81
+158,Morris Elementary,10,2211
+159,Guerrero Elementary,6,2012
+160,Vaughan Middle School,7,2677
+161,Davis Elementary,4,127
+162,Leach Middle School,5,300
+163,Herrera Middle School,7,1386
+164,Kim Middle School,3,2410
+165,Gonzalez High School,7,3000
+166,Collier High School,10,2784
+167,Russell Academy,8,114
+168,Dickerson Academy,1,1746
+169,Stevenson Elementary,1,2043
+170,Davis High School,7,407
+171,Snyder High School,4,1014
+172,Lane Academy,1,209
+173,Washington High School,10,325
+174,Webb Academy,5,1163
+175,Brown Middle School,7,2294
+176,Newman Academy,2,2705
+177,Reilly Academy,4,2064
+178,Harris Academy,7,764
+179,Lewis Elementary,6,1958
+180,Warner Academy,5,26
+181,Powell High School,5,1535
+182,Farmer Academy,7,500
+183,Foley Middle School,5,2209
+184,Freeman Academy,5,275
+185,Mitchell High School,3,2004
+186,Young High School,4,2572
+187,Davis Elementary,5,446
+188,Horn Academy,3,1714
+189,Davis Middle School,5,2811
+190,Thomas Middle School,2,2593
+191,Valencia Middle School,3,840
+192,Johnson Middle School,10,2398
+193,Hall Middle School,2,1287
+194,Johnson Elementary,1,1889
+195,Lewis Elementary,4,568
+196,Cross Elementary,5,2943
+197,Parker High School,9,1060
+198,Manning High School,7,1858
+199,Wells Academy,2,1489
+200,Nelson High School,2,1904
+201,Weeks Academy,7,29
+202,Hurst High School,6,1711
+203,Potter Middle School,10,347
+204,Russell Elementary,7,2809
+205,Bradley High School,6,1803
+206,Gomez Academy,8,2734
+207,Reyes Academy,7,1526
+208,Wilcox Academy,7,1577
+209,Chang Academy,5,1969
+210,Green Academy,1,2303
+211,Morrow High School,3,35
+212,Phelps High School,3,2401
+213,Andrade Academy,5,1350
+214,Nichols High School,3,290
+215,Ingram Academy,6,255
+216,Bell High School,10,2553
+217,Santiago Academy,9,551
+218,Garcia Academy,3,1918
+219,English High School,5,1130
+220,Williams Middle School,3,21
+221,Moore Academy,2,2814
+222,Mclean High School,1,1697
+223,Bishop Middle School,10,2197
+224,Hanna Academy,4,2644
+225,Holder Academy,5,143
+226,Brown Elementary,7,1962
+227,Hughes Middle School,5,1700
+228,Sullivan Academy,4,2393
+229,Smith Elementary,4,665
+230,Davis Elementary,5,1013
+231,Lane Elementary,4,365
+232,Hensley Middle School,10,980
+233,Lloyd Middle School,1,324
+234,Jones Elementary,2,2083
+235,Golden High School,1,1641
+236,James High School,5,2056
+237,Bryant High School,6,2143
+238,Rich Academy,6,1522
+239,Buck Middle School,5,1457
+240,White Middle School,10,1609
+241,Cervantes Elementary,6,307
+242,Elliott High School,4,1688
+243,Hodge Academy,5,1420
+244,Glenn Academy,9,865
+245,Smith High School,2,1856
+246,Cruz Middle School,9,1869
+247,Mcgrath Elementary,4,1345
+248,Carney High School,7,1738
+249,Mcgrath Academy,4,2692
+250,Henderson Middle School,9,2917
+251,Fletcher High School,9,1792
+252,Moore High School,2,1901
+253,Miller Middle School,6,2796
+254,West Academy,1,2837
+255,Wright Elementary,10,2518
+256,Green Elementary,7,529
+257,Black High School,7,2469
+258,Hartman High School,8,1725
+259,Hoffman Middle School,10,803
+260,Parks Academy,9,1164
+261,Ellison Middle School,7,2152
+262,Hill High School,2,1988
+263,Morales Academy,4,1779
+264,Ray Academy,10,2978
+265,Rogers Elementary,2,17
+266,Bean Middle School,8,316
+267,Hayes Elementary,10,1282
+268,Jensen Middle School,1,770
+269,Fisher Academy,3,414
+270,Johnson Middle School,2,1497
+271,Guerrero Elementary,10,170
+272,Cook High School,6,2995
+273,Larson Academy,3,1249
+274,Cunningham High School,7,2821
+275,Carr Middle School,3,147
+276,Smith Elementary,7,1379
+277,Richardson Academy,7,890
+278,Davis Middle School,10,869
+279,Tucker High School,1,2138
+280,Hickman Middle School,5,773
+281,Vazquez Middle School,7,526
+282,Hoffman High School,4,2760
+283,Peterson Elementary,5,60
+284,Adams Middle School,1,2635
+285,Deleon Academy,6,1284
+286,Castro High School,2,2755
+287,Brown High School,3,252
+288,Russell Middle School,5,2168
+289,Newman High School,4,1420
+290,Sanders Elementary,8,1147
+291,Atkins High School,1,2459
+292,Vincent Middle School,4,755
+293,Schroeder Elementary,10,2621
+294,Lee Academy,1,573
+295,Cook High School,5,17
+296,Santiago High School,4,353
+297,Johnson Elementary,10,50
+298,Scott Academy,8,395
+299,Rogers Middle School,4,2776
+300,Kennedy High School,4,530
+301,Smith Academy,8,2579
+302,Copeland Middle School,8,1787
+303,Brown High School,6,1054
+304,Wood Academy,7,266
+305,Walker Academy,3,1818
+306,Weaver High School,8,923
+307,Smith High School,6,1270
+308,Hall Elementary,5,1918
+309,Williamson Elementary,3,1596
+310,Patterson Academy,7,434
+311,Peterson High School,4,2377
+312,Nichols Middle School,10,523
+313,Gray High School,3,1896
+314,Dorsey Elementary,3,283
+315,Cooper High School,1,2629
+316,Duran Elementary,4,1044
+317,Allen Middle School,4,2333
+318,Lopez Elementary,7,646
+319,Rios Academy,10,2211
+320,Anderson High School,9,742
+321,Carlson High School,8,1939
+322,Wright Middle School,4,2888
+323,Gamble Elementary,3,2470
+324,Fields Elementary,4,1843
+325,Johnson Elementary,10,450
+326,Avila Middle School,8,1420
+327,Thomas Middle School,10,2855
+328,Hawkins High School,6,1893
+329,Mills Elementary,5,741
+330,Rodriguez Elementary,2,1727
+331,Warner Middle School,3,138
+332,Casey Academy,6,2450
+333,Bryant Elementary,1,16
+334,Hicks High School,5,777
+335,Lewis Academy,5,884
+336,Mason Academy,5,1189
+337,Rodriguez High School,4,657
+338,Bolton Academy,10,381
+339,Sutton High School,3,641
+340,Hill Elementary,1,1899
+341,Reed Middle School,3,1809
+342,Curtis Academy,9,979
+343,Skinner High School,3,1892
+344,Gonzalez Elementary,9,1827
+345,Brown High School,8,436
+346,French Elementary,10,895
+347,Barton Middle School,9,1525
+348,Decker Middle School,1,59
+349,Martinez Elementary,10,178
+350,Smith Elementary,7,868
+351,Turner Middle School,6,2108
+352,Sanchez Academy,8,1827
+353,Martin High School,5,1649
+354,Newman High School,9,1693
+355,Underwood Elementary,8,679
+356,Rojas High School,8,2680
+357,Lloyd Elementary,4,1185
+358,Atkins High School,7,2613
+359,Fields Middle School,4,753
+360,Nunez High School,7,1449
+361,Weber Academy,9,1168
+362,Taylor Elementary,6,1216
+363,Jones Academy,4,1364
+364,Hall Elementary,8,1281
+365,Michael Academy,4,1285
+366,Hicks Elementary,9,1501
+367,King Elementary,8,1622
+368,Maldonado Academy,6,2883
+369,Becker High School,10,1673
+370,Craig High School,7,52
+371,Munoz Elementary,4,2890
+372,Allen Middle School,8,1290
+373,Lang Middle School,3,2333
+374,Lambert Academy,5,2113
+375,Gomez High School,3,362
+376,Taylor Elementary,10,655
+377,Montes Middle School,3,1336
+378,Tapia Elementary,5,1387
+379,Ware High School,8,2408
+380,Gregory High School,4,1857
+381,Brewer Middle School,4,1986
+382,Jones Academy,7,185
+383,Allen High School,2,1167
+384,Hughes Middle School,7,1258
+385,Cooper Middle School,1,758
+386,Harris Academy,1,2233
+387,Huffman Elementary,4,1994
+388,James Middle School,3,2419
+389,Baxter Middle School,2,67
+390,Martinez Middle School,6,2615
+391,Harper Middle School,5,2750
+392,Greene Middle School,10,626
+393,Smith Middle School,10,2614
+394,Ortiz High School,1,357
+395,Gregory High School,10,1615
+396,Chaney Middle School,9,1067
+397,Hill Elementary,8,1772
+398,Mason High School,4,2472
+399,Thompson Elementary,9,1917
+400,Henderson Middle School,5,2044
+401,Parker Academy,8,2815
+402,White Elementary,1,1796
+403,Foster Middle School,5,1243
+404,Moore Academy,7,1607
+405,Holloway Academy,10,1265
+406,Kennedy Middle School,7,2803
+407,Hernandez Elementary,10,2596
+408,Petersen High School,4,2122
+409,Miller Academy,9,651
+410,Alexander High School,1,2169
+411,Green High School,6,2373
+412,Ferguson Middle School,6,2594
+413,Gibson Academy,3,2339
+414,Mcbride Academy,3,1545
+415,Burns Academy,10,600
+416,Lin Middle School,3,1342
+417,Harrison Academy,3,1999
+418,Burke Middle School,5,2941
+419,Baldwin Academy,9,2940
+420,Smith Middle School,8,225
+421,Rodriguez High School,8,725
+422,Mcdonald Middle School,4,1038
+423,Ayers High School,7,1705
+424,Lang Academy,2,189
+425,Warren High School,2,1222
+426,Sloan Academy,2,2240
+427,Morton Elementary,7,2103
+428,Martinez Academy,3,2057
+429,Franklin Academy,9,2849
+430,Gonzalez Academy,10,694
+431,King High School,5,2475
+432,Hunter High School,1,1007
+433,Clarke High School,2,2131
+434,Lucas Academy,10,2898
+435,Weiss High School,7,356
+436,Adams Middle School,5,1119
+437,Welch Elementary,9,2213
+438,Estrada Middle School,4,416
+439,Bradley Middle School,9,114
+440,Smith Elementary,7,2373
+441,Molina Middle School,5,1921
+442,Cochran Academy,10,280
+443,Terry Middle School,4,2024
+444,Flowers Academy,10,1015
+445,Poole Elementary,2,2759
+446,Walker Middle School,3,114
+447,Jones Elementary,7,881
+448,Reynolds Elementary,9,1504
+449,Carrillo Middle School,1,25
+450,White Middle School,4,2376
+451,James Elementary,6,623
+452,Jordan Middle School,2,799
+453,Myers Middle School,7,2610
+454,Sanders Middle School,2,1193
+455,Smith Elementary,10,2267
+456,Silva Middle School,2,688
+457,Edwards Academy,1,752
+458,Crawford Middle School,2,2250
+459,Gay Academy,8,768
+460,Rich Elementary,2,750
+461,Small High School,10,75
+462,Knight Middle School,2,2717
+463,Michael Academy,8,2604
+464,Anderson High School,7,2357
+465,Webster Elementary,1,2864
+466,Fletcher Elementary,2,2688
+467,Bautista Elementary,8,1541
+468,Harris High School,4,714
+469,Davis High School,5,2170
+470,Rush Middle School,5,896
+471,George Academy,2,1527
+472,Moore Elementary,6,1167
+473,Blake Academy,5,1784
+474,Williams Elementary,2,1906
+475,Brown Elementary,9,1853
+476,Richardson Elementary,3,1977
+477,Miller Middle School,9,764
+478,Lowe Elementary,5,219
+479,Middleton Elementary,10,973
+480,Lutz Elementary,9,2979
+481,Barton Middle School,5,2569
+482,Garcia Elementary,3,840
+483,Thornton Middle School,2,1559
+484,Hart Elementary,1,1535
+485,Johnson Middle School,3,1087
+486,Johnson Elementary,9,957
+487,Henderson Middle School,6,766
+488,Garcia Academy,7,657
+489,Brennan High School,3,2686
+490,Harper Elementary,3,362
+491,Evans Middle School,2,405
+492,Butler Academy,8,2311
+493,Wright High School,5,679
+494,Sanchez Middle School,3,1583
+495,Richard Academy,1,416
+496,Johnson Elementary,7,1827
+497,Schneider Elementary,2,1774
+498,Johnson Academy,9,1686
+499,Clark Middle School,10,29
+500,Brown Middle School,6,393
+501,Williams High School,4,2078
+502,Little Academy,5,694
+503,Garcia Academy,8,958
+504,Adams Elementary,3,701
+505,Webb Elementary,10,2349
+506,Rodriguez High School,2,1980
+507,Tucker High School,4,2625
+508,Wolf Elementary,5,2760
+509,Kramer Elementary,6,809
+510,Gray Elementary,10,2138
+511,Schmidt High School,2,249
+512,Gray High School,1,1833
+513,Robertson High School,6,11
+514,Gray High School,9,1311
+515,Wilson Middle School,9,1193
+516,Hughes Academy,8,1830
+517,Horton Elementary,4,2034
+518,Stephens High School,7,1852
+519,Hall Academy,1,29
+520,Bailey Middle School,1,2665
+521,Fischer Academy,7,1117
+522,Gutierrez High School,1,1392
+523,Gordon Middle School,6,1343
+524,Chase Elementary,2,2038
+525,Munoz Middle School,8,685
+526,Williams Academy,10,1814
+527,Davis Middle School,3,2247
+528,Romero Middle School,10,106
+529,Brooks Elementary,9,968
+530,Rosales Middle School,1,1479
+531,Colon Elementary,2,646
+532,Holland Elementary,4,1048
+533,Reed Elementary,7,801
+534,Brooks Academy,9,128
+535,Shannon Elementary,10,2444
+536,Payne Elementary,6,121
+537,Hayes Middle School,5,170
+538,Hill Academy,6,264
+539,Conley Elementary,8,2614
+540,Hanson High School,8,319
+541,Snyder Elementary,8,201
+542,Duncan Academy,5,2215
+543,Jordan High School,8,2322
+544,Atkins Academy,9,2278
+545,Patterson Academy,4,2584
+546,King Elementary,3,1043
+547,Hester Elementary,8,2705
+548,Cox Elementary,5,2600
+549,Brown High School,9,2805
+550,Palmer Elementary,4,2222
+551,Black Elementary,10,256
+552,Norton Elementary,2,1124
+553,Long High School,7,2048
+554,Brewer Academy,8,1799
+555,Warren Academy,2,2394
+556,Edwards High School,3,1098
+557,Logan Academy,1,395
+558,Barber Academy,1,2328
+559,Clay Middle School,2,1843
+560,Evans Academy,5,1357
+561,Newman Elementary,8,1912
+562,Rios Elementary,3,625
+563,Heath Middle School,9,18
+564,Saunders High School,6,943
+565,Dixon High School,8,2068
+566,Morris Middle School,8,1886
+567,Schwartz Middle School,6,777
+568,Lawrence Middle School,1,2529
+569,Scott High School,10,2640
+570,Anderson Middle School,9,1097
+571,Brewer Academy,4,1478
+572,Peters Academy,3,1879
+573,Smith Middle School,10,2490
+574,Woodward Middle School,4,2575
+575,Mills High School,8,2804
+576,Sanders Elementary,3,2868
+577,Woods High School,1,2509
+578,Meyer Middle School,10,2061
+579,Perez Academy,7,801
+580,Long High School,7,1173
+581,Butler High School,5,555
+582,Hall Academy,4,2399
+583,Mullen Middle School,6,2961
+584,Stanley Academy,6,537
+585,Harrell Middle School,10,318
+586,Hall Academy,8,1660
+587,Jones Middle School,3,1939
+588,Parsons Middle School,6,925
+589,Floyd Middle School,5,13
+590,Davies Academy,3,232
+591,George Elementary,7,1738
+592,Williamson Middle School,4,1107
+593,Jones Elementary,2,1073
+594,Hamilton Middle School,2,1534
+595,Howe Academy,4,1047
+596,Ali High School,3,1703
+597,Palmer Middle School,7,702
+598,Cox Academy,3,890
+599,Johnson Middle School,6,1882
+600,Stafford Elementary,5,1131
+601,Watson High School,6,1488
+602,Herrera Elementary,5,834
+603,Barker High School,5,604
+604,Walker Elementary,2,432
+605,Norman Academy,6,1087
+606,Chavez High School,5,2326
+607,Ward High School,8,2628
+608,Bradford High School,3,332
+609,Jackson High School,3,2562
+610,Adams High School,7,974
+611,Fox Elementary,6,306
+612,Keller Middle School,10,456
+613,Johnston Elementary,7,1119
+614,Mckinney Academy,10,712
+615,Colon High School,7,1181
+616,Smith Middle School,10,2443
+617,Baker Academy,3,1038
+618,Jenkins Academy,4,1324
+619,Harris Middle School,10,2533
+620,Gutierrez Academy,6,2643
+621,Archer Elementary,6,983
+622,Sanchez Elementary,1,1904
+623,Yang High School,2,1070
+624,Solis High School,2,2167
+625,Gallegos Middle School,5,1967
+626,Miller Middle School,4,200
+627,Humphrey High School,8,2285
+628,Stevenson Middle School,5,1329
+629,Wu Middle School,2,106
+630,Bradford Elementary,3,1029
+631,Davis Academy,5,978
+632,Smith Academy,9,2622
+633,Evans Academy,3,1264
+634,Johns Middle School,1,2604
+635,Barnes Elementary,5,2589
+636,Wright Academy,1,1744
+637,Johnson Academy,10,1595
+638,Parker Elementary,1,1547
+639,French Academy,4,1827
+640,Coleman High School,10,420
+641,Love Middle School,2,2126
+642,Stout Academy,10,2868
+643,Walters Elementary,7,1386
+644,Greer Elementary,7,318
+645,Pugh High School,8,343
+646,Bailey High School,10,37
+647,Garcia Elementary,2,675
+648,Hines High School,1,569
+649,Wade Middle School,2,1702
+650,Myers Elementary,1,1042
+651,Fisher Elementary,3,1969
+652,Martinez Middle School,9,2544
+653,Todd Academy,9,930
+654,Soto Middle School,2,708
+655,Harrison Elementary,9,1602
+656,Hays Elementary,5,2876
+657,Garcia High School,3,1524
+658,Fitzgerald Elementary,8,2534
+659,Garcia Academy,7,2531
+660,Tucker Academy,9,1071
+661,Thomas Middle School,1,253
+662,Acevedo Elementary,5,348
+663,Gregory High School,5,559
+664,Glover High School,7,57
+665,Pruitt Academy,4,2001
+666,Mcmahon Middle School,4,2890
+667,Stafford Academy,2,2943
+668,Baker High School,10,1509
+669,Reed Middle School,9,2887
+670,Parker High School,10,2903
+671,Smith High School,8,1326
+672,Krause Academy,7,874
+673,Bailey Academy,10,2064
+674,Nelson Middle School,10,941
+675,Campbell Elementary,6,1288
+676,Bennett Academy,8,2355
+677,Holland Academy,10,2627
+678,Robbins Middle School,7,1817
+679,Wilson Academy,1,1922
+680,Kidd High School,2,166
+681,Rice High School,10,895
+682,Young High School,9,424
+683,Mccarthy High School,1,1150
+684,Thompson Middle School,10,229
+685,Vasquez Middle School,6,1777
+686,Farrell Elementary,3,2174
+687,Stark High School,9,2592
+688,Bradley Academy,10,2592
+689,Wright Academy,7,2936
+690,Ramsey Elementary,10,1717
+691,Curtis Middle School,6,1259
+692,Jennings Academy,7,71
+693,Brown Academy,6,336
+694,Butler Middle School,2,234
+695,Williams Elementary,9,1192
+696,Chase Middle School,7,677
+697,Lopez Middle School,7,1274
+698,Perez High School,2,2157
+699,Harper Elementary,3,1137
+700,Martin High School,10,1202
+701,Rodriguez Elementary,9,1430
+702,Burns Middle School,6,1661
+703,Adams High School,4,1378
+704,Williams Middle School,5,2626
+705,Deleon Middle School,8,1857
+706,Robles High School,1,1832
+707,Haas Academy,6,1322
+708,Pace Academy,4,1991
+709,Reese High School,9,2977
+710,Edwards High School,3,1353
+711,Figueroa Elementary,3,699
+712,Matthews High School,9,1190
+713,Reid Academy,8,2428
+714,Quinn Elementary,2,2703
+715,Carpenter Academy,6,696
+716,Brown Middle School,8,2413
+717,Cruz Middle School,10,1122
+718,Mcclure Academy,6,664
+719,Reyes Middle School,10,1628
+720,Robinson Academy,5,2780
+721,Scott Elementary,3,247
+722,Weiss Middle School,9,1391
+723,Bryant High School,1,1793
+724,Mays Elementary,1,2295
+725,Richardson High School,2,1403
+726,Ross Elementary,3,1159
+727,Hansen Middle School,7,2312
+728,Ramirez High School,8,1312
+729,Bailey Middle School,9,1396
+730,Anderson Elementary,4,2768
+731,Shelton Academy,7,2890
+732,Rojas Middle School,6,660
+733,Garcia High School,7,289
+734,Small High School,3,2962
+735,Lee Academy,3,90
+736,Castro High School,1,2094
+737,Brown High School,3,92
+738,Wallace Academy,4,838
+739,Gray High School,7,313
+740,Cantu Elementary,9,2453
+741,Houston Academy,9,2032
+742,Gibson Middle School,8,590
+743,Miller Middle School,7,1431
+744,Melton Middle School,4,2833
+745,Jones Elementary,5,420
+746,Pace Elementary,8,349
+747,Lucas Academy,1,1005
+748,Ray Middle School,4,251
+749,Smith High School,5,1153
+750,Hughes Elementary,9,2663
+751,Chaney High School,4,1719
+752,Jones Academy,1,2724
+753,Shields Middle School,1,2583
+754,Gibbs Middle School,2,912
+755,Bradley Academy,9,2214
+756,Baker Elementary,3,2803
+757,Coleman Elementary,1,2378
+758,Hall Middle School,7,1989
+759,Price Academy,8,1875
+760,Dennis Academy,8,984
+761,Salinas Academy,6,1869
+762,Williams Academy,5,1463
+763,Thompson High School,5,1356
+764,Lewis Elementary,4,1025
+765,Smith Elementary,10,1356
+766,Gutierrez High School,4,1468
+767,Lamb Elementary,2,207
+768,Rivera Middle School,7,2557
+769,Barton Middle School,10,1291
+770,Collins High School,4,963
+771,Williams Elementary,9,2533
+772,Abbott Middle School,4,2831
+773,Alvarado Middle School,4,2674
+774,Chung Elementary,4,1496
+775,Chavez Elementary,5,2683
+776,Collins High School,6,117
+777,Glover Academy,1,587
+778,Snyder Academy,5,72
+779,Malone Academy,3,1731
+780,Porter Elementary,7,1803
+781,Taylor High School,2,1311
+782,Ward Elementary,5,1253
+783,Gutierrez Academy,7,644
+784,Taylor Elementary,7,1171
+785,Turner Middle School,5,2708
+786,Davis Middle School,8,2856
+787,Hampton Academy,4,224
+788,Stark Middle School,10,1155
+789,Dunn Elementary,7,2322
+790,Welch High School,8,692
+791,Lynch High School,3,2731
+792,Strickland Elementary,3,938
+793,Reed High School,9,2540
+794,Simon Middle School,8,1893
+795,Smith Elementary,3,1533
+796,Mercer Middle School,9,1084
+797,Franco Elementary,10,2744
+798,Bright High School,10,1468
+799,Hernandez Elementary,7,2780
+800,Evans High School,10,2386
+801,Thomas Elementary,10,1132
+802,Berry High School,7,2691
+803,Montgomery High School,5,1772
+804,Perkins High School,6,592
+805,Campbell Middle School,10,25
+806,Roberts Elementary,5,298
+807,Davis High School,3,1242
+808,Carter Middle School,9,1539
+809,Hurst Academy,9,1497
+810,Cook High School,5,2023
+811,Raymond Elementary,2,2057
+812,Sweeney Academy,8,2454
+813,Griffin High School,1,512
+814,Blankenship High School,7,1850
+815,Lopez Elementary,10,2782
+816,Morris Middle School,7,2008
+817,Sanders Middle School,6,183
+818,Morse Middle School,9,2858
+819,Alexander Elementary,1,2832
+820,Jackson High School,2,1891
+821,Aguirre Academy,1,2602
+822,Coleman Academy,4,1106
+823,Ross Academy,1,2757
+824,Perez Middle School,2,1695
+825,Austin Elementary,4,2719
+826,Phillips High School,1,1997
+827,Valenzuela Middle School,2,1579
+828,Gonzalez High School,6,1972
+829,Fowler High School,3,1999
+830,Morgan High School,5,2653
+831,Howard Middle School,9,2915
+832,Gallegos Middle School,3,2301
+833,Kelly Academy,8,2816
+834,Hart High School,2,1455
+835,Ball Elementary,7,1603
+836,Thompson Elementary,6,1469
+837,Nelson Academy,2,2837
+838,Lopez High School,6,1704
+839,Moore Academy,2,1726
+840,Lloyd Academy,9,2385
+841,Powell High School,1,2317
+842,Delgado Middle School,7,979
+843,Mitchell Academy,5,1669
+844,Mathews Elementary,6,2330
+845,Molina High School,6,490
+846,Hoffman Academy,2,294
+847,Collier Middle School,4,2405
+848,French High School,7,770
+849,Martin Middle School,3,1069
+850,Adams High School,2,2093
+851,Ellis Middle School,6,1618
+852,Fisher Academy,2,2431
+853,Olson Middle School,2,596
+854,Smith Academy,10,1848
+855,Aguirre High School,9,2867
+856,Cooley Academy,10,1992
+857,Schultz High School,9,1974
+858,Porter Academy,4,350
+859,Parker Academy,4,240
+860,Jackson High School,3,2027
+861,Clarke Elementary,5,2903
+862,Hall Middle School,7,2338
+863,Willis Middle School,3,1424
+864,Mcguire Elementary,7,1026
+865,Carrillo Middle School,4,18
+866,Jackson Elementary,3,1978
+867,Schmidt High School,7,2402
+868,Smith Elementary,2,1999
+869,Perez Academy,4,443
+870,Shepard Elementary,10,2058
+871,Wolf Academy,4,1912
+872,Haley Elementary,9,1487
+873,Jones High School,4,1591
+874,Bond Elementary,7,615
+875,Miller Middle School,4,50
+876,Patterson Academy,4,1427
+877,Moore Academy,8,845
+878,Johnson High School,8,1863
+879,Turner High School,7,2541
+880,Phillips High School,3,2491
+881,Murphy High School,2,8
+882,Singh High School,1,2908
+883,Hunter Elementary,4,653
+884,Schultz Academy,4,76
+885,Miller Middle School,3,1264
+886,Burke Middle School,8,1248
+887,Fuller Academy,4,1331
+888,Young Middle School,4,1399
+889,Cervantes Academy,2,475
+890,Everett Middle School,1,995
+891,Wilkins Elementary,7,2755
+892,Hanson High School,9,2729
+893,Ortiz Academy,3,2709
+894,Lambert Elementary,9,1372
+895,Stevenson Middle School,2,2909
+896,Cross Elementary,2,2687
+897,Herrera Middle School,9,322
+898,Matthews Academy,8,2470
+899,Williams Elementary,4,2612
+900,Houston Academy,7,1577
+901,Hood Academy,4,1607
+902,Shelton High School,8,718
+903,Powers Elementary,4,649
+904,Meyer Academy,6,2382
+905,Matthews High School,6,42
+906,Robinson Middle School,4,2802
+907,Mcdonald Academy,10,202
+908,Khan Middle School,10,1140
+909,Wagner Elementary,4,2010
+910,Graves High School,4,1414
+911,Anthony Middle School,2,2704
+912,Stewart Middle School,3,2911
+913,Molina High School,6,517
+914,King Academy,6,1699
+915,Mccarthy Academy,2,2385
+916,Stephens High School,1,2997
+917,Woods Middle School,1,1513
+918,Walters Academy,9,1863
+919,Boyd Elementary,8,275
+920,Harris Middle School,7,1351
+921,Perez Middle School,5,2551
+922,Garcia High School,9,2473
+923,Tran Elementary,9,1457
+924,Hansen Middle School,10,2070
+925,Davis Middle School,9,2060
+926,Ortiz Middle School,1,2921
+927,Schmidt Elementary,6,495
+928,Turner High School,10,1913
+929,Russell Academy,8,1695
+930,Howell High School,10,366
+931,Lawrence Middle School,7,2974
+932,Reynolds Elementary,7,1442
+933,Schroeder Academy,7,1419
+934,Scott Middle School,9,683
+935,Singh Middle School,7,445
+936,Reed High School,5,2902
+937,Anderson Elementary,3,2305
+938,Miller High School,9,1080
+939,Hernandez High School,4,2749
+940,Hood High School,6,1877
+941,Luna Academy,7,1619
+942,Alvarez Elementary,4,2222
+943,Fields Academy,6,2562
+944,Ward High School,1,140
+945,Barnes Elementary,6,2435
+946,Schroeder High School,7,1817
+947,Andrews Middle School,3,854
+948,Sheppard High School,10,772
+949,Lawson Academy,1,480
+950,Stone High School,2,632
+951,Johnson Academy,1,1701
+952,Dean Academy,2,2302
+953,Moody High School,4,1679
+954,Martinez Elementary,9,2019
+955,Miller Elementary,8,557
+956,Pennington Elementary,3,120
+957,Miller Middle School,4,2256
+958,Montoya Elementary,2,647
+959,Marquez Elementary,10,2531
+960,Hudson Academy,7,1953
+961,Evans Academy,4,1815
+962,Mcmahon Middle School,1,817
+963,Foley Academy,4,1210
+964,Jones High School,9,917
+965,Hudson Academy,6,1723
+966,Little Academy,1,1885
+967,Mitchell Elementary,10,2577
+968,Wallace Elementary,6,1662
+969,Barton High School,8,1176
+970,Brown Middle School,10,1672
+971,Luna Academy,8,140
+972,Gray High School,5,1602
+973,Rocha Academy,4,2462
+974,Gill Middle School,2,1608
+975,Barrett High School,10,24
+976,Riddle High School,5,1744
+977,Evans Academy,4,2944
+978,Peterson Elementary,6,2120
+979,Patterson Academy,9,511
+980,Maynard Elementary,3,1354
+981,Burgess Middle School,2,560
+982,Gonzalez Middle School,7,1719
+983,Jackson Middle School,6,1115
+984,Gordon Academy,9,200
+985,Brock Elementary,10,1343
+986,Schultz Elementary,5,58
+987,Williamson Elementary,5,1582
+988,Villa Elementary,6,2492
+989,Haney Academy,1,168
+990,Hicks Elementary,2,2376
+991,Franklin Elementary,1,1847
+992,Mullins Middle School,9,2075
+993,Avila High School,5,1608
+994,Campbell Academy,4,2584
+995,Harris High School,8,1160
+996,Howard Middle School,7,2345
+997,Hernandez Middle School,10,2606
+998,Reed Elementary,9,2476
+999,Castillo High School,2,863
+1000,Norman Elementary,10,2176
+1001,Day High School,10,1549
+1002,Mitchell Academy,2,2145
+1003,Kim Middle School,3,448
+1004,Eaton Middle School,1,1435
+1005,Cherry High School,3,2705
+1006,Murray High School,3,1469
+1007,Mullins Elementary,2,355
+1008,Matthews Elementary,4,1448
+1009,Smith High School,1,2367
+1010,Reed High School,3,2711
+1011,Marshall High School,2,744
+1012,Brandt High School,10,1837
+1013,Ho Elementary,4,572
+1014,Reyes Middle School,9,2222
+1015,Lucas Academy,7,1918
+1016,Jones Academy,7,149
+1017,Dickson Academy,3,2982
+1018,Gonzales High School,2,828
+1019,Smith High School,1,2653
+1020,Decker Middle School,10,2507
+1021,Grant Academy,9,893
+1022,Fernandez Academy,5,1189
+1023,Perez Middle School,1,2163
+1024,Atkins Elementary,9,806
+1025,Sutton Academy,4,660
+1026,Walton Middle School,10,2803
+1027,Miller Academy,1,739
+1028,Nicholson Academy,7,993
+1029,Bender Middle School,1,1933
+1030,Wright Elementary,6,1266
+1031,Tucker Elementary,9,1335
+1032,Stevenson Elementary,4,915
+1033,Estes Elementary,2,1925
+1034,Harris Academy,1,1398
+1035,Kim Academy,8,1663
+1036,Chaney Academy,8,293
+1037,Gutierrez Middle School,9,2264
+1038,Medina Middle School,1,933
+1039,Abbott Elementary,3,2174
+1040,Williams Academy,6,1794
+1041,Archer High School,1,1465
+1042,Lee Middle School,4,2784
+1043,Villa Elementary,4,1711
+1044,Washington Elementary,7,1794
+1045,Mendez Academy,9,1975
+1046,Hoover Elementary,10,2636
+1047,Barajas Middle School,5,2446
+1048,Scott Academy,3,1549
+1049,Oliver High School,6,1907
+1050,Herrera Elementary,4,1659
+1051,Andrade High School,10,1697
+1052,Williams Academy,5,2860
+1053,Walker High School,2,2845
+1054,Garcia High School,6,938
+1055,Chavez Academy,6,728
+1056,Harrison High School,8,2946
+1057,Dunn High School,5,2777
+1058,Johnson Middle School,6,572
+1059,Harris Academy,10,2349
+1060,Sellers Elementary,2,2133
+1061,Watson High School,2,422
+1062,White Elementary,6,1773
+1063,Carr Academy,4,952
+1064,Tran High School,2,1310
+1065,Martin Academy,7,1175
+1066,Sanchez Academy,8,152
+1067,Thomas High School,1,2708
+1068,Rodriguez Academy,9,38
+1069,Diaz Middle School,9,859
+1070,Fletcher Elementary,10,915
+1071,Robles High School,7,1326
+1072,Hayes Elementary,3,1987
+1073,Davis High School,9,1755
+1074,Larson Elementary,4,2563
+1075,Mcguire High School,6,1544
+1076,Terry Middle School,4,847
+1077,Moore Middle School,4,1232
+1078,Jackson High School,3,1143
+1079,Smith High School,8,220
+1080,Cantu High School,2,1298
+1081,Ayala High School,8,2173
+1082,Peterson Middle School,7,788
+1083,Bauer Elementary,4,681
+1084,Jimenez High School,3,1901
+1085,Roberts Elementary,7,451
+1086,Meyer Academy,3,2930
+1087,Schneider Academy,10,1896
+1088,Walker High School,8,1712
+1089,Hernandez Middle School,4,2592
+1090,Phillips Academy,1,857
+1091,Griffin High School,5,1924
+1092,Stewart Academy,3,1693
+1093,Fry Elementary,10,776
+1094,Cooper Elementary,10,635
+1095,Carlson Middle School,10,1150
+1096,Shelton Elementary,3,2875
+1097,Rosales Middle School,3,2091
+1098,Martinez Elementary,7,760
+1099,Gutierrez High School,4,2807
+1100,Mills High School,2,2056
+1101,Gonzalez High School,5,1400
+1102,Curry High School,5,264
+1103,Lopez Middle School,6,2207
+1104,Allen Middle School,2,1071
+1105,Thomas Elementary,1,952
+1106,Simmons High School,7,921
+1107,Howard Elementary,4,650
+1108,Cline Middle School,7,1945
+1109,Nunez Middle School,6,2736
+1110,Murphy High School,10,38
+1111,Roman High School,8,2374
+1112,Dickson Academy,6,1815
+1113,Thomas Elementary,7,2064
+1114,Brown Academy,3,379
+1115,Adams Middle School,3,1502
+1116,Li Elementary,9,1712
+1117,Mcknight Middle School,9,1671
+1118,Cox High School,7,1197
+1119,Montoya Middle School,5,1796
+1120,Martinez Academy,1,2807
+1121,Hoover Middle School,4,84
+1122,Mendoza Middle School,6,2230
+1123,Boone Academy,3,2133
+1124,Mendoza High School,7,1913
+1125,White Middle School,7,858
+1126,Wood Elementary,7,829
+1127,Trevino Middle School,1,2270
+1128,Golden High School,7,172
+1129,Simmons Elementary,8,646
+1130,Johnson Academy,3,2106
+1131,Castaneda Elementary,4,850
+1132,Diaz Academy,5,2494
+1133,Bailey Elementary,9,1164
+1134,Hurst Academy,5,2339
+1135,Lynch Elementary,2,1775
+1136,Obrien Middle School,5,2671
+1137,Williams Middle School,1,937
+1138,Martinez Elementary,1,2922
+1139,Marshall Elementary,7,1688
+1140,Williams Middle School,7,1768
+1141,Carr Middle School,3,2147
+1142,Davis High School,6,1304
+1143,Knapp High School,2,1189
+1144,Daniel Elementary,9,2604
+1145,Patton High School,8,2521
+1146,Johnson Academy,3,667
+1147,Alexander High School,2,427
+1148,Roy Elementary,9,1279
+1149,Vega Academy,2,150
+1150,Pollard Academy,7,180
+1151,Miller Elementary,3,1596
+1152,Olson Elementary,5,1716
+1153,Leonard Elementary,2,1812
+1154,Weaver High School,10,2704
+1155,Murphy High School,4,2094
+1156,Walton Elementary,7,550
+1157,Johnson High School,5,298
+1158,Gardner Elementary,7,1593
+1159,Sherman Academy,9,2230
+1160,Mahoney High School,6,1928
+1161,Huber Middle School,3,312
+1162,Caldwell Academy,6,230
+1163,Trujillo Middle School,5,627
+1164,Walker Middle School,9,2344
+1165,Willis Middle School,6,1090
+1166,Brown High School,1,1888
+1167,Sullivan Elementary,2,2631
+1168,Williams Elementary,8,703
+1169,Cross High School,1,692
+1170,Wise Middle School,1,1418
+1171,Williamson Elementary,7,1777
+1172,Martin Academy,2,1035
+1173,Ray High School,4,911
+1174,Carr Middle School,2,2047
+1175,Johnson Elementary,5,1865
+1176,Yang High School,6,1047
+1177,White Elementary,3,2306
+1178,Mcdowell Middle School,5,2372
+1179,Thompson Middle School,3,24
+1180,Gentry Middle School,9,2751
+1181,Carter Elementary,6,2678
+1182,Torres Middle School,1,2085
+1183,Benitez High School,3,454
+1184,Solis Academy,7,2243
+1185,Jenkins Elementary,2,647
+1186,Hudson Academy,10,1762
+1187,Smith Middle School,6,187
+1188,Horton High School,1,1955
+1189,Jones Middle School,3,1141
+1190,Burns Elementary,4,2461
+1191,Austin High School,4,222
+1192,Davis Middle School,3,1497
+1193,Mckay Elementary,3,1993
+1194,Ramirez High School,10,1628
+1195,Anderson Middle School,4,2299
+1196,Torres Middle School,9,1154
+1197,Moran High School,1,2782
+1198,Pollard Middle School,8,2632
+1199,Harper Academy,6,1053
+1200,Ramirez Middle School,10,2393
+1201,Harvey High School,3,2996
+1202,Thompson High School,9,79
+1203,Zhang Middle School,4,108
+1204,Turner Academy,5,394
+1205,Bartlett High School,9,1686
+1206,Dennis Middle School,3,2420
+1207,Gonzales Elementary,9,1308
+1208,English Elementary,6,235
+1209,Herrera High School,9,2030
+1210,Lynch Elementary,6,2395
+1211,Rice Elementary,6,483
+1212,Thomas Middle School,4,1912
+1213,Oconnor Academy,3,430
+1214,Smith Elementary,10,213
+1215,Jones Academy,5,1184
+1216,Navarro High School,8,2345
+1217,Thompson Middle School,10,440
+1218,Jensen Elementary,8,512
+1219,Haynes Academy,5,2926
+1220,Daniel Elementary,1,821
+1221,Johnson High School,6,1616
+1222,Smith High School,9,1623
+1223,Vasquez High School,8,853
+1224,Bowman Academy,5,1140
+1225,Klein Academy,7,1545
+1226,Cooper Elementary,8,554
+1227,Fitzgerald Middle School,7,1551
+1228,Zhang Elementary,5,1925
+1229,Quinn High School,2,607
+1230,Henry Elementary,9,433
+1231,Bradford Elementary,4,1788
+1232,Hayes Middle School,9,2620
+1233,Lopez Middle School,6,544
+1234,Alexander High School,1,1254
+1235,Hernandez Middle School,10,1012
+1236,Costa High School,2,1648
+1237,Brooks Elementary,3,1622
+1238,Wood High School,8,1807
+1239,Perry High School,3,2826
+1240,Mckee Academy,7,2297
+1241,Armstrong High School,9,211
+1242,Gordon Middle School,2,1751
+1243,Simon Middle School,7,1925
+1244,Holland Elementary,8,1291
+1245,Parker Middle School,5,2653
+1246,Simmons Elementary,4,1386
+1247,Shepherd Middle School,8,1579
+1248,Carpenter High School,3,2498
+1249,King Middle School,10,902
+1250,Daniel Elementary,4,2557
+1251,Fischer High School,4,2456
+1252,Gilbert High School,3,2860
+1253,Summers Academy,1,2138
+1254,Martinez High School,4,741
+1255,Mccann Academy,4,1189
+1256,Molina Elementary,2,345
+1257,Norton High School,10,2468
+1258,Mendoza Academy,5,1865
+1259,Fowler High School,5,2980
+1260,Smith Academy,4,2753
+1261,Mccarthy Academy,8,152
+1262,Munoz High School,10,2523
+1263,Crane Elementary,10,1709
+1264,Erickson Academy,9,278
+1265,Reed High School,6,1595
+1266,Woodward High School,10,1964
+1267,Taylor Academy,4,2497
+1268,King Academy,2,129
+1269,Rosales Middle School,5,87
+1270,Miller High School,8,843
+1271,Smith Academy,9,2988
+1272,Cox Elementary,1,2126
+1273,Reynolds Elementary,5,449
+1274,Smith Academy,6,1759
+1275,Mason High School,4,130
+1276,Cortez Academy,3,427
+1277,Wise Academy,8,280
+1278,Garcia Academy,10,2410
+1279,Turner Elementary,7,1312
+1280,Travis Academy,3,949
+1281,Esparza Academy,4,1263
+1282,Curtis Elementary,2,132
+1283,Collier High School,9,1360
+1284,Bowen Academy,9,2925
+1285,Larsen Academy,8,453
+1286,Newman Middle School,7,1343
+1287,Clark Academy,3,2250
+1288,Clark Elementary,9,589
+1289,Moore Elementary,3,2010
+1290,Carlson High School,3,1058
+1291,Chang Elementary,10,1657
+1292,Edwards Elementary,9,1197
+1293,Hernandez Elementary,6,2775
+1294,Roberts High School,6,792
+1295,Moreno Academy,4,253
+1296,Burton High School,4,1867
+1297,Ramirez Academy,4,508
+1298,Garcia High School,6,2317
+1299,Moon Academy,8,90
+1300,Barr Academy,2,1783
+1301,Perry High School,5,2243
+1302,Cook Elementary,5,1252
+1303,Goodman Elementary,1,243
+1304,Johnson High School,1,1821
+1305,Lopez High School,7,185
+1306,Goodman Middle School,4,504
+1307,Miller Elementary,7,1280
+1308,Gillespie Elementary,8,2488
+1309,Taylor Academy,3,2394
+1310,Calhoun Academy,9,661
+1311,Hardy Middle School,9,2062
+1312,Manning High School,5,631
+1313,Nguyen Academy,4,1096
+1314,Espinoza High School,10,2914
+1315,George Academy,10,2455
+1316,Schultz Middle School,6,471
+1317,Haney Academy,4,1684
+1318,Johnson Academy,6,1130
+1319,Sanchez Academy,6,2084
+1320,Bailey Academy,9,2877
+1321,Walker Middle School,8,275
+1322,Duke Elementary,6,769
+1323,Lynch Middle School,6,2653
+1324,Smith Elementary,7,2840
+1325,Schaefer Academy,8,494
+1326,Brady High School,4,2928
+1327,Walker Academy,1,2602
+1328,Warren Elementary,8,1186
+1329,Buckley Middle School,1,1054
+1330,Weeks Elementary,3,1435
+1331,Moore Academy,1,192
+1332,Sanchez High School,2,824
+1333,Green Elementary,7,2794
+1334,Bond Academy,8,1905
+1335,Silva High School,3,1968
+1336,Duffy Elementary,8,453
+1337,Skinner Middle School,8,2358
+1338,Brown Academy,2,1799
+1339,Smith Academy,4,1335
+1340,Odonnell Elementary,7,1211
+1341,Alexander Middle School,8,645
+1342,Dunn Elementary,5,863
+1343,Mack Elementary,8,2947
+1344,Rios Academy,8,1629
+1345,Martin Middle School,3,1796
+1346,Lucas Elementary,3,1425
+1347,Williams High School,4,295
+1348,Thompson Academy,4,2354
+1349,Oconnor Elementary,6,2091
+1350,Lewis High School,7,1118
+1351,Delgado Academy,3,1375
+1352,Gross Academy,1,1159
+1353,Sullivan Academy,8,2099
+1354,Webster Middle School,1,2794
+1355,Wright Middle School,7,2541
+1356,Davidson Elementary,7,2842
+1357,Jenkins Elementary,6,2909
+1358,Johnson High School,1,2717
+1359,Morrison Middle School,7,265
+1360,Murphy Middle School,5,121
+1361,Sanders Academy,4,384
+1362,Griffin Middle School,3,2753
+1363,Leonard Elementary,7,1573
+1364,Smith Academy,7,1663
+1365,Butler High School,5,2687
+1366,Scott Elementary,6,960
+1367,Reynolds Middle School,5,643
+1368,Morales Elementary,7,2316
+1369,Allison High School,4,1372
+1370,Tran Middle School,3,2051
+1371,Harris Academy,2,1911
+1372,Taylor Elementary,6,2270
+1373,Gonzalez Elementary,4,2128
+1374,Friedman Elementary,6,1856
+1375,Phillips Middle School,3,475
+1376,Lynn Middle School,7,1817
+1377,Parker Academy,5,1462
+1378,Chan High School,6,547
+1379,Bullock Academy,2,1292
+1380,Shaffer Elementary,1,1805
+1381,Williamson Elementary,6,2727
+1382,Riggs High School,8,35
+1383,Jones High School,3,2552
+1384,Smith High School,1,2303
+1385,Perry Academy,9,2019
+1386,Ryan High School,5,380
+1387,Gregory Middle School,4,1408
+1388,Moreno Academy,3,1303
+1389,Gonzalez Academy,10,617
+1390,Cunningham Academy,4,1285
+1391,Davidson Academy,1,144
+1392,Wilson Academy,3,1372
+1393,Soto High School,2,1500
+1394,Nelson Elementary,8,2406
+1395,Christian Academy,6,310
+1396,Thomas Middle School,8,2134
+1397,Gutierrez High School,10,1371
+1398,Miller Middle School,2,708
+1399,Gonzalez Academy,4,1095
+1400,Schultz High School,6,2171
+1401,Medina Elementary,2,2558
+1402,Morris Academy,7,2817
+1403,Manning Middle School,2,809
+1404,Morales High School,7,366
+1405,Weeks Academy,5,2799
+1406,Scott Academy,2,1311
+1407,Marquez Middle School,7,1374
+1408,Morales Middle School,3,579
+1409,Larsen Middle School,5,1842
+1410,Richard Elementary,9,389
+1411,Robinson Elementary,2,1105
+1412,Mckinney Elementary,3,2388
+1413,Ford Academy,2,2521
+1414,Evans High School,1,2276
+1415,Gonzalez High School,4,1833
+1416,Hale High School,9,2729
+1417,Fuller Elementary,3,1646
+1418,Baxter Elementary,8,2464
+1419,Obrien Middle School,1,2982
+1420,Lowe Elementary,9,75
+1421,Bell High School,9,2220
+1422,Ferrell Elementary,6,2681
+1423,Sanders Elementary,9,495
+1424,Kennedy High School,1,789
+1425,Torres Middle School,5,2918
+1426,Snyder Elementary,6,137
+1427,Blackwell Elementary,1,1389
+1428,Fisher Academy,4,1398
+1429,Farmer Academy,10,2418
+1430,Caldwell Elementary,3,433
+1431,Snyder Middle School,2,399
+1432,Porter Academy,7,2329
+1433,Anderson High School,7,91
+1434,Caldwell Middle School,2,659
+1435,Fields High School,7,1836
+1436,Jones Academy,5,591
+1437,Bridges Elementary,3,2891
+1438,Bartlett High School,10,2146
+1439,Smith Middle School,7,651
+1440,Vaughan Elementary,8,1096
+1441,Vega High School,10,2828
+1442,Norris High School,10,307
+1443,Nelson Middle School,7,19
+1444,Summers Middle School,1,1003
+1445,Torres Middle School,2,2966
+1446,Bird High School,7,1514
+1447,Dalton Academy,6,2030
+1448,Walton Elementary,7,1601
+1449,Marks High School,8,2099
+1450,Hunter Elementary,4,93
+1451,Horn High School,10,2555
+1452,Jones High School,1,1242
+1453,Lopez Middle School,9,2334
+1454,Hughes Academy,5,2660
+1455,Reeves Elementary,7,1109
+1456,Fernandez High School,1,2165
+1457,Harrison Academy,3,2966
+1458,Ramos High School,4,534
+1459,Weeks Middle School,4,95
+1460,Santiago Academy,3,1111
+1461,Hale Academy,7,1044
+1462,Mcneil Elementary,3,1693
+1463,Casey Elementary,4,2743
+1464,Estes High School,6,2008
+1465,Hernandez High School,6,2229
+1466,Morales Academy,2,2065
+1467,Pope Elementary,6,2065
+1468,Suarez Middle School,10,1006
+1469,Miller High School,1,2123
+1470,Robinson Middle School,6,1112
+1471,Chase High School,3,2767
+1472,Jarvis Academy,9,2173
+1473,Nichols High School,10,2236
+1474,Ramsey Elementary,10,705
+1475,Lewis Elementary,7,2507
+1476,Edwards Academy,6,1561
+1477,Gardner Middle School,3,1518
+1478,Todd Academy,3,1878
+1479,Brown Academy,3,569
+1480,Foster Middle School,7,2208
+1481,Obrien Middle School,2,713
+1482,Davis Academy,6,945
+1483,Dean High School,2,2181
+1484,Odonnell Middle School,10,2488
+1485,Garcia High School,6,2601
+1486,Hernandez Academy,9,135
+1487,Mason Middle School,3,2106
+1488,Walker Elementary,2,1862
+1489,Bell Academy,2,2777
+1490,Parks Elementary,7,533
+1491,Larsen High School,6,73
+1492,Walker Middle School,7,2706
+1493,Jones High School,5,1863
+1494,Taylor Middle School,6,2732
+1495,Parker Middle School,5,392
+1496,Davis High School,4,2545
+1497,Hill Elementary,1,889
+1498,Smith Middle School,4,2869
+1499,Haynes Elementary,9,1767
+1500,Odonnell Academy,8,2348
+1501,Hall Elementary,7,1729
+1502,Flores Academy,5,1928
+1503,Webb Academy,3,212
+1504,Martinez Elementary,2,2712
+1505,Rodgers Elementary,5,7
+1506,Reese Middle School,9,1026
+1507,Soto Middle School,8,2285
+1508,Barnett Middle School,7,74
+1509,Wilson Elementary,9,1831
+1510,Waters Academy,8,2544
+1511,Ochoa High School,4,772
+1512,Adams High School,3,546
+1513,Barton High School,4,2423
+1514,Hart Middle School,10,532
+1515,Hensley Middle School,5,525
+1516,Cook High School,8,1954
+1517,Ortiz Academy,3,1868
+1518,Hansen Academy,5,1484
+1519,Moore Academy,6,197
+1520,Pittman Middle School,2,2697
+1521,Salazar High School,3,382
+1522,Reeves Elementary,5,2156
+1523,Myers High School,7,143
+1524,Conley Middle School,7,777
+1525,Smith Middle School,10,1623
+1526,Hughes Academy,9,2071
+1527,Dixon High School,3,65
+1528,Spencer High School,8,1357
+1529,Vasquez Middle School,6,2718
+1530,Atkinson High School,8,1945
+1531,Schwartz Elementary,7,2361
+1532,Sutton Middle School,10,728
+1533,Reynolds High School,4,536
+1534,West Elementary,3,1300
+1535,Klein High School,7,333
+1536,Larsen Academy,8,2426
+1537,Richardson High School,7,1824
+1538,Clark Academy,9,2722
+1539,Hansen Elementary,9,2333
+1540,Phillips Academy,4,2940
+1541,Wilson Academy,2,921
+1542,Yates High School,10,2944
+1543,Hull High School,6,2400
+1544,Moyer Middle School,2,471
+1545,Rivas High School,8,709
+1546,Bell Middle School,6,2582
+1547,Lee Elementary,2,2535
+1548,Hammond High School,8,876
+1549,Johnson Academy,8,2339
+1550,Santiago Academy,3,1643
+1551,Nash Middle School,9,2390
+1552,Santana Academy,6,1197
+1553,Jensen Academy,8,2336
+1554,Moon Elementary,8,2270
+1555,Tyler Middle School,3,84
+1556,Prince Elementary,9,2942
+1557,Thomas Elementary,1,124
+1558,Harris Elementary,5,729
+1559,Carey Academy,7,2442
+1560,Conley Elementary,7,747
+1561,Mcgee High School,2,1319
+1562,Woods Academy,6,2401
+1563,Lopez High School,2,1038
+1564,Marsh Elementary,10,2865
+1565,Thomas Academy,8,403
+1566,Thomas Elementary,9,33
+1567,Huffman Elementary,5,2586
+1568,Caldwell High School,9,2846
+1569,Gibson Academy,3,1118
+1570,Livingston Middle School,3,1982
+1571,Johnson High School,10,1615
+1572,Martinez Academy,6,2883
+1573,Diaz Middle School,10,1219
+1574,Mcguire Middle School,1,1415
+1575,Parks Elementary,8,510
+1576,Beck Academy,3,1360
+1577,Brown Elementary,3,2673
+1578,Adams Middle School,5,843
+1579,Murray Middle School,6,951
+1580,Ramirez Academy,8,1529
+1581,Ramirez Academy,8,2039
+1582,Rocha Academy,4,1027
+1583,Crane Middle School,7,1372
+1584,Barrett Academy,6,197
+1585,Carroll Middle School,2,38
+1586,Mueller High School,10,1793
+1587,Jackson Elementary,5,5
+1588,Brooks Academy,8,308
+1589,Wilson Middle School,9,123
+1590,Williams Academy,2,2705
+1591,White Elementary,8,1083
+1592,Cooper Academy,7,2900
+1593,Smith Academy,10,2038
+1594,Hensley High School,8,621
+1595,Brown Elementary,8,491
+1596,Conner Middle School,5,944
+1597,Flynn High School,7,1734
+1598,Williams Middle School,1,894
+1599,Booth Middle School,6,808
+1600,Bennett Academy,10,1523
+1601,Jackson Middle School,6,1335
+1602,Cooley Academy,7,2006
+1603,Calhoun Middle School,6,2988
+1604,Best Elementary,8,2295
+1605,Gibson Elementary,1,2709
+1606,Jackson Academy,3,2141
+1607,Jones Middle School,10,1219
+1608,Martin Academy,7,1098
+1609,Hill Academy,2,752
+1610,Harrison Academy,2,1067
+1611,Ayala Middle School,7,2746
+1612,Banks Middle School,2,2348
+1613,Allen Academy,3,1808
+1614,Cruz High School,7,2860
+1615,Shaw High School,5,914
+1616,Velazquez Elementary,10,1305
+1617,Hansen Elementary,10,1380
+1618,Harrell Academy,7,892
+1619,Alexander Elementary,1,2671
+1620,Johnson Academy,4,1598
+1621,Duncan Middle School,2,221
+1622,Anderson High School,2,1593
+1623,Hall High School,1,1825
+1624,Watson Academy,1,1231
+1625,Webb Elementary,2,838
+1626,Robertson High School,4,2818
+1627,Wilson Academy,4,2476
+1628,Padilla Academy,6,656
+1629,Brooks Academy,3,2440
+1630,Leon High School,10,2229
+1631,Leblanc Academy,8,1888
+1632,Townsend Academy,1,1371
+1633,Mcdowell High School,5,2117
+1634,Taylor Elementary,8,366
+1635,Nguyen Middle School,10,2479
+1636,Sims Academy,10,2464
+1637,Nelson Elementary,6,1198
+1638,Mason Middle School,8,39
+1639,Black Elementary,3,2351
+1640,Alvarez Middle School,4,2849
+1641,Thomas Elementary,4,528
+1642,Evans Academy,9,2343
+1643,Conner Middle School,8,1073
+1644,Burton Academy,1,642
+1645,Todd Elementary,4,1780
+1646,Ford High School,2,1474
+1647,Mahoney Academy,8,343
+1648,Martin Middle School,10,277
+1649,Morris High School,3,2869
+1650,Burke High School,2,2960
+1651,Garza High School,7,349
+1652,Parrish Academy,7,2730
+1653,Owen High School,6,2286
+1654,Tran Middle School,3,902
+1655,Webb High School,6,532
+1656,Clark High School,9,2009
+1657,Weber Elementary,7,799
+1658,Dodson Elementary,3,606
+1659,Horton Middle School,10,913
+1660,Wilson Middle School,6,589
+1661,Webster Academy,9,2509
+1662,Carr Academy,2,1535
+1663,Kim Middle School,6,2452
+1664,Hopkins Academy,5,1985
+1665,Little Middle School,7,2156
+1666,Chan High School,8,1090
+1667,Williams Academy,5,2769
+1668,Caldwell High School,6,139
+1669,Dorsey Academy,3,2130
+1670,Matthews Middle School,2,41
+1671,Allen Elementary,9,1448
+1672,Jenkins Elementary,9,2238
+1673,Warner Elementary,9,1967
+1674,Watts High School,7,1272
+1675,Hill High School,1,2776
+1676,Parker High School,9,456
+1677,Gilmore Elementary,6,2170
+1678,Wilkins Elementary,2,7
+1679,Allen Academy,8,2436
+1680,Clark Academy,5,1039
+1681,Ramirez Academy,7,326
+1682,Booker Middle School,8,2177
+1683,Ferguson Academy,7,795
+1684,Grant Academy,5,1592
+1685,Mcdowell High School,4,899
+1686,Santiago Middle School,5,1820
+1687,Green Academy,5,2352
+1688,Williams Academy,4,814
+1689,Perry Academy,10,606
+1690,Kelley Middle School,7,698
+1691,Wheeler Elementary,10,305
+1692,Thompson High School,1,743
+1693,Scott Middle School,8,1189
+1694,Henderson Middle School,9,2617
+1695,Harris Academy,4,1181
+1696,Rosales High School,1,1324
+1697,Craig Middle School,2,2459
+1698,Evans High School,1,1309
+1699,Allen Elementary,5,1939
+1700,Cooley Middle School,7,109
+1701,Leon Academy,10,1750
+1702,Yoder Middle School,10,312
+1703,Fowler High School,6,2407
+1704,Hicks Academy,8,968
+1705,Mckinney Academy,7,66
+1706,Chandler High School,10,471
+1707,Wood Elementary,8,1221
+1708,Dixon Academy,4,1593
+1709,Johnson Academy,6,840
+1710,Tucker Academy,9,2160
+1711,Wyatt High School,9,1845
+1712,Garcia High School,9,2440
+1713,Thomas High School,6,1855
+1714,Tran Elementary,4,464
+1715,Valenzuela High School,5,1082
+1716,Lee Academy,2,1783
+1717,Walker Middle School,10,1312
+1718,Hernandez Middle School,6,1962
+1719,Jones High School,8,1953
+1720,Reed Academy,5,971
+1721,Lopez Academy,3,326
+1722,Cooper Middle School,4,2080
+1723,Rodriguez High School,9,1865
+1724,Meyer Academy,6,1571
+1725,Logan Elementary,10,334
+1726,Clark Academy,6,1530
+1727,Campos Academy,10,2740
+1728,Clark Middle School,3,2993
+1729,Boyle Middle School,10,166
+1730,Castillo Elementary,1,1326
+1731,Collier Elementary,6,1175
+1732,Lopez High School,2,1795
+1733,Jones Middle School,7,1320
+1734,Luna High School,5,133
+1735,Wyatt High School,10,276
+1736,Brown Middle School,5,1241
+1737,Pacheco Middle School,5,1675
+1738,Shelton Middle School,8,423
+1739,Marshall Middle School,4,2499
+1740,Ryan Middle School,4,227
+1741,Bowen Academy,6,970
+1742,Olson Middle School,6,798
+1743,Harris High School,10,1935
+1744,Barnes High School,10,2747
+1745,Summers Elementary,10,1622
+1746,Carpenter Middle School,9,762
+1747,Jones Elementary,10,1653
+1748,Smith Elementary,9,2008
+1749,Brown Academy,6,2593
+1750,Brown Academy,9,2670
+1751,Davis Middle School,8,780
+1752,Mahoney Academy,7,1014
+1753,Kennedy Elementary,10,1921
+1754,Kim Academy,4,2380
+1755,Mitchell Middle School,7,1577
+1756,Cameron Academy,1,2332
+1757,Schneider Academy,10,2043
+1758,Brock High School,6,46
+1759,Douglas Elementary,5,1137
+1760,Thornton High School,1,1818
+1761,Logan Middle School,10,1638
+1762,Jackson Middle School,10,2988
+1763,Coleman Elementary,2,71
+1764,Hunter Academy,10,948
+1765,Cannon Middle School,3,1658
+1766,Lamb High School,3,1838
+1767,Owens Middle School,6,1187
+1768,Wright Academy,4,65
+1769,Luna High School,10,1247
+1770,Roth Elementary,6,1743
+1771,Blackburn Academy,2,278
+1772,Shelton Academy,8,1309
+1773,Foster Middle School,10,2258
+1774,Turner Academy,3,1139
+1775,Cunningham High School,9,371
+1776,Miller Academy,1,2073
+1777,Brown High School,1,2027
+1778,Carlson High School,6,822
+1779,Taylor Elementary,6,802
+1780,Saunders Academy,6,2534
+1781,Stewart Academy,3,1792
+1782,Nicholson Middle School,10,1520
+1783,Ramos Elementary,8,2860
+1784,Hobbs Elementary,6,337
+1785,Fitzpatrick Middle School,1,1675
+1786,Martinez Academy,8,745
+1787,Murphy Elementary,3,2191
+1788,Jones Elementary,6,1590
+1789,Weber Middle School,9,1843
+1790,Mitchell Elementary,3,1981
+1791,Wiggins High School,4,1843
+1792,Farley Middle School,2,1183
+1793,Wilkerson Middle School,5,346
+1794,Huffman Middle School,8,424
+1795,Snyder Academy,4,11
+1796,Bell Academy,4,2320
+1797,Garcia Elementary,9,1524
+1798,Perkins Middle School,1,1672
+1799,Carson High School,9,837
+1800,Cardenas Academy,9,507
+1801,Waters Academy,8,664
+1802,Mitchell Middle School,9,1617
+1803,Shelton Academy,6,2731
+1804,Wall Academy,1,1635
+1805,Garcia Academy,8,1522
+1806,Wilson High School,10,1458
+1807,Washington Academy,4,1340
+1808,Peterson High School,2,13
+1809,Hanson High School,8,1972
+1810,Stark Middle School,6,49
+1811,Carey High School,1,733
+1812,Snyder High School,9,2667
+1813,Bender Elementary,1,2574
+1814,Galloway High School,6,2166
+1815,Lee Academy,3,866
+1816,Murphy High School,8,2064
+1817,Cohen High School,6,1936
+1818,Camacho Middle School,1,2157
+1819,Robertson Elementary,3,1181
+1820,Garrett Elementary,1,1173
+1821,Hendricks Elementary,6,243
+1822,Long Academy,5,2376
+1823,Rogers Middle School,2,1664
+1824,Black Academy,1,2143
+1825,Moore Elementary,7,2788
+1826,Jordan Elementary,2,1407
+1827,Kennedy High School,7,1789
+1828,Cain Elementary,4,2654
+1829,Stevens High School,1,2887
+1830,Hodges High School,8,2718
+1831,Hayes High School,1,173
+1832,Lewis Elementary,5,1376
+1833,Patel High School,1,2625
+1834,Gonzalez Middle School,3,2565
+1835,Johnson Academy,1,1664
+1836,Hall Elementary,7,1271
+1837,Brown High School,10,992
+1838,Burnett High School,7,2659
+1839,Brandt High School,9,167
+1840,Jones Middle School,7,865
+1841,Beck Middle School,7,1200
+1842,Silva Academy,3,675
+1843,Roman High School,6,1333
+1844,Clark Elementary,8,158
+1845,Morrow Middle School,4,1432
+1846,Bauer Elementary,5,2634
+1847,Drake Middle School,5,1115
+1848,Brady Academy,7,2877
+1849,West Middle School,10,145
+1850,Garrett Elementary,1,1065
+1851,Yoder High School,4,2424
+1852,Brennan Elementary,5,2874
+1853,Shah Academy,8,2589
+1854,Page Middle School,6,428
+1855,Acosta High School,1,2816
+1856,Kerr Academy,2,1793
+1857,Williams Elementary,10,2374
+1858,Jacobson Academy,4,302
+1859,Gallagher Academy,1,2417
+1860,Johnson Elementary,7,1665
+1861,Elliott Elementary,4,73
+1862,Richardson Middle School,9,1205
+1863,Jones Academy,10,445
+1864,Hernandez Middle School,9,393
+1865,Scott High School,1,415
+1866,Shaw Academy,5,1334
+1867,Shaffer High School,7,1578
+1868,Mclaughlin Middle School,6,1799
+1869,Freeman Middle School,2,635
+1870,Howard High School,4,1728
+1871,Stephens Elementary,3,1808
+1872,Coleman Academy,10,2051
+1873,Stephens Academy,7,706
+1874,Cohen Middle School,10,1453
+1875,Hebert Academy,10,1266
+1876,Wright Academy,5,1491
+1877,Sanchez Elementary,9,246
+1878,Palmer Academy,2,1910
+1879,Larson Middle School,4,367
+1880,Crawford High School,8,386
+1881,Oneill Academy,1,1138
+1882,Jones Middle School,7,338
+1883,Carroll High School,5,1835
+1884,Wilson Elementary,7,1364
+1885,Murphy Elementary,5,1076
+1886,Marquez Elementary,6,760
+1887,Bailey Academy,5,1163
+1888,Powers High School,9,2593
+1889,Friedman Middle School,10,1697
+1890,Garcia High School,6,1053
+1891,Walker Elementary,10,470
+1892,Heath Middle School,8,2285
+1893,Osborn Elementary,5,2437
+1894,Young Academy,7,554
+1895,Patterson Elementary,10,776
+1896,Miller Middle School,8,1010
+1897,Richards Academy,6,675
+1898,Dunn High School,3,1947
+1899,Farrell Academy,1,2888
+1900,Cameron Academy,5,2703
+1901,Bush Elementary,5,1789
+1902,Simmons High School,5,14
+1903,Montgomery Middle School,7,2842
+1904,Coleman Elementary,4,1444
+1905,Lewis Middle School,5,635
+1906,Morrison High School,6,1399
+1907,Anderson Academy,2,2282
+1908,Stanton Middle School,3,1763
+1909,Daniels Middle School,2,852
+1910,Larson High School,2,2818
+1911,Peterson High School,6,297
+1912,Weber Elementary,10,2733
+1913,Solis High School,5,543
+1914,Miller High School,3,1972
+1915,Lynch High School,1,1507
+1916,Rodriguez Academy,9,2062
+1917,Blair Elementary,9,1122
+1918,Mathews Middle School,1,1797
+1919,Rivera Middle School,8,295
+1920,Holmes Middle School,7,771
+1921,Kennedy Middle School,5,134
+1922,Dawson Middle School,10,868
+1923,Oconnor Academy,9,432
+1924,Park Middle School,3,1666
+1925,Vincent Academy,3,1849
+1926,Harris Middle School,4,634
+1927,Bennett Academy,3,1839
+1928,Thomas Academy,7,1799
+1929,Robinson High School,7,2517
+1930,Rodgers High School,9,2084
+1931,Sims Elementary,10,2600
+1932,Brady High School,7,2202
+1933,Crawford Academy,8,1206
+1934,Schultz Middle School,10,1186
+1935,Fisher High School,10,2501
+1936,Melendez Middle School,2,825
+1937,Bond Academy,8,1420
+1938,Martinez Academy,3,2981
+1939,Perkins Academy,7,2067
+1940,Weaver High School,10,19
+1941,Wallace High School,4,1657
+1942,Orr Academy,8,2647
+1943,Bell Middle School,3,131
+1944,Carter Middle School,2,1626
+1945,Tucker Elementary,4,440
+1946,Hopkins Academy,8,2445
+1947,Jacobs Elementary,6,997
+1948,Thomas High School,1,850
+1949,Hurley Middle School,4,818
+1950,Hardin Elementary,6,2723
+1951,Butler Elementary,9,65
+1952,Riley Elementary,7,1650
+1953,Choi High School,9,47
+1954,Nixon Middle School,4,1735
+1955,Holt Middle School,9,239
+1956,Hubbard Elementary,10,910
+1957,Buchanan High School,4,295
+1958,Martin Elementary,6,1131
+1959,Wood Middle School,10,1983
+1960,Cantrell Elementary,6,1986
+1961,Sampson Middle School,5,355
+1962,Morgan High School,10,346
+1963,Wright Elementary,7,1747
+1964,Morris Elementary,9,1722
+1965,Bailey Middle School,4,2932
+1966,Jones Academy,6,245
+1967,Johnson High School,7,156
+1968,Yates Middle School,7,2675
+1969,Oneal Middle School,3,1274
+1970,Silva Academy,9,2618
+1971,Jones Middle School,3,1380
+1972,Alexander Elementary,9,2853
+1973,Perez Middle School,7,2627
+1974,Estrada Elementary,4,1382
+1975,Fisher Elementary,7,514
+1976,Mendoza Elementary,1,2169
+1977,Perez High School,1,317
+1978,Sharp High School,8,2514
+1979,Brown Academy,1,1617
+1980,Rogers Middle School,10,2145
+1981,King Elementary,1,2312
+1982,Mckinney Academy,6,754
+1983,Peterson Academy,9,1621
+1984,Walls Academy,6,204
+1985,Conway Middle School,7,2263
+1986,Cline Elementary,7,2283
+1987,Chapman Middle School,2,1192
+1988,Evans Elementary,8,926
+1989,Campbell Academy,4,221
+1990,Hayden Academy,2,1150
+1991,Wang Middle School,10,74
+1992,Waller Middle School,10,42
+1993,Davidson Middle School,1,214
+1994,Fischer High School,7,726
+1995,Murphy Academy,1,1976
+1996,Allen Elementary,3,2671
+1997,Cook High School,8,1170
+1998,Shaw High School,8,2555
+1999,Smith Middle School,2,947
+2000,Torres Middle School,8,936
+2001,Rose Elementary,6,714
+2002,Mueller Middle School,10,849
+2003,Bennett Middle School,3,2355
+2004,Stevens Academy,3,1344
+2005,Smith High School,1,460
+2006,Ferguson High School,10,2748
+2007,Taylor Middle School,9,2802
+2008,Williams High School,8,1507
+2009,Jones High School,4,2626
+2010,Smith Elementary,9,2200
+2011,Dominguez Academy,5,1479
+2012,Wright High School,8,2237
+2013,Heath Elementary,1,1948
+2014,Bailey Middle School,5,1756
+2015,Pearson Middle School,7,1684
+2016,Taylor Middle School,8,1436
+2017,Nelson High School,6,2656
+2018,Munoz Elementary,5,1378
+2019,Smith Middle School,9,2019
+2020,Campbell High School,1,56
+2021,Rivera Academy,8,129
+2022,Smith Elementary,4,474
+2023,Ryan Academy,3,390
+2024,Davis Elementary,4,1486
+2025,Williams Elementary,5,791
+2026,Scott Middle School,4,451
+2027,Day High School,7,2379
+2028,Rogers Academy,5,76
+2029,Clark Elementary,1,342
+2030,Smith High School,7,127
+2031,Thompson Elementary,10,2774
+2032,Stout Middle School,4,1339
+2033,Baker Middle School,1,1781
+2034,Kirby Middle School,3,1570
+2035,Li Elementary,10,849
+2036,Jones Elementary,7,1132
+2037,Lang Middle School,7,1633
+2038,Miller Middle School,4,480
+2039,Brown Academy,2,1200
+2040,Thompson Elementary,9,640
+2041,Brown Middle School,2,32
+2042,Rodriguez Elementary,8,352
+2043,Martin Academy,2,2467
+2044,Martinez High School,6,1906
+2045,Solomon High School,1,1370
+2046,Long Elementary,10,2728
+2047,Irwin High School,1,2270
+2048,Johnson Elementary,10,2908
+2049,Gill Elementary,1,1363
+2050,Cox Academy,8,954
+2051,Davis High School,3,1709
+2052,Spencer Middle School,6,2450
+2053,Haley High School,2,1933
+2054,Yang Academy,4,1481
+2055,Deleon Middle School,5,449
+2056,Smith Middle School,1,615
+2057,Pena Middle School,9,1542
+2058,Daniel Academy,2,223
+2059,Graham Academy,7,1338
+2060,Wu Academy,1,691
+2061,Nash High School,10,687
+2062,Hanson Middle School,6,1826
+2063,Carroll Academy,8,1178
+2064,Colon Elementary,5,2376
+2065,Clayton Elementary,6,1929
+2066,Mitchell Elementary,8,1381
+2067,Berry Middle School,3,527
+2068,Wiley Academy,10,2532
+2069,Krause Academy,6,669
+2070,Cox Academy,2,1294
+2071,Goodman Academy,9,2558
+2072,Morris Elementary,7,2985
+2073,Rogers Middle School,2,1956
+2074,Osborne Elementary,6,465
+2075,Anderson Elementary,2,1058
+2076,Lopez Middle School,5,476
+2077,Huang Middle School,5,2875
+2078,Avery High School,6,1251
+2079,Lawrence Academy,8,889
+2080,Anderson Elementary,4,1818
+2081,Henry Elementary,8,2925
+2082,Ortiz High School,2,2349
+2083,Olson Elementary,7,1648
+2084,Miller High School,5,1301
+2085,Miller Elementary,9,1442
+2086,Blanchard Academy,1,787
+2087,Norris High School,1,501
+2088,Obrien Elementary,8,1652
+2089,Holt Elementary,8,119
+2090,Nicholson Academy,2,845
+2091,Landry Elementary,2,425
+2092,King Middle School,8,874
+2093,Grimes Middle School,2,2723
+2094,Benton Elementary,8,665
+2095,Vargas Elementary,4,1303
+2096,Garza Academy,10,1560
+2097,Berger High School,7,1064
+2098,Manning Elementary,1,261
+2099,Morris Elementary,6,1191
+2100,Johnson Middle School,7,2961
+2101,Walker Elementary,8,2265
+2102,Wilson Middle School,5,308
+2103,Young Elementary,7,1148
+2104,Jones Middle School,5,2821
+2105,Williamson Middle School,5,2707
+2106,Combs Elementary,2,1039
+2107,Hill Academy,6,1195
+2108,Smith Academy,7,592
+2109,Lee High School,9,598
+2110,Meyers Middle School,4,256
+2111,Marquez Academy,5,518
+2112,Beck Elementary,2,1732
+2113,Ryan High School,7,225
+2114,Cabrera Middle School,9,2448
+2115,Burns High School,2,2572
+2116,Williams High School,10,610
+2117,Patel Middle School,5,2824
+2118,Lutz Academy,7,1305
+2119,Edwards Middle School,2,2029
+2120,Stephenson High School,7,1054
+2121,Woodard High School,4,957
+2122,Miller Elementary,7,1108
+2123,Ramos High School,1,1762
+2124,Gonzalez Elementary,6,2645
+2125,Gonzales High School,2,394
+2126,Miller Middle School,8,2676
+2127,Evans Elementary,4,2630
+2128,Anderson High School,7,992
+2129,Lester Elementary,1,2034
+2130,Johnson Elementary,8,2194
+2131,Cunningham Academy,10,2804
+2132,Adkins High School,8,1540
+2133,Logan Elementary,2,2284
+2134,Arnold Middle School,1,1124
+2135,Lewis Elementary,6,2597
+2136,Sanchez High School,5,2001
+2137,Collins High School,8,985
+2138,Montoya Middle School,5,2876
+2139,Taylor Middle School,6,2681
+2140,Fisher Academy,4,1770
+2141,Lewis Academy,1,385
+2142,Miller Academy,9,1476
+2143,Marquez Middle School,6,989
+2144,Hernandez Elementary,8,1310
+2145,Skinner Elementary,5,17
+2146,Bryant Middle School,8,76
+2147,Clarke Elementary,2,2124
+2148,Park High School,10,1630
+2149,Willis Academy,5,2639
+2150,Schultz Elementary,10,1469
+2151,Atkinson Middle School,10,88
+2152,Brown High School,6,134
+2153,Stephens High School,8,2337
+2154,Reyes Middle School,9,277
+2155,Hernandez High School,8,2990
+2156,Fernandez Middle School,7,1632
+2157,Jackson Elementary,7,842
+2158,Weaver Middle School,5,316
+2159,Johnson Academy,2,371
+2160,Martinez High School,5,145
+2161,Holt Academy,3,1999
+2162,Carney Elementary,9,2183
+2163,Mullen Elementary,7,2058
+2164,Gomez Middle School,2,503
+2165,Vega Middle School,2,1886
+2166,Rodriguez High School,10,572
+2167,Williams Middle School,3,859
+2168,Bowman Middle School,2,760
+2169,Jones High School,7,1991
+2170,Johnson Academy,3,1419
+2171,Fleming Elementary,4,2127
+2172,Morgan High School,7,505
+2173,Miller Academy,3,2823
+2174,Nelson Academy,2,1070
+2175,Morton Elementary,4,1144
+2176,Hill Middle School,8,2674
+2177,Gamble Academy,4,590
+2178,Wilson Middle School,6,2665
+2179,Ware Academy,4,2866
+2180,Shepard Academy,5,737
+2181,Martinez Elementary,5,2960
+2182,Nguyen Middle School,1,2496
+2183,Little High School,3,143
+2184,Walls Academy,10,977
+2185,Harmon Academy,5,459
+2186,Hall High School,9,1866
+2187,Ray Elementary,10,2904
+2188,Irwin High School,3,1403
+2189,Morales Elementary,6,2321
+2190,Ho Middle School,6,927
+2191,Rosario Elementary,10,1492
+2192,Hunter High School,9,2014
+2193,Reyes Academy,10,2893
+2194,Lewis Middle School,7,1210
+2195,James Middle School,8,864
+2196,Haynes Academy,10,1427
+2197,Parker Academy,3,912
+2198,Morrison Elementary,7,2790
+2199,Nixon Elementary,3,2388
+2200,Fuentes Middle School,2,981
+2201,Robertson High School,2,418
+2202,Estrada Elementary,4,2686
+2203,Ayala Middle School,1,438
+2204,Choi Elementary,8,1345
+2205,Johnson Middle School,6,2771
+2206,Smith Elementary,3,1066
+2207,Duncan Academy,10,1143
+2208,Hale High School,2,699
+2209,Hawkins Middle School,3,2988
+2210,Campbell Middle School,3,935
+2211,Williams Middle School,1,2285
+2212,Gallegos Academy,4,2146
+2213,Hampton High School,8,243
+2214,Smith High School,4,2396
+2215,Carney Elementary,4,1967
+2216,Reid Elementary,9,1447
+2217,Burke Academy,9,841
+2218,Nunez Academy,10,695
+2219,Bonilla Elementary,4,458
+2220,Little Academy,9,762
+2221,Jones Middle School,7,2661
+2222,Estrada Elementary,9,27
+2223,White Middle School,8,277
+2224,Aguilar High School,2,2559
+2225,Perry Middle School,2,1840
+2226,Herman High School,5,2927
+2227,Patterson Middle School,9,13
+2228,Brooks Middle School,8,2614
+2229,Bender High School,8,948
+2230,Newman Elementary,2,915
+2231,Baker Middle School,8,251
+2232,Wright High School,10,1092
+2233,Byrd Academy,3,1255
+2234,Stevens High School,6,1264
+2235,Padilla Elementary,8,2000
+2236,Clarke Elementary,1,1315
+2237,Collins Middle School,6,1319
+2238,Robertson Middle School,4,1081
+2239,Sharp Elementary,2,2094
+2240,Bailey Elementary,9,734
+2241,Hart Middle School,9,1319
+2242,Macdonald Elementary,3,2987
+2243,Riggs High School,8,1972
+2244,Cooper Middle School,6,2112
+2245,Price Academy,6,898
+2246,Watts Academy,2,1521
+2247,Ayala Academy,5,411
+2248,Garcia High School,4,887
+2249,Peters Elementary,8,67
+2250,Hunt Academy,7,1705
+2251,Boyd Academy,1,2641
+2252,Jordan Academy,4,955
+2253,Hughes Elementary,2,2348
+2254,Scott Elementary,7,2855
+2255,Delacruz Elementary,2,2418
+2256,Smith High School,6,903
+2257,Anderson Elementary,10,1004
+2258,Rodriguez Academy,4,2976
+2259,Evans Elementary,4,1048
+2260,Morrow Elementary,4,1998
+2261,Vance Academy,10,317
+2262,Willis Academy,1,881
+2263,Miller Academy,10,2585
+2264,Black Middle School,1,1697
+2265,Smith Elementary,9,2379
+2266,Levy Middle School,1,60
+2267,Humphrey High School,6,2120
+2268,Simmons Middle School,1,1954
+2269,Andrade Middle School,2,1603
+2270,Watson Middle School,5,1839
+2271,Love High School,3,1223
+2272,Foster Academy,9,1106
+2273,Riley Academy,4,604
+2274,Klein High School,6,249
+2275,Thomas Academy,6,551
+2276,Hall Elementary,6,2935
+2277,Thompson Middle School,7,1807
+2278,Rodriguez Elementary,3,100
+2279,Cantrell Academy,3,2983
+2280,Garcia Elementary,10,1416
+2281,Bullock Academy,9,2710
+2282,Haas Elementary,4,1286
+2283,Mays High School,1,2201
+2284,Jones Elementary,10,2476
+2285,Silva Academy,9,1078
+2286,Jacobson High School,6,1784
+2287,Hughes High School,8,2856
+2288,Lyons Elementary,8,1080
+2289,Andrews High School,3,138
+2290,Palmer High School,5,228
+2291,Knight High School,2,1516
+2292,Williams High School,7,1984
+2293,Ryan High School,1,2311
+2294,Hughes Middle School,1,480
+2295,Delgado Academy,8,1295
+2296,Cohen Middle School,1,99
+2297,Smith Elementary,4,1055
+2298,Parker Elementary,5,137
+2299,Lynn High School,9,214
+2300,Bowers Academy,8,79
+2301,Warren Elementary,5,1114
+2302,Little Academy,6,1268
+2303,Oconnor High School,1,201
+2304,Miller Elementary,1,1204
+2305,Cruz Elementary,1,1200
+2306,Larsen Academy,5,1470
+2307,Johnson High School,10,1893
+2308,Ruiz Academy,9,865
+2309,Simon High School,9,1806
+2310,Sanchez High School,3,1480
+2311,Curtis Academy,1,1156
+2312,Berry Middle School,5,1624
+2313,Gomez Academy,3,1296
+2314,Lamb Academy,7,248
+2315,Cook Elementary,4,2173
+2316,Lewis Elementary,8,2468
+2317,Erickson High School,2,366
+2318,Gamble Elementary,3,2735
+2319,Taylor Elementary,7,1446
+2320,Riley Middle School,6,246
+2321,Banks Elementary,6,2319
+2322,Ross High School,10,93
+2323,Whitaker High School,4,446
+2324,Bell High School,1,1799
+2325,Fuller Elementary,8,1052
+2326,Navarro Elementary,7,2801
+2327,Mayo High School,8,1984
+2328,Castillo Academy,4,416
+2329,Herrera Elementary,4,641
+2330,Myers Middle School,2,2392
+2331,Mitchell Academy,7,1933
+2332,Chambers Elementary,3,1484
+2333,Patterson High School,7,409
+2334,Park Academy,9,1041
+2335,Rose High School,5,1556
+2336,Silva Academy,5,1497
+2337,Ball Middle School,5,2799
+2338,Collins High School,2,2721
+2339,Wolf Middle School,3,2083
+2340,Sanford Elementary,2,992
+2341,Lee Academy,3,1114
+2342,Martinez High School,8,2918
+2343,Krause Middle School,10,1875
+2344,Lang High School,10,379
+2345,Avery High School,5,2172
+2346,King High School,1,21
+2347,Salazar High School,7,1392
+2348,Anderson High School,7,962
+2349,Bailey Middle School,5,2296
+2350,Olsen Academy,9,75
+2351,Palmer Academy,4,1960
+2352,Young Academy,8,1713
+2353,Adams High School,10,1926
+2354,Mcguire Middle School,8,2176
+2355,Cruz Elementary,6,1017
+2356,Morse High School,3,1437
+2357,Webb Elementary,10,409
+2358,Davis Academy,2,1735
+2359,Fischer Middle School,9,2342
+2360,Wilkinson Academy,5,1809
+2361,Collins Academy,8,1772
+2362,Ayers Academy,7,235
+2363,Long Elementary,10,494
+2364,Thompson Middle School,6,671
+2365,Hawkins Academy,5,517
+2366,Hartman High School,10,2695
+2367,Perry Middle School,2,1837
+2368,Williams Academy,10,2033
+2369,Brown Elementary,9,1455
+2370,Middleton Academy,8,1305
+2371,Weaver Elementary,1,2574
+2372,Herrera High School,7,871
+2373,Tucker Academy,8,191
+2374,Blevins High School,5,1825
+2375,Roy Academy,8,455
+2376,Herrera High School,1,1456
+2377,Fleming Academy,8,227
+2378,Hartman Middle School,6,75
+2379,Smith Elementary,6,1510
+2380,Contreras High School,5,2531
+2381,Davis High School,1,2622
+2382,Gonzalez High School,8,1327
+2383,Cole Middle School,6,1596
+2384,Stafford Middle School,8,1059
+2385,Schmidt High School,9,1103
+2386,Roberson High School,6,1380
+2387,Davis Academy,7,2758
+2388,Garcia Academy,4,992
+2389,Sosa High School,5,753
+2390,Richardson Elementary,6,109
+2391,Clark High School,4,41
+2392,Wyatt Academy,3,1927
+2393,Brown Academy,3,2163
+2394,Daniels Middle School,8,1594
+2395,Trevino High School,9,2279
+2396,Adams Academy,1,2939
+2397,Brown High School,3,2643
+2398,Hernandez Academy,7,94
+2399,Johnson Middle School,7,1736
+2400,Pineda Elementary,3,1904
+2401,Bradley Academy,5,1083
+2402,Sanchez Middle School,10,1170
+2403,Moyer Middle School,6,190
+2404,May Elementary,8,2471
+2405,Dalton Academy,2,1771
+2406,Jackson High School,4,1959
+2407,Wells Academy,8,2789
+2408,Spencer High School,3,1140
+2409,Stone Academy,2,1721
+2410,Torres High School,10,265
+2411,Allen Elementary,7,791
+2412,Valentine Academy,10,1367
+2413,Jackson Elementary,8,712
+2414,Bass High School,10,721
+2415,Thomas High School,1,406
+2416,Robinson Academy,10,303
+2417,Holder High School,7,2512
+2418,Garcia Academy,9,254
+2419,Stewart Academy,10,2088
+2420,Keller Middle School,4,220
+2421,Rodriguez Academy,1,87
+2422,Williams Elementary,4,884
+2423,Taylor High School,10,76
+2424,Greer Middle School,4,1968
+2425,Gay High School,4,729
+2426,Wise Academy,10,2934
+2427,Gonzalez Middle School,5,2554
+2428,Hicks High School,2,2262
+2429,James Elementary,2,2854
+2430,Owens Academy,10,2617
+2431,Ford High School,10,2512
+2432,Galvan Elementary,2,2642
+2433,Allen Middle School,10,1231
+2434,Thompson Academy,5,162
+2435,Thornton Middle School,2,439
+2436,Beard Middle School,9,1893
+2437,Baker Elementary,5,1781
+2438,Gonzalez High School,10,1430
+2439,Rush Elementary,2,2677
+2440,Guerrero Middle School,1,773
+2441,Hardy Middle School,10,244
+2442,Davis High School,10,1577
+2443,Burke Academy,7,2648
+2444,Duran High School,3,889
+2445,Patrick High School,4,2285
+2446,Simon Middle School,8,1464
+2447,Hunt High School,3,2171
+2448,Hoffman High School,7,993
+2449,Huff Academy,8,989
+2450,Walker High School,9,2581
+2451,Holloway High School,1,998
+2452,Bauer Elementary,3,1838
+2453,Ayers Academy,3,2801
+2454,Washington Elementary,8,2358
+2455,Meyers Middle School,2,1643
+2456,Moreno Middle School,6,191
+2457,Kim High School,6,811
+2458,Werner Middle School,7,1817
+2459,Butler Middle School,5,2682
+2460,Sanders High School,9,1008
+2461,Andersen Academy,3,1617
+2462,White Academy,8,2414
+2463,Gordon Middle School,9,2728
+2464,Becker High School,10,325
+2465,Wallace Middle School,9,1787
+2466,Turner Academy,3,2075
+2467,Andrade Academy,8,1054
+2468,Howe Academy,9,1572
+2469,Harvey Elementary,1,1207
+2470,Robbins Elementary,8,1555
+2471,Ingram Middle School,10,1545
+2472,Allen Academy,6,749
+2473,Martin High School,2,1298
+2474,Richardson Academy,4,305
+2475,Hendrix Elementary,3,75
+2476,Rosario High School,1,1081
+2477,Oliver Elementary,1,1885
+2478,Moore Elementary,10,283
+2479,Howe Middle School,10,1147
+2480,Pham Middle School,4,1870
+2481,Phillips Elementary,3,1730
+2482,Roach High School,8,2168
+2483,Olson Elementary,5,2541
+2484,Wiggins Academy,4,1465
+2485,Mason High School,1,324
+2486,Armstrong Middle School,6,857
+2487,Johnson Elementary,2,125
+2488,Davis Elementary,6,2094
+2489,Williams High School,6,1621
+2490,Velez Academy,4,376
+2491,Patterson Middle School,8,236
+2492,Carney Elementary,2,2721
+2493,Malone Academy,5,2324
+2494,Whitney Middle School,2,1848
+2495,Fields High School,7,114
+2496,Davis Academy,4,28
+2497,Rice Middle School,2,2891
+2498,Nelson Academy,4,1857
+2499,Palmer Middle School,4,2440
+2500,Williams Academy,1,342
+2501,Wolfe Elementary,2,2706
+2502,Smith High School,10,704
+2503,Chaney Academy,3,315
+2504,Walker Middle School,3,2974
+2505,Porter High School,1,1
+2506,Lee Academy,2,855
+2507,Powell Academy,6,1106
+2508,Fisher Academy,7,218
+2509,Greene Middle School,6,349
+2510,Greene High School,4,1399
+2511,Foster Elementary,5,1930
+2512,Riggs Elementary,2,2282
+2513,Price Elementary,1,1241
+2514,Simpson High School,1,340
+2515,Anderson High School,4,287
+2516,Holmes Elementary,10,1344
+2517,Smith Academy,1,619
+2518,Payne Academy,7,2460
+2519,Boyd Middle School,5,2026
+2520,Dickerson Academy,10,1791
+2521,Joyce Academy,1,1341
+2522,Shepherd High School,9,1362
+2523,Hudson Academy,3,1298
+2524,Chen Academy,6,34
+2525,Sanders High School,3,736
+2526,Williams High School,7,1069
+2527,Cantrell Elementary,7,2420
+2528,Oliver High School,9,1700
+2529,Morrison Elementary,8,1383
+2530,Foster High School,2,2123
+2531,Jackson Middle School,8,2044
+2532,Brown Elementary,2,1230
+2533,Payne Elementary,7,228
+2534,Perry High School,9,87
+2535,Pineda Elementary,10,2045
+2536,Galloway High School,6,2008
+2537,Green Elementary,9,698
+2538,Green Academy,8,2247
+2539,Francis Academy,6,192
+2540,Fox High School,5,1187
+2541,Glass Elementary,5,1143
+2542,Fisher Middle School,10,1068
+2543,Wilkins Middle School,7,2023
+2544,Mcmahon Elementary,9,2207
+2545,Owens Elementary,6,179
+2546,Williams Elementary,6,508
+2547,Serrano Middle School,8,2741
+2548,Bailey Academy,3,1683
+2549,Jimenez High School,10,1820
+2550,Stuart Elementary,5,586
+2551,Taylor High School,2,1684
+2552,Sanders Elementary,5,614
+2553,Nguyen Elementary,8,1566
+2554,Martin Elementary,8,2677
+2555,Bailey Elementary,1,1758
+2556,Obrien Elementary,5,901
+2557,Santiago Academy,6,2363
+2558,Chase Academy,3,2752
+2559,Poole Middle School,10,2665
+2560,Taylor Academy,7,1684
+2561,Barrett Elementary,1,1282
+2562,Collins High School,2,1881
+2563,Mcintosh Elementary,6,155
+2564,Wall Elementary,8,1772
+2565,Larson Elementary,2,2818
+2566,Smith Academy,6,455
+2567,Mendoza Elementary,1,1839
+2568,Lopez Academy,9,1026
+2569,Smith Middle School,9,1164
+2570,Mora High School,6,1871
+2571,Young Academy,2,2169
+2572,White Academy,8,1976
+2573,Duran Elementary,7,1753
+2574,Cohen Academy,3,2819
+2575,Lane Elementary,10,2975
+2576,Daniel Middle School,3,2267
+2577,Parsons Middle School,5,2402
+2578,Esparza Elementary,5,841
+2579,Glenn Elementary,10,619
+2580,Hawkins Elementary,6,649
+2581,Haley Academy,3,1490
+2582,Bates Academy,9,910
+2583,Conley Middle School,7,1900
+2584,Price High School,1,2146
+2585,Shepherd Elementary,3,2814
+2586,Harper Elementary,6,2429
+2587,Jenkins High School,5,2819
+2588,Cox Academy,7,2421
+2589,Brown Elementary,2,723
+2590,Bullock Middle School,6,1659
+2591,Ramos Middle School,1,2180
+2592,Pearson Middle School,7,394
+2593,French Elementary,9,2211
+2594,Brown Elementary,3,1466
+2595,Wilson Academy,1,287
+2596,Morris Academy,3,2940
+2597,Fox Elementary,7,2943
+2598,Wilson Middle School,8,256
+2599,Wells Middle School,6,1381
+2600,Fox High School,10,433
+2601,Miller High School,2,1604
+2602,Ward Academy,7,315
+2603,Mueller Academy,7,622
+2604,Leblanc Academy,6,2219
+2605,Ortiz Academy,4,1581
+2606,Lopez Elementary,3,1474
+2607,Mills Middle School,7,2104
+2608,Marsh Academy,4,592
+2609,Page Elementary,10,607
+2610,Gonzales Middle School,6,1131
+2611,Tucker High School,1,2252
+2612,Adkins Elementary,7,2517
+2613,Lewis High School,1,2509
+2614,Rodriguez Academy,9,1897
+2615,Moore Middle School,9,2040
+2616,Webb Elementary,9,820
+2617,Evans High School,2,230
+2618,Yang Elementary,1,1791
+2619,Campbell Academy,6,2212
+2620,Strickland High School,9,1177
+2621,Mason Middle School,10,948
+2622,Phillips Elementary,1,1134
+2623,Hawkins Academy,1,923
+2624,Chandler High School,7,6
+2625,Wright Academy,1,1573
+2626,Johnston High School,10,2799
+2627,Elliott Middle School,8,1528
+2628,Davis Elementary,5,1158
+2629,Hickman Academy,10,209
+2630,Carter High School,9,994
+2631,Moore Elementary,5,1925
+2632,Jackson Elementary,3,2002
+2633,Williams Elementary,3,1866
+2634,Dalton Academy,5,1509
+2635,Odom Elementary,4,18
+2636,Barnett Elementary,6,2583
+2637,Peck Elementary,2,2553
+2638,Johnson High School,8,1346
+2639,Oneill High School,8,860
+2640,Stout Elementary,9,1159
+2641,Norris Middle School,8,1260
+2642,Allen Elementary,7,656
+2643,Peterson Middle School,9,1334
+2644,James Elementary,8,671
+2645,Chambers High School,6,917
+2646,Gallagher Middle School,1,1518
+2647,Gentry Middle School,9,1478
+2648,Jones Elementary,6,1515
+2649,Guzman Elementary,2,773
+2650,Baker High School,3,1036
+2651,Nguyen Academy,2,377
+2652,Rodgers Academy,9,2090
+2653,Wang Academy,6,56
+2654,Flores High School,2,854
+2655,Cox Elementary,9,2602
+2656,Hill High School,2,2101
+2657,Benson Elementary,6,380
+2658,Chavez High School,2,521
+2659,Roman Elementary,1,2018
+2660,Randall High School,1,1126
+2661,Saunders High School,2,1357
+2662,Higgins Academy,10,2473
+2663,Dunn Middle School,4,631
+2664,Nelson Academy,7,2868
+2665,Mcdonald Middle School,7,2301
+2666,Marsh High School,8,927
+2667,Smith Academy,10,832
+2668,Ferguson Elementary,10,618
+2669,Vang High School,3,835
+2670,Frank Elementary,7,210
+2671,Simmons High School,7,814
+2672,Camacho Academy,1,1798
+2673,Murphy Elementary,3,1236
+2674,Newton Elementary,4,1955
+2675,Anderson Middle School,10,1217
+2676,Thomas Elementary,3,2643
+2677,Ramirez High School,9,285
+2678,Woods Middle School,7,1595
+2679,Richardson High School,4,1765
+2680,Watts High School,4,1752
+2681,Chambers High School,4,345
+2682,Moore High School,6,2839
+2683,Gomez High School,6,1724
+2684,Edwards Elementary,6,130
+2685,Adams High School,2,1203
+2686,Myers Academy,4,2676
+2687,Hicks Elementary,9,1834
+2688,Cox Academy,7,935
+2689,Rios Middle School,1,528
+2690,Strickland Middle School,1,1152
+2691,Rodriguez Middle School,4,986
+2692,Fletcher Middle School,9,2152
+2693,Brennan Middle School,2,2710
+2694,Flowers Academy,1,595
+2695,Cochran High School,1,2501
+2696,Joseph Middle School,8,67
+2697,Williams High School,1,100
+2698,Kaiser High School,4,2238
+2699,Adams Academy,7,1757
+2700,Reynolds High School,8,165
+2701,Kelly Academy,3,1593
+2702,Gonzalez Elementary,3,1901
+2703,Henderson High School,8,2074
+2704,Kelley Academy,7,830
+2705,Garcia Academy,9,119
+2706,Mitchell High School,4,1989
+2707,Robinson Middle School,9,238
+2708,Sweeney Middle School,4,778
+2709,Noble Elementary,10,1886
+2710,Barnett Elementary,2,2494
+2711,Fleming Middle School,5,1902
+2712,Hansen Academy,1,2585
+2713,Ross Academy,6,407
+2714,Bowen Academy,3,428
+2715,Thomas Elementary,10,2077
+2716,Contreras Academy,4,1654
+2717,Bean Academy,9,2809
+2718,Johnson Middle School,9,2658
+2719,Johnson Elementary,7,2231
+2720,Chen Academy,1,57
+2721,Carr Academy,7,2066
+2722,Thomas Elementary,3,1993
+2723,Smith Elementary,5,2978
+2724,Dalton Middle School,6,704
+2725,Zavala High School,7,1322
+2726,Quinn Elementary,7,2237
+2727,Morris Elementary,8,2445
+2728,Hanson Middle School,3,2586
+2729,Mcbride High School,2,2728
+2730,Scott Academy,10,1814
+2731,White Elementary,4,506
+2732,Benjamin Elementary,9,256
+2733,Callahan Middle School,5,2289
+2734,Austin Elementary,10,2237
+2735,Gordon High School,5,1055
+2736,Smith Academy,9,2350
+2737,Allen Elementary,5,2188
+2738,Pearson Middle School,4,1045
+2739,Williams Academy,6,2209
+2740,Taylor Academy,8,2599
+2741,Watts Middle School,7,246
+2742,Gonzalez Middle School,2,887
+2743,Maddox Elementary,9,2817
+2744,Robinson Elementary,7,2881
+2745,Mckay Academy,7,1220
+2746,Mccarthy Elementary,6,2622
+2747,Walker Academy,5,912
+2748,Fields Elementary,9,2043
+2749,Reilly Elementary,4,1824
+2750,Cannon Middle School,6,2892
+2751,Leon Middle School,8,438
+2752,Hernandez Middle School,7,2155
+2753,Gilbert Academy,1,1177
+2754,Doyle Elementary,6,1311
+2755,King Academy,9,2608
+2756,Howard Elementary,4,2588
+2757,Roy Academy,4,2927
+2758,Trevino Elementary,5,685
+2759,Tyler Elementary,8,2739
+2760,Clark High School,7,564
+2761,Stewart High School,8,2434
+2762,Scott High School,5,1009
+2763,Santos Middle School,2,2035
+2764,Garcia Middle School,8,926
+2765,Shaffer Elementary,6,2660
+2766,Fisher Academy,7,1781
+2767,Wood Middle School,1,2163
+2768,Hanson High School,1,1805
+2769,Johnson High School,7,1037
+2770,Snyder Elementary,2,1361
+2771,Long Academy,8,1206
+2772,Larson Academy,7,569
+2773,Jensen Elementary,10,2517
+2774,Mason Academy,9,2713
+2775,Griffith High School,7,1405
+2776,Jackson Middle School,6,1408
+2777,Cooper High School,3,1078
+2778,Robertson High School,9,1729
+2779,Garcia Academy,8,715
+2780,Freeman Middle School,10,2487
+2781,Reid Elementary,8,664
+2782,Morgan Middle School,7,1935
+2783,Fox High School,1,1776
+2784,Pierce Elementary,2,1288
+2785,Morris High School,2,933
+2786,Phelps Middle School,8,2938
+2787,Mcbride Middle School,9,1668
+2788,Miller Middle School,4,2524
+2789,Hansen Middle School,4,2198
+2790,Frank Academy,3,636
+2791,Sweeney High School,5,1734
+2792,Lee Academy,3,2307
+2793,Garcia Academy,7,356
+2794,Watkins Elementary,4,1477
+2795,Phillips Academy,6,2037
+2796,Graham High School,9,213
+2797,Wood High School,4,2010
+2798,Kennedy Elementary,5,2375
+2799,Owens Middle School,7,597
+2800,Salas Academy,4,2568
+2801,Miller High School,1,2653
+2802,Myers Academy,1,215
+2803,Mccormick Elementary,3,1753
+2804,Gilmore Academy,5,1599
+2805,Benjamin Elementary,10,1778
+2806,Cardenas Elementary,5,2478
+2807,Nichols Elementary,10,343
+2808,Gonzalez Elementary,1,2447
+2809,Anderson Elementary,7,1607
+2810,Jones High School,10,1324
+2811,Gibbs High School,6,1274
+2812,Hancock Middle School,1,224
+2813,Russell Elementary,8,2126
+2814,Schneider High School,7,534
+2815,Snyder Academy,5,2666
+2816,Pace Middle School,1,2649
+2817,Smith High School,3,2925
+2818,Simmons Middle School,6,2725
+2819,Peters Academy,4,232
+2820,Conway Academy,4,647
+2821,Lewis Elementary,7,1626
+2822,Hughes High School,7,2333
+2823,Mora Elementary,1,1833
+2824,Luna Elementary,9,2781
+2825,Green Academy,2,484
+2826,Williams Academy,2,875
+2827,Davies High School,1,2619
+2828,Freeman Middle School,6,138
+2829,Choi Elementary,7,1105
+2830,Gillespie Middle School,3,1878
+2831,Green Academy,5,1005
+2832,Schneider High School,10,2648
+2833,Gutierrez High School,7,1387
+2834,Skinner Middle School,7,2760
+2835,Bernard High School,1,1311
+2836,Parks Middle School,5,2045
+2837,Garcia Academy,5,326
+2838,Thomas Elementary,7,61
+2839,Thompson Middle School,9,1532
+2840,Mueller High School,4,2938
+2841,Clayton Academy,6,1472
+2842,Perkins Academy,6,2310
+2843,Green Middle School,1,1067
+2844,Lewis Elementary,6,1324
+2845,Scott Middle School,9,675
+2846,Snyder Middle School,1,406
+2847,Hobbs Academy,5,2985
+2848,Chapman Middle School,1,2699
+2849,Holland Middle School,3,2471
+2850,Harris Academy,8,2888
+2851,Young High School,5,2636
+2852,Bennett High School,4,934
+2853,Vargas Middle School,10,2877
+2854,Wilson High School,6,2782
+2855,Hunt Academy,9,1756
+2856,Johnson Academy,5,2898
+2857,Gilmore Elementary,5,1936
+2858,Cervantes Academy,3,1073
+2859,Norman Academy,5,2541
+2860,Morrison Academy,3,2089
+2861,Williams Middle School,5,421
+2862,White Elementary,7,1846
+2863,Travis Elementary,1,132
+2864,Parker Academy,9,1195
+2865,Mcdowell High School,3,2514
+2866,Burns Middle School,10,2335
+2867,Ramirez Middle School,2,1554
+2868,Johnson High School,3,497
+2869,Hernandez Middle School,9,519
+2870,Reynolds Academy,6,2073
+2871,Noble High School,10,1925
+2872,Zamora Elementary,3,1165
+2873,Thompson Elementary,1,1403
+2874,Robbins High School,8,2310
+2875,Thomas Elementary,6,2166
+2876,Mccall High School,4,1084
+2877,Johnson High School,7,1435
+2878,Deleon Elementary,3,914
+2879,Carpenter High School,4,1087
+2880,Brown High School,1,2936
+2881,Rodriguez Academy,1,2106
+2882,Singh Elementary,7,2672
+2883,Ball Middle School,2,981
+2884,Mcdonald High School,10,2657
+2885,Byrd High School,4,1322
+2886,Gordon Academy,9,2687
+2887,May High School,6,2537
+2888,Larson Elementary,8,858
+2889,Richard Elementary,3,2143
+2890,Thompson Middle School,2,2610
+2891,Hernandez Elementary,2,748
+2892,Mcfarland Academy,5,2611
+2893,Reid Middle School,2,2704
+2894,Camacho Elementary,6,1049
+2895,Miller High School,8,2268
+2896,Wilson Middle School,8,2604
+2897,Jones Academy,1,1998
+2898,Aguilar Elementary,6,116
+2899,Freeman Academy,1,2547
+2900,Wood High School,1,2616
+2901,Welch Academy,3,1577
+2902,Gibbs Middle School,3,1818
+2903,Taylor Academy,3,1046
+2904,Richards Middle School,3,1751
+2905,Hensley High School,8,627
+2906,Henry Elementary,8,2484
+2907,Pacheco Elementary,5,2012
+2908,Burton Elementary,8,2103
+2909,Warren Middle School,8,2476
+2910,Franco Academy,8,2718
+2911,Obrien High School,3,2869
+2912,Mitchell Middle School,10,2413
+2913,Martinez Academy,4,1593
+2914,Reid Elementary,9,1232
+2915,Hansen High School,5,1097
+2916,Shaffer Elementary,10,2234
+2917,Reyes Middle School,9,1485
+2918,Vasquez Academy,10,630
+2919,Roach Middle School,7,602
+2920,Parker Elementary,2,1718
+2921,Brown High School,2,1294
+2922,Eaton High School,3,1973
+2923,Burns High School,8,2226
+2924,Reyes Academy,2,1480
+2925,Neal High School,4,791
+2926,Fleming Middle School,2,2653
+2927,Chapman Academy,10,933
+2928,Cunningham Elementary,4,2627
+2929,Washington High School,8,1350
+2930,Pennington Academy,2,2525
+2931,Newman Academy,2,1904
+2932,Camacho Academy,6,2583
+2933,Moore Elementary,3,462
+2934,Andrews Elementary,1,178
+2935,Oneill Middle School,8,2165
+2936,Mercado Academy,5,2716
+2937,Rodriguez High School,9,2746
+2938,Garcia Academy,1,21
+2939,Lopez High School,2,2608
+2940,Bray Middle School,6,932
+2941,Cummings Elementary,7,792
+2942,Phillips Elementary,10,2868
+2943,Gonzalez Elementary,6,884
+2944,Johnson Academy,7,2450
+2945,Cook Middle School,3,2991
+2946,Sanchez Academy,10,2801
+2947,Mcpherson Middle School,8,1176
+2948,King Academy,3,734
+2949,Adams Academy,9,2771
+2950,Tapia Academy,6,797
+2951,Jones Elementary,2,1426
+2952,Reynolds Middle School,5,846
+2953,Flores Academy,3,2689
+2954,Vargas Elementary,8,1332
+2955,Guerra Academy,10,790
+2956,Marquez Elementary,5,2667
+2957,Campbell High School,5,2680
+2958,Browning High School,2,2432
+2959,Ramirez Academy,5,1293
+2960,Fitzgerald Academy,3,2593
+2961,Snyder High School,4,2265
+2962,Schwartz High School,1,2354
+2963,Baldwin Middle School,8,1830
+2964,White Elementary,6,1846
+2965,Floyd Middle School,7,2163
+2966,Sanchez High School,1,2651
+2967,Marquez Academy,1,1313
+2968,Burke Elementary,9,640
+2969,Morris High School,2,2648
+2970,Glover Elementary,1,785
+2971,Rivera Elementary,9,1780
+2972,Ramos Academy,3,78
+2973,Olson Academy,6,2372
+2974,Taylor Elementary,5,1138
+2975,Chavez High School,7,1760
+2976,Woods Elementary,10,1672
+2977,Gray Academy,8,2812
+2978,Miller Academy,1,378
+2979,Garcia High School,1,2935
+2980,Wilson High School,4,1115
+2981,Rivera Elementary,2,5
+2982,Madden Middle School,7,2679
+2983,Smith High School,6,1858
+2984,Brown Academy,5,1891
+2985,Smith High School,7,2632
+2986,Harris Academy,6,1876
+2987,Blanchard Middle School,3,2409
+2988,Anderson Academy,8,1233
+2989,Duncan Elementary,1,1383
+2990,Gray Elementary,7,2129
+2991,Martinez High School,10,87
+2992,Spears Middle School,4,999
+2993,Bolton Elementary,10,1217
+2994,Clark Academy,3,481
+2995,Crawford High School,8,2607
+2996,Harris Elementary,7,401
+2997,Mccall Academy,6,903
+2998,Dunn Academy,4,52
+2999,Ponce High School,4,1214
+3000,Myers Middle School,9,2443

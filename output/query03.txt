@@ -1,0 +1,7 @@
+–– 3. DELETE stale sold listings
+DELETE 772
+–– 3. VERIFY
+ listing_id | property_id | listing_date | status 
+------------+-------------+--------------+--------
+(0 rows)
+

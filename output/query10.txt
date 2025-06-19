@@ -1,0 +1,19 @@
+ property_id |                                address                                | favorite_cnt 
+-------------+-----------------------------------------------------------------------+--------------
+        1120 | 65802 Tracy Camp, Ashleyview Bay, New Kevinland                       |            6
+         448 | 0191 Louis Valley, North Jenniferview Estates, Coleville              |            5
+         548 | 38333 Thomas Stream, Seanland Bay, Stouttown                          |            5
+         576 | 7116 Linda Curve, Baxterstad Ridge, South Jenniferstad                |            5
+        1461 | 3577 Scott Street Suite 491, South William Heights, Lake Francisco    |            5
+        1718 | 234 Stokes Brooks Suite 912, West Patricialand Village, Williamsmouth |            5
+        2046 | 052 David Ridges Apt. 152, Lake Kristineburgh Heights, Jonesberg      |            5
+        2666 | 92036 Maxwell Fords Apt. 264, Jamesbury Heights, Allenshire           |            5
+        2710 | 33126 Victoria Avenue, Rodriguezton Ridge, Gilmorefort                |            5
+          40 | 10009 Miller Drives Apt. 204, Lake Richard Gardens, Dominguezview     |            4
+          71 | 8718 Williams Trail, Kevinberg Bay, Daviston                          |            4
+         211 | 64846 Angela Place Suite 790, Edwardmouth Heights, Petersenshire      |            4
+         262 | 392 Lisa Grove, Julieside Bay, East Allison                           |            4
+         327 | 2341 Smith Brooks Suite 715, West Jordanburgh Park, Johnport          |            4
+         392 | 4124 Buck Ridges Apt. 909, Thompsonville Heights, Lake Katherinebury  |            4
+(15 rows)
+

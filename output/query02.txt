@@ -1,0 +1,10 @@
+–– 2. UPDATE prices (3 % discount)
+UPDATE 0
+–– 2. VERIFY
+ property_id |                         address                          |   price    | bedrooms | bathrooms | area_sqft | agent_id | neighborhood_id 
+-------------+----------------------------------------------------------+------------+----------+-----------+-----------+----------+-----------------
+         203 | 8729 Jackson Road, Rebeccafort Park, West Scottmouth     | 1874333.74 |        5 |         3 |    716.26 |      839 |              12
+        1657 | 157 Clayton Valley, Rebeccafort Park, North Michelleport |  684285.97 |        6 |         3 |   3501.29 |     2809 |              12
+        2314 | 4208 Fletcher Centers, Rebeccafort Park, South Jake      | 1453753.91 |        2 |         3 |   3250.58 |     1041 |              12
+(3 rows)
+

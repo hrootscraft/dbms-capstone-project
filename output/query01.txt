@@ -1,0 +1,8 @@
+–– 1. INSERT neighborhood
+INSERT 0 1
+–– 1. VERIFY
+ neighborhood_id |       name        | school_rating | air_quality_index | crime_float 
+-----------------+-------------------+---------------+-------------------+-------------
+            3101 | Riverbend Gardens |             9 |              42.7 |         3.8
+(1 row)
+

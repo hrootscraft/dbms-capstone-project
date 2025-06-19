@@ -1,0 +1,1551 @@
+             name              | listing_cnt | avg_price  
+-------------------------------+-------------+------------
+ Reyesview Park                |           1 | 1999656.74
+ West Laurenbury Park          |           1 | 1998064.55
+ Huntland Gardens              |           1 | 1994415.30
+ Lake Evelynside Estates       |           1 | 1993363.94
+ North Erikaport Village       |           1 | 1993008.85
+ West Alan Village             |           1 | 1992382.46
+ South Kimburgh Park           |           1 | 1987804.45
+ Rogersfort Bay                |           1 | 1986373.35
+ Port Edward Estates           |           1 | 1983670.48
+ West Lisa Ridge               |           2 | 1976006.98
+ South Williamfurt Park        |           1 | 1962644.93
+ Myersview Estates             |           1 | 1957903.83
+ Cruzchester Estates           |           1 | 1956466.95
+ Careychester Park             |           1 | 1955352.08
+ Port Daniel Park              |           1 | 1951917.85
+ Port Eric Village             |           2 | 1945342.51
+ East Laura Gardens            |           1 | 1943835.83
+ Hendersonmouth Bay            |           1 | 1941275.10
+ Wrightmouth Heights           |           1 | 1941190.16
+ South Laura Village           |           1 | 1940838.01
+ Port Debbie Heights           |           1 | 1939927.05
+ New Jessicabury Bay           |           1 | 1939300.28
+ North Douglas Bay             |           1 | 1938885.58
+ Port Kevin Ridge              |           1 | 1938840.28
+ Timothyside Gardens           |           1 | 1936744.33
+ Port Christon Park            |           1 | 1935921.45
+ South Rebeccaland Village     |           1 | 1934888.87
+ North Bradley Bay             |           1 | 1933506.50
+ New James Bay                 |           1 | 1931556.38
+ Perryton Ridge                |           1 | 1928713.24
+ Lake Christineberg Park       |           1 | 1928677.28
+ Kevinberg Bay                 |           1 | 1927568.25
+ Lake Johnathanstad Bay        |           1 | 1927493.31
+ Jenniferbury Heights          |           1 | 1925179.70
+ Thompsonstad Bay              |           1 | 1920473.56
+ New Jennifer Gardens          |           1 | 1919173.22
+ South Brandy Ridge            |           1 | 1917426.74
+ Danielland Heights            |           1 | 1916648.96
+ South Tristan Gardens         |           1 | 1916313.11
+ North Ryanville Park          |           1 | 1914285.17
+ West Lisa Village             |           1 | 1912838.65
+ Lake Joeburgh Park            |           1 | 1911255.38
+ Leachbury Gardens             |           1 | 1911021.33
+ Port Stephaniemouth Gardens   |           1 | 1906965.89
+ West Rebecca Gardens          |           2 | 1906134.63
+ Port Gabrielleport Estates    |           1 | 1902355.60
+ East Troy Estates             |           1 | 1898536.29
+ Kiddtown Heights              |           1 | 1896059.39
+ East Omarfort Gardens         |           1 | 1891870.96
+ South Peter Village           |           2 | 1891088.70
+ South Thomas Gardens          |           1 | 1889429.60
+ Allenfort Park                |           1 | 1889416.09
+ West Jameston Park            |           1 | 1886337.47
+ Port Christopher Estates      |           1 | 1883033.78
+ East Scott Park               |           1 | 1881613.59
+ Diaztown Gardens              |           1 | 1881474.77
+ West Cynthiachester Heights   |           1 | 1878624.30
+ New Ashleyland Park           |           1 | 1878159.58
+ Alvaradoberg Ridge            |           1 | 1877592.70
+ Christinabury Park            |           1 | 1876476.79
+ Jacksonberg Estates           |           1 | 1874168.53
+ South Elizabethland Village   |           2 | 1873353.79
+ Thomaschester Village         |           1 | 1873062.32
+ New Jordan Estates            |           1 | 1872443.24
+ East Thomasside Bay           |           1 | 1870953.24
+ West John Park                |           1 | 1866185.90
+ South Stacy Gardens           |           1 | 1865283.04
+ Sherryport Gardens            |           1 | 1864247.78
+ Jessicaview Village           |           1 | 1856985.16
+ Port Jenniferview Village     |           1 | 1855806.76
+ New Kimberlyview Estates      |           1 | 1855254.40
+ Brianfurt Gardens             |           1 | 1854613.14
+ South Sheilamouth Heights     |           1 | 1853919.78
+ East Andrea Gardens           |           1 | 1852058.54
+ Thomasbury Gardens            |           1 | 1851398.23
+ South Jessicaberg Estates     |           1 | 1850111.02
+ Thomasmouth Gardens           |           1 | 1849065.93
+ Lorifort Gardens              |           1 | 1848335.50
+ Wilcoxview Heights            |           2 | 1842144.98
+ Lake Daniellestad Park        |           1 | 1841075.62
+ New Christopherland Heights   |           1 | 1840764.86
+ Micheletown Village           |           1 | 1840742.09
+ North Ericport Gardens        |           1 | 1839270.42
+ South Elizabeth Ridge         |           1 | 1838678.97
+ Sethtown Village              |           1 | 1837475.70
+ Turnerfurt Bay                |           1 | 1836550.78
+ Wilkersonberg Heights         |           1 | 1833583.49
+ Bradfordton Gardens           |           1 | 1831299.12
+ New Michael Estates           |           1 | 1830300.49
+ Moniqueport Gardens           |           1 | 1829829.42
+ Lake Christieburgh Gardens    |           1 | 1829428.10
+ East Williamfurt Village      |           1 | 1829202.94
+ West Michaelbury Park         |           1 | 1826972.72
+ Juanside Gardens              |           1 | 1819847.76
+ West Matthewfurt Ridge        |           1 | 1813939.26
+ Tonyview Heights              |           1 | 1812897.52
+ Lake Brian Bay                |           2 | 1811392.57
+ North Daltonfurt Estates      |           1 | 1809113.70
+ Jermaineshire Park            |           1 | 1808246.33
+ Clementsville Ridge           |           1 | 1807862.12
+ Lake Chrisview Heights        |           1 | 1804648.06
+ Maryfort Park                 |           1 | 1802369.93
+ South Juan Estates            |           1 | 1800583.01
+ New Jamie Village             |           1 | 1799960.24
+ Guzmanhaven Bay               |           1 | 1798808.58
+ Kristineville Ridge           |           4 | 1798433.97
+ Joneston Gardens              |           1 | 1798313.52
+ West Debraberg Park           |           2 | 1795484.11
+ New Samantha Bay              |           2 | 1789551.44
+ Jamesview Park                |           1 | 1789004.01
+ Eileenchester Gardens         |           1 | 1788360.98
+ Hendersonmouth Ridge          |           1 | 1786809.78
+ Port Elizabeth Estates        |           1 | 1785290.73
+ East Jason Park               |           1 | 1785257.93
+ Williamsstad Heights          |           3 | 1783825.77
+ Barrettville Heights          |           1 | 1781490.00
+ Derrickmouth Park             |           2 | 1781276.73
+ Lake Kristineburgh Heights    |           1 | 1781248.41
+ West Francisco Heights        |           2 | 1781161.21
+ Staceyville Bay               |           1 | 1778812.35
+ West Christophershire Estates |           3 | 1777743.76
+ Leslieville Ridge             |           2 | 1776580.06
+ South William Heights         |           1 | 1774178.53
+ Lake Suzanne Bay              |           1 | 1772448.98
+ East Andrewmouth Estates      |           1 | 1771736.64
+ North Kevinfurt Bay           |           1 | 1771158.82
+ Lake Laurabury Estates        |           2 | 1769096.56
+ Jonesborough Village          |           1 | 1767299.86
+ Port Jillborough Ridge        |           1 | 1766708.44
+ South Matthewfurt Park        |           1 | 1764630.34
+ Smithtown Ridge               |           1 | 1763482.83
+ South Chase Ridge             |           1 | 1759155.06
+ East Jerryhaven Bay           |           1 | 1754887.89
+ Villegasshire Ridge           |           1 | 1753447.08
+ Port Dominiquemouth Ridge     |           1 | 1753288.73
+ Port Ellenstad Park           |           2 | 1752358.71
+ New Jamieville Village        |           1 | 1750628.06
+ New Lukeville Gardens         |           2 | 1749126.09
+ Josephstad Heights            |           1 | 1743166.67
+ East John Estates             |           1 | 1739540.11
+ Bryanchester Park             |           1 | 1738645.73
+ South Jason Gardens           |           1 | 1737008.96
+ East Ashley Village           |           2 | 1736314.24
+ South Tara Village            |           1 | 1733689.90
+ Floydhaven Gardens            |           2 | 1732412.10
+ Port Monica Estates           |           1 | 1731712.76
+ North Erin Village            |           1 | 1731061.66
+ Nicholasbury Gardens          |           1 | 1730588.04
+ North Priscilla Ridge         |           1 | 1728630.56
+ South Benjaminshire Ridge     |           1 | 1728200.72
+ Christinaside Ridge           |           1 | 1726965.57
+ West James Estates            |           1 | 1725901.87
+ Dustinmouth Gardens           |           1 | 1725775.09
+ North Joshua Gardens          |           1 | 1723785.59
+ Lake Georgehaven Estates      |           2 | 1722724.52
+ New Adam Bay                  |           1 | 1722634.27
+ Lake Kyle Estates             |           1 | 1721923.22
+ Lake Karenside Park           |           1 | 1711882.74
+ Benjaminshire Heights         |           1 | 1711334.18
+ New Christopherhaven Ridge    |           1 | 1710108.76
+ Alejandroland Ridge           |           3 | 1709353.24
+ South Sabrina Heights         |           1 | 1707415.81
+ East Erinchester Bay          |           1 | 1703798.43
+ West Cynthiabury Park         |           1 | 1703121.69
+ Stephensonborough Heights     |           1 | 1699224.11
+ North Jennifer Estates        |           1 | 1696956.62
+ West John Gardens             |           1 | 1696359.15
+ Jaytown Estates               |           1 | 1696100.31
+ Mathisfurt Gardens            |           1 | 1693879.73
+ Lake Ashlee Park              |           1 | 1691999.14
+ New Tina Village              |           2 | 1691640.62
+ Jeromefurt Village            |           1 | 1691476.75
+ West Cindymouth Ridge         |           2 | 1690062.29
+ Lake Julie Ridge              |           1 | 1687033.65
+ Jenniferside Bay              |           2 | 1685868.07
+ West Peggymouth Heights       |           2 | 1685481.06
+ Lewisview Village             |           2 | 1684495.06
+ Jenniferstad Bay              |           2 | 1684315.60
+ West Andrew Bay               |           2 | 1684133.36
+ Natalieborough Bay            |           1 | 1678707.81
+ Waynehaven Bay                |           1 | 1676968.45
+ Matthewmouth Bay              |           1 | 1676319.80
+ Port Williamville Ridge       |           2 | 1676132.34
+ East Rebeccamouth Gardens     |           1 | 1675894.61
+ North Don Village             |           1 | 1675823.65
+ West Thomasview Gardens       |           1 | 1675123.90
+ Johnhaven Ridge               |           2 | 1674805.43
+ West Jordanburgh Park         |           1 | 1672511.34
+ Ruizstad Estates              |           1 | 1672197.01
+ North Katrinashire Heights    |           2 | 1671117.60
+ North Jodiland Estates        |           1 | 1668907.68
+ Marymouth Park                |           1 | 1667202.83
+ Robertsonbury Gardens         |           2 | 1666405.62
+ Port Gerald Estates           |           2 | 1663866.13
+ Laurenmouth Heights           |           2 | 1661296.68
+ North Leeborough Estates      |           1 | 1661026.75
+ Tinafort Ridge                |           1 | 1660002.70
+ Port Johnborough Estates      |           1 | 1659551.79
+ Port Zacharyshire Bay         |           2 | 1659116.54
+ East Christian Bay            |           1 | 1658178.83
+ Loriport Park                 |           1 | 1658077.92
+ Kristenland Bay               |           1 | 1657278.82
+ North Stephanie Bay           |           1 | 1656661.69
+ Fostermouth Estates           |           2 | 1655439.22
+ North Richardshire Bay        |           1 | 1653617.14
+ Danielborough Gardens         |           1 | 1652740.15
+ North Davidbury Village       |           2 | 1652267.87
+ Johnsonside Village           |           1 | 1651520.39
+ Garciaburgh Ridge             |           1 | 1650783.44
+ Lake Jamie Park               |           4 | 1650730.59
+ Michaelport Ridge             |           1 | 1649452.87
+ Lake Nancy Ridge              |           2 | 1649197.98
+ Lake Robin Ridge              |           1 | 1648840.02
+ Keithshire Park               |           1 | 1647911.22
+ South Michelleshire Ridge     |           1 | 1646364.24
+ Matthewburgh Heights          |           2 | 1645874.83
+ New Martinland Park           |           2 | 1645684.32
+ New Kevinfort Bay             |           2 | 1645092.58
+ West Jeremyburgh Village      |           1 | 1642625.79
+ Kaitlynhaven Park             |           1 | 1641470.39
+ Aaronmouth Park               |           1 | 1641379.82
+ East Noah Estates             |           2 | 1640947.27
+ Fullerview Ridge              |           1 | 1640872.68
+ Terryburgh Ridge              |           2 | 1639562.30
+ Kevinview Heights             |           1 | 1639174.61
+ Jaredbury Estates             |           1 | 1638862.89
+ Stevenmouth Gardens           |           1 | 1638508.28
+ Jenniferview Village          |           1 | 1637891.93
+ Donaldmouth Estates           |           2 | 1632246.07
+ North Sharonshire Heights     |           2 | 1630294.17
+ West Jenniferport Village     |           1 | 1629353.18
+ North Ericshire Gardens       |           1 | 1625799.70
+ North Karlaborough Heights    |           1 | 1625465.97
+ Lake David Estates            |           1 | 1624818.02
+ Willieport Park               |           1 | 1624249.39
+ Port Reginahaven Village      |           1 | 1623280.26
+ New Michaelbury Park          |           2 | 1622608.24
+ Port Kimberly Park            |           1 | 1620753.40
+ Schultzborough Gardens        |           1 | 1620495.98
+ New Theresa Village           |           1 | 1619978.78
+ Jessicastad Gardens           |           2 | 1618508.55
+ North Thomashaven Ridge       |           1 | 1615745.50
+ Rodriguezstad Bay             |           2 | 1615173.97
+ Dianaton Village              |           2 | 1612660.83
+ East Mariamouth Gardens       |           1 | 1612040.48
+ Coxport Bay                   |           1 | 1611176.25
+ Lake Patriciachester Heights  |           1 | 1609534.66
+ East Baileyburgh Bay          |           1 | 1604363.30
+ Angelicamouth Estates         |           2 | 1604147.73
+ Port Justinhaven Park         |           3 | 1603170.17
+ Lake Jamiefurt Heights        |           1 | 1601379.01
+ Gonzalezborough Estates       |           2 | 1599525.25
+ Lake Johnny Heights           |           2 | 1596435.60
+ Port Davidshire Village       |           1 | 1594146.60
+ Lindamouth Ridge              |           1 | 1593541.36
+ East Brianhaven Park          |           3 | 1592644.11
+ Lopezville Ridge              |           2 | 1592411.23
+ Thomasmouth Park              |           1 | 1592106.42
+ Jamiebury Heights             |           1 | 1591548.43
+ Donnaberg Bay                 |           1 | 1590081.36
+ South Thomasberg Gardens      |           2 | 1586190.33
+ Fernandoshire Park            |           1 | 1584808.34
+ Stevensonview Bay             |           1 | 1583737.54
+ Julietown Gardens             |           1 | 1583534.82
+ Port Annaton Heights          |           2 | 1582461.93
+ Vanessafort Village           |           2 | 1578101.64
+ Jonathonville Park            |           2 | 1577640.48
+ Richardton Bay                |           1 | 1577129.43
+ Maryfurt Ridge                |           1 | 1577082.99
+ New Lisaport Village          |           1 | 1576058.69
+ Meganmouth Ridge              |           1 | 1575749.18
+ Jessicahaven Park             |           1 | 1573786.97
+ West Kyle Heights             |           2 | 1573176.08
+ Lake Erinfurt Estates         |           1 | 1573042.24
+ Port Emily Village            |           2 | 1573025.04
+ South Kimmouth Gardens        |           1 | 1571362.98
+ West Paul Ridge               |           1 | 1570839.66
+ Millerton Village             |           1 | 1570699.01
+ East Catherine Ridge          |           2 | 1569089.10
+ North Christopherbury Park    |           2 | 1568541.40
+ West April Heights            |           2 | 1568215.54
+ South Christine Bay           |           1 | 1568116.51
+ Leeshire Bay                  |           1 | 1567796.35
+ Derekton Park                 |           2 | 1566438.30
+ New Nicoleborough Ridge       |           1 | 1566408.83
+ North Jillian Park            |           1 | 1565827.32
+ Jeffreytown Estates           |           3 | 1564894.31
+ New Steven Village            |           1 | 1564427.97
+ Natalietown Heights           |           1 | 1564369.10
+ South Mary Gardens            |           2 | 1564357.80
+ East Robin Bay                |           1 | 1563780.91
+ Holmesburgh Village           |           1 | 1563604.87
+ Jacobhaven Bay                |           1 | 1563345.11
+ Karenshire Village            |           1 | 1563096.38
+ Lake Evanville Park           |           1 | 1562629.38
+ Duanemouth Bay                |           1 | 1562245.48
+ Gibsonmouth Park              |           1 | 1560942.30
+ Serranochester Bay            |           1 | 1559290.35
+ Amandaville Heights           |           1 | 1558382.76
+ South Kevinfort Ridge         |           3 | 1557982.70
+ Port Rebecca Estates          |           1 | 1556100.23
+ Cynthiaview Park              |           2 | 1556036.32
+ Mitchellland Gardens          |           3 | 1555736.13
+ Armstrongfurt Bay             |           2 | 1554504.26
+ Lake Lindseyburgh Ridge       |           2 | 1554242.21
+ Pattersonville Estates        |           1 | 1553393.76
+ Penastad Bay                  |           1 | 1553312.70
+ Floresfort Village            |           2 | 1552348.82
+ North Glennton Village        |           1 | 1552241.33
+ West William Bay              |           1 | 1550608.94
+ West Michaelfort Bay          |           1 | 1549557.08
+ Beckmouth Heights             |           1 | 1549535.85
+ Rhondahaven Estates           |           1 | 1548865.70
+ New Ronaldmouth Estates       |           1 | 1546107.69
+ New Dean Heights              |           1 | 1544112.31
+ North Nicolechester Heights   |           1 | 1542291.82
+ Cherylberg Bay                |           2 | 1541308.32
+ North Madison Estates         |           2 | 1541082.25
+ Bellburgh Bay                 |           1 | 1541061.40
+ Taylormouth Gardens           |           1 | 1540696.14
+ Samanthaport Bay              |           2 | 1540458.26
+ South Jonathan Ridge          |           1 | 1537924.09
+ North Michael Bay             |           1 | 1537456.68
+ West Michael Gardens          |           1 | 1536295.50
+ East Joshua Village           |           2 | 1533937.37
+ Thomaschester Ridge           |           1 | 1531402.67
+ Tammyberg Bay                 |           2 | 1530030.21
+ Port Natashahaven Village     |           1 | 1529682.81
+ South Alanview Estates        |           1 | 1529507.24
+ Hernandezstad Estates         |           4 | 1529132.46
+ South Katherinefurt Park      |           1 | 1528860.05
+ New Caseyton Gardens          |           1 | 1526791.72
+ Kennethtown Park              |           1 | 1526692.64
+ Barnesshire Park              |           2 | 1526457.70
+ New Meredithburgh Village     |           2 | 1525299.80
+ East Frederickland Bay        |           1 | 1525104.48
+ Xavierstad Park               |           1 | 1523440.78
+ East Angelaport Heights       |           2 | 1523404.75
+ Hineschester Ridge            |           2 | 1523217.39
+ Lopezton Heights              |           3 | 1520850.50
+ Dannyville Heights            |           1 | 1520230.84
+ North Julie Park              |           1 | 1520147.07
+ Robertsmouth Park             |           1 | 1518245.46
+ Port Nancy Heights            |           1 | 1516483.10
+ New Marilynburgh Gardens      |           2 | 1515289.93
+ South Wesleyfurt Gardens      |           2 | 1513127.49
+ South Terry Bay               |           2 | 1513054.82
+ South Jamesborough Park       |           1 | 1512565.57
+ Michaelport Gardens           |           1 | 1510769.43
+ South Robertborough Gardens   |           1 | 1510642.01
+ Caldwellhaven Bay             |           1 | 1509884.73
+ Lake Ryanbury Ridge           |           1 | 1509158.11
+ Milesside Village             |           3 | 1507853.58
+ New Leslieberg Ridge          |           2 | 1507602.75
+ Smithborough Gardens          |           2 | 1506920.19
+ Rodneymouth Heights           |           1 | 1504167.40
+ Angelaview Estates            |           1 | 1503731.10
+ Leeburgh Village              |           1 | 1503087.17
+ Lake Cliffordstad Heights     |           2 | 1499542.77
+ North Sarah Heights           |           1 | 1496703.95
+ Carterfurt Park               |           2 | 1496458.91
+ Jamesmouth Village            |           2 | 1496113.99
+ North Theresatown Ridge       |           1 | 1495274.17
+ North Stevenview Heights      |           1 | 1494835.22
+ West Tracymouth Heights       |           1 | 1494806.49
+ North Wendyshire Park         |           2 | 1494466.01
+ Jacobstown Park               |           2 | 1493329.47
+ Tiffanyberg Bay               |           1 | 1492706.62
+ North Sarah Park              |           1 | 1491771.93
+ Melissabury Bay               |           1 | 1489406.77
+ North Thomasberg Bay          |           1 | 1489120.43
+ Thompsonland Park             |           2 | 1488238.61
+ Ericashire Park               |           1 | 1485056.26
+ West Travismouth Ridge        |           3 | 1484816.32
+ Vanessaburgh Estates          |           1 | 1484252.69
+ South Davidchester Estates    |           1 | 1483691.24
+ Brianhaven Heights            |           1 | 1482850.13
+ Port Yvonneview Bay           |           1 | 1482416.70
+ Port Tyronefurt Bay           |           1 | 1482130.46
+ Debrabury Heights             |           1 | 1481964.35
+ Elizabethfort Bay             |           1 | 1481919.17
+ Nelsonville Bay               |           3 | 1481892.85
+ Johnchester Ridge             |           4 | 1481427.65
+ Dillonfort Park               |           1 | 1481317.10
+ East Robert Estates           |           1 | 1477615.19
+ Pattyfort Estates             |           3 | 1476327.75
+ Darrellside Ridge             |           1 | 1475981.67
+ New Todd Park                 |           3 | 1475286.50
+ Anthonyport Park              |           2 | 1475166.20
+ New Jeremybury Ridge          |           1 | 1474459.72
+ Grayport Heights              |           1 | 1474031.75
+ West Terri Estates            |           2 | 1473818.59
+ New Jason Ridge               |           1 | 1473774.05
+ South Henry Bay               |           3 | 1471459.57
+ North Rachel Village          |           1 | 1471099.80
+ Lake Joshua Park              |           1 | 1470905.73
+ Jessicamouth Ridge            |           1 | 1470084.70
+ Brooksbury Bay                |           2 | 1469013.67
+ South Danielle Heights        |           1 | 1467941.03
+ Rhodesfurt Village            |           2 | 1467008.46
+ Bellport Park                 |           1 | 1466914.85
+ New Heatherview Park          |           1 | 1466308.28
+ East Dawn Village             |           1 | 1463286.50
+ Robertport Bay                |           1 | 1462717.61
+ Lake Kenneth Park             |           1 | 1457844.18
+ Scottland Village             |           2 | 1457096.52
+ West Brian Ridge              |           2 | 1455005.45
+ New Mary Village              |           1 | 1453708.69
+ North Alexandriaton Gardens   |           1 | 1453572.71
+ Ruthstad Village              |           1 | 1453558.79
+ Baileyport Gardens            |           1 | 1453315.76
+ Lake Virginia Village         |           1 | 1451611.28
+ West Andrea Ridge             |           2 | 1451172.02
+ Keithton Bay                  |           2 | 1448461.37
+ Lake Michelle Estates         |           3 | 1446090.73
+ Normanhaven Heights           |           5 | 1445484.22
+ Lake William Village          |           1 | 1444034.58
+ South Cindy Gardens           |           2 | 1443230.60
+ West Kevin Village            |           1 | 1441844.44
+ Meyersbury Gardens            |           2 | 1441363.22
+ Brianshire Heights            |           1 | 1440971.23
+ East Derrick Ridge            |           1 | 1440707.41
+ Morganberg Park               |           1 | 1439686.00
+ South Jasontown Park          |           1 | 1439396.36
+ Stevenfurt Village            |           1 | 1438878.92
+ Scottland Park                |           2 | 1438434.00
+ Johnsonfort Gardens           |           1 | 1436052.07
+ West Danielle Estates         |           3 | 1435675.00
+ Kevinfurt Gardens             |           1 | 1434980.25
+ Taraview Village              |           1 | 1434232.57
+ Owenville Ridge               |           2 | 1433551.86
+ Boylefort Park                |           3 | 1433333.26
+ South Laurabury Bay           |           1 | 1433190.38
+ Stevensmouth Estates          |           5 | 1431632.21
+ Juarezland Estates            |           1 | 1431466.42
+ North Antonioburgh Estates    |           1 | 1430868.66
+ Joshuamouth Park              |           2 | 1428745.28
+ Rodriguezton Bay              |           1 | 1426487.12
+ West Charles Estates          |           1 | 1426341.44
+ Martinfort Village            |           2 | 1426027.64
+ Devinstad Heights             |           2 | 1420567.90
+ West Brendaberg Village       |           1 | 1419803.88
+ Port Jennifer Bay             |           2 | 1419014.76
+ Jonathanshire Heights         |           2 | 1416491.68
+ East Barry Village            |           2 | 1415340.38
+ Wrightmouth Bay               |           1 | 1414418.80
+ Lake Kimberly Bay             |           2 | 1414256.42
+ Charleshaven Estates          |           1 | 1414163.57
+ South Danielstad Heights      |           1 | 1414132.54
+ Mayofort Park                 |           1 | 1413865.27
+ Staffordmouth Gardens         |           1 | 1413381.08
+ West James Heights            |           1 | 1413360.46
+ Rachaelfort Village           |           1 | 1412725.30
+ Amyhaven Village              |           4 | 1412494.84
+ Port Ashleyfort Heights       |           2 | 1412014.20
+ Port Curtis Gardens           |           1 | 1411357.79
+ South Dominic Ridge           |           3 | 1410636.81
+ Andrewside Village            |           1 | 1407630.93
+ Danielstad Village            |           1 | 1407211.17
+ Rileyland Heights             |           2 | 1407035.30
+ Gallagherberg Bay             |           2 | 1406569.44
+ Collinsburgh Ridge            |           2 | 1405503.02
+ New Nathaniel Heights         |           3 | 1405022.79
+ Christinamouth Bay            |           1 | 1404883.63
+ Timothyfurt Bay               |           3 | 1404400.90
+ Lake Philipfort Bay           |           2 | 1404141.52
+ Garciamouth Heights           |           1 | 1403783.26
+ Joelside Village              |           2 | 1403661.08
+ Vancebury Ridge               |           2 | 1403138.18
+ West Annetteberg Bay          |           2 | 1401557.31
+ West Madison Gardens          |           6 | 1401089.83
+ Patrickland Park              |           2 | 1400576.59
+ East Alyssa Heights           |           3 | 1399794.53
+ Mannmouth Estates             |           4 | 1398366.67
+ Boydmouth Village             |           2 | 1397410.01
+ Lake Samuelland Bay           |           4 | 1397208.59
+ Elainefurt Estates            |           2 | 1397142.84
+ Lisaport Gardens              |           2 | 1393371.47
+ West Ericview Estates         |           1 | 1391267.67
+ Johntown Heights              |           1 | 1391250.21
+ East Debbie Gardens           |           2 | 1390431.41
+ West Donaldburgh Ridge        |           5 | 1389593.57
+ South Kelseyville Park        |           2 | 1388771.31
+ Charlesland Estates           |           2 | 1388211.34
+ Snyderville Heights           |           1 | 1387318.89
+ Kerriside Gardens             |           3 | 1385166.86
+ Webbberg Village              |           1 | 1384430.98
+ Port Luiston Bay              |           2 | 1384289.91
+ Phillipsfort Ridge            |           1 | 1382146.54
+ South Alyssashire Gardens     |           2 | 1381981.97
+ South Edwardstad Park         |           2 | 1381690.08
+ Hodgesburgh Estates           |           1 | 1381320.15
+ Markstad Village              |           2 | 1381284.85
+ Lake Jimmyshire Bay           |           5 | 1381200.97
+ Robertsontown Heights         |           1 | 1378946.40
+ South Robinmouth Village      |           1 | 1378538.86
+ Joseburgh Estates             |           1 | 1376199.03
+ South James Gardens           |           1 | 1375610.56
+ Dennismouth Ridge             |           1 | 1373716.77
+ West Davidshire Bay           |           1 | 1372647.91
+ Lake Sophia Heights           |           3 | 1370536.88
+ Mooreton Gardens              |           2 | 1369270.07
+ North Rachel Park             |           3 | 1368793.48
+ Bishopmouth Estates           |           2 | 1366605.43
+ West Kristiport Village       |           1 | 1365171.12
+ Wrightburgh Heights           |           1 | 1365074.09
+ New Mariaberg Estates         |           1 | 1364682.31
+ East Jenniferchester Estates  |           2 | 1363630.42
+ Mirandaville Heights          |           2 | 1361033.38
+ Ashleyfurt Gardens            |           2 | 1359730.06
+ Lake Chelseamouth Estates     |           1 | 1358120.57
+ Nathanielfurt Bay             |           1 | 1357396.21
+ North Eileenburgh Park        |           1 | 1356859.11
+ East John Heights             |           1 | 1356776.76
+ Parkerhaven Park              |           1 | 1356735.58
+ Port Zacharyfurt Estates      |           2 | 1354210.80
+ East Andreashire Village      |           1 | 1353842.14
+ Smithbury Village             |           1 | 1352890.09
+ Lake Deannafurt Heights       |           4 | 1352820.65
+ West Tiffanyhaven Gardens     |           2 | 1352459.48
+ West Michelemouth Bay         |           2 | 1352102.72
+ West Brandyville Gardens      |           2 | 1350850.77
+ Port Vanessa Bay              |           1 | 1349911.03
+ South Angela Ridge            |           1 | 1349792.88
+ Port Marie Estates            |           4 | 1349756.29
+ Thomasport Park               |           3 | 1348656.10
+ North Jennifer Heights        |           1 | 1348465.12
+ West Michellemouth Ridge      |           1 | 1348263.39
+ East Corey Village            |           1 | 1348114.21
+ Saraview Park                 |           2 | 1347895.59
+ Kristietown Estates           |           3 | 1347512.61
+ Youngville Estates            |           2 | 1344240.75
+ New Sheena Village            |           2 | 1343395.18
+ New Gabrieltown Estates       |           4 | 1343302.36
+ Kristenton Bay                |           2 | 1343220.63
+ North Johnburgh Ridge         |           2 | 1341843.70
+ Cooperside Estates            |           2 | 1341208.44
+ Elizabethmouth Village        |           1 | 1340999.72
+ Melissamouth Park             |           2 | 1340783.50
+ Ruthborough Bay               |           1 | 1340371.76
+ East Brandonville Gardens     |           2 | 1339479.57
+ Rebeccafort Park              |           3 | 1337457.87
+ Lisaport Ridge                |           1 | 1337012.73
+ Jamiehaven Bay                |           2 | 1336896.95
+ Sotoberg Gardens              |           1 | 1336335.35
+ East George Village           |           2 | 1336244.94
+ Ginashire Village             |           2 | 1334997.44
+ Matthewside Gardens           |           1 | 1333028.94
+ Wrightport Heights            |           1 | 1332748.59
+ Port Nathanhaven Gardens      |           1 | 1332555.90
+ New Christianville Estates    |           2 | 1330310.66
+ Davidmouth Park               |           2 | 1329150.60
+ North Richard Estates         |           1 | 1326538.92
+ Sarahchester Bay              |           1 | 1325803.53
+ Catherinehaven Gardens        |           1 | 1325504.31
+ North Philipfort Estates      |           2 | 1325000.51
+ Taylorhaven Park              |           1 | 1324167.23
+ Lake Trevorhaven Heights      |           1 | 1324165.74
+ Dayport Estates               |           1 | 1324055.93
+ Port Stevetown Gardens        |           2 | 1323810.47
+ Lake Richard Gardens          |           3 | 1323260.33
+ East Caleb Ridge              |           2 | 1321972.33
+ Mclaughlinview Bay            |           2 | 1321454.15
+ Port Krystal Bay              |           2 | 1319829.47
+ Lake William Heights          |           2 | 1319774.85
+ North Craig Heights           |           1 | 1319418.43
+ Lorishire Ridge               |           4 | 1319323.50
+ New Seth Ridge                |           2 | 1318241.03
+ Lake Katherine Ridge          |           2 | 1318212.56
+ New Ian Park                  |           2 | 1318164.66
+ South Nicholas Heights        |           1 | 1315992.33
+ Hallmouth Park                |           4 | 1315799.17
+ Robbinsside Village           |           1 | 1315422.09
+ West Debra Park               |           2 | 1314656.56
+ Davidburgh Village            |           1 | 1314563.73
+ Glenborough Heights           |           1 | 1311845.00
+ Sarahfort Gardens             |           2 | 1311343.27
+ East Katherine Park           |           3 | 1311031.95
+ Saraland Village              |           1 | 1310630.98
+ Timothybury Heights           |           2 | 1310518.26
+ Simpsonmouth Park             |           2 | 1309621.82
+ Blaketon Bay                  |           2 | 1308689.84
+ Port Kellychester Gardens     |           2 | 1305508.04
+ Monroestad Gardens            |           4 | 1304665.59
+ Marvinport Ridge              |           2 | 1304510.93
+ East Melissa Park             |           1 | 1303472.03
+ Lake Christinaton Heights     |           1 | 1303373.08
+ New William Estates           |           1 | 1302657.20
+ Jamesview Gardens             |           2 | 1300526.87
+ New Micheleborough Village    |           1 | 1300465.72
+ East Josephchester Village    |           2 | 1299618.52
+ Henryberg Ridge               |           1 | 1298832.10
+ Angelatown Gardens            |           2 | 1298641.28
+ Christinestad Village         |           1 | 1296297.13
+ Thomasbury Ridge              |           2 | 1294792.34
+ West William Heights          |           3 | 1293210.81
+ Richardview Estates           |           1 | 1292962.26
+ East Cindyburgh Village       |           2 | 1288359.56
+ Lake Jenniferside Park        |           1 | 1287530.83
+ Murillomouth Park             |           1 | 1286416.70
+ Lake Susanstad Park           |           2 | 1285351.80
+ Port Debbie Gardens           |           2 | 1285234.65
+ West Brittneymouth Gardens    |           2 | 1283812.36
+ Rojasport Estates             |           1 | 1282894.85
+ Thomasshire Bay               |           2 | 1282606.85
+ East Michelle Gardens         |           2 | 1280732.58
+ North Julieshire Gardens      |           2 | 1280147.88
+ South Rachel Park             |           2 | 1278441.25
+ Jasonville Park               |           2 | 1278250.78
+ Sanchezfurt Gardens           |           1 | 1278177.69
+ Lynchville Village            |           2 | 1277853.32
+ Isaacton Park                 |           1 | 1277781.07
+ New Karen Bay                 |           1 | 1277660.73
+ West Victoria Gardens         |           2 | 1277484.24
+ Adamsmouth Gardens            |           1 | 1277005.42
+ New Howard Ridge              |           2 | 1275985.98
+ Martinborough Estates         |           2 | 1275542.13
+ Port Maryport Bay             |           2 | 1274891.49
+ Kellyhaven Bay                |           3 | 1274650.44
+ Floresberg Gardens            |           2 | 1274149.48
+ Spencechester Heights         |           2 | 1274056.93
+ South Deborah Heights         |           1 | 1272244.73
+ South Sherry Ridge            |           1 | 1271484.98
+ East Michelleland Ridge       |           1 | 1271245.84
+ Petersenhaven Village         |           2 | 1270861.08
+ Port Jessicashire Gardens     |           1 | 1270599.78
+ Lake David Heights            |           2 | 1267399.55
+ South Lauriefurt Gardens      |           4 | 1264784.53
+ Carolland Gardens             |           1 | 1264623.21
+ Susantown Ridge               |           3 | 1263378.55
+ Rodriguezton Ridge            |           1 | 1263103.31
+ Cainton Ridge                 |           3 | 1263043.64
+ Cunninghamberg Gardens        |           2 | 1262894.99
+ Ryantown Bay                  |           4 | 1262348.16
+ Mileshaven Park               |           2 | 1261585.51
+ Johnstonstad Estates          |           1 | 1261325.80
+ Garciahaven Gardens           |           1 | 1259958.19
+ North Michelleton Estates     |           2 | 1259698.34
+ Tinaborough Park              |           2 | 1257571.25
+ East Jenna Gardens            |           1 | 1256802.20
+ South Ronaldview Bay          |           1 | 1256203.14
+ Mistyhaven Estates            |           1 | 1255188.68
+ Griffithstad Estates          |           1 | 1253661.12
+ Laurieton Village             |           2 | 1253329.38
+ Port Adam Gardens             |           2 | 1253082.86
+ Lake Colleenmouth Ridge       |           1 | 1252632.25
+ North Johnhaven Gardens       |           3 | 1252160.47
+ Port Craigmouth Estates       |           1 | 1251723.82
+ South Alexander Ridge         |           2 | 1250644.95
+ Port Jasonbury Ridge          |           1 | 1250259.79
+ Mendozaburgh Village          |           1 | 1250047.99
+ Mollymouth Bay                |           2 | 1249651.12
+ Lake Curtis Bay               |           2 | 1248835.71
+ Lake Connor Heights           |           2 | 1248789.86
+ Port Andreaton Gardens        |           2 | 1248225.56
+ Colemanbury Park              |           1 | 1247653.64
+ Port Tiffany Gardens          |           1 | 1246941.71
+ South Andrewhaven Bay         |           1 | 1246630.64
+ Debbieburgh Village           |           1 | 1245697.84
+ Lindaton Heights              |           3 | 1244596.67
+ East Gabriel Ridge            |           3 | 1242255.25
+ Port Joshua Estates           |           1 | 1241682.28
+ Port Sonyaside Estates        |           1 | 1241516.75
+ South Darrenbury Village      |           1 | 1241124.50
+ Angelaville Heights           |           1 | 1239762.22
+ Ashleyshire Park              |           2 | 1237631.94
+ Burnston Ridge                |           1 | 1236732.46
+ Hernandezside Gardens         |           3 | 1236293.52
+ Port Anthony Heights          |           1 | 1236274.68
+ Vincentville Village          |           6 | 1234790.97
+ North Mariaview Gardens       |           3 | 1234709.18
+ Thomasville Bay               |           1 | 1234195.49
+ North Julianton Ridge         |           2 | 1233184.60
+ North Cristianton Village     |           1 | 1232919.95
+ South Monica Village          |           3 | 1232468.73
+ North Kimberlymouth Gardens   |           1 | 1232388.59
+ Peterton Bay                  |           1 | 1232236.17
+ West Frankport Village        |           1 | 1231584.83
+ Hayesmouth Bay                |           2 | 1231063.51
+ South Jason Park              |           5 | 1231032.85
+ Port Margaretfurt Village     |           2 | 1230864.45
+ Jessicatown Park              |           2 | 1229801.92
+ Taylorland Park               |           1 | 1228853.34
+ Robertburgh Village           |           1 | 1228609.54
+ Nathanielport Heights         |           2 | 1227785.42
+ Garyfort Heights              |           1 | 1227765.86
+ Lake Markborough Park         |           1 | 1227115.15
+ Port Darlene Estates          |           3 | 1227082.12
+ South Heidiborough Gardens    |           3 | 1226691.82
+ Jamesbury Ridge               |           2 | 1225383.65
+ Cynthiafurt Heights           |           1 | 1225045.15
+ New Julie Ridge               |           2 | 1222236.27
+ North Erica Park              |           1 | 1220322.15
+ North Jenniferview Estates    |           2 | 1218430.74
+ Adambury Heights              |           2 | 1217764.49
+ Lake Michaelhaven Estates     |           1 | 1215511.77
+ Pearsonside Bay               |           1 | 1214700.11
+ North Mark Village            |           2 | 1214561.31
+ Stephenshire Gardens          |           1 | 1214309.69
+ Lindatown Estates             |           2 | 1213888.44
+ Cruzview Ridge                |           2 | 1213851.95
+ Troyville Heights             |           1 | 1213453.35
+ Pinedahaven Estates           |           2 | 1213298.24
+ Berryview Gardens             |           2 | 1212952.42
+ South Catherine Ridge         |           3 | 1212580.11
+ North Nicholasport Gardens    |           2 | 1212486.95
+ West Donna Ridge              |           1 | 1212119.22
+ North Stevenbury Estates      |           1 | 1211801.03
+ New Ashley Ridge              |           1 | 1211178.46
+ Larryview Heights             |           2 | 1209442.99
+ South Pam Gardens             |           1 | 1208637.84
+ Lake Michael Park             |           4 | 1208523.45
+ New Cherylport Ridge          |           2 | 1207541.38
+ Shannonville Estates          |           2 | 1207163.27
+ Abigailmouth Estates          |           2 | 1206771.35
+ West Chase Gardens            |           3 | 1206466.34
+ Alexishaven Bay               |           1 | 1203345.16
+ New Andrew Village            |           2 | 1202328.34
+ Johnsonmouth Heights          |           4 | 1201942.11
+ Ericfort Heights              |           1 | 1201026.97
+ South Patriciaview Bay        |           2 | 1200670.52
+ Aguilarside Estates           |           1 | 1198936.30
+ Floreshaven Park              |           2 | 1197890.76
+ Lake Jaredfurt Ridge          |           1 | 1196200.30
+ Port Mariobury Bay            |           1 | 1195870.16
+ North Valerieton Gardens      |           1 | 1194814.05
+ New Timothy Ridge             |           1 | 1194675.62
+ Cassidybury Village           |           2 | 1194116.16
+ Carmenmouth Ridge             |           3 | 1193908.54
+ Richardport Gardens           |           3 | 1192855.94
+ Lake Edwardfort Estates       |           2 | 1192458.05
+ New Lisa Bay                  |           1 | 1192430.21
+ Mariobury Village             |           2 | 1190913.14
+ East Williamfort Ridge        |           3 | 1190374.57
+ Port Justinview Ridge         |           1 | 1190122.15
+ Lake Melissaview Gardens      |           1 | 1189026.05
+ Ryanmouth Ridge               |           1 | 1188366.71
+ New Austin Heights            |           3 | 1186722.93
+ Fosterport Bay                |           1 | 1185679.07
+ Johnmouth Ridge               |           4 | 1185672.78
+ South Janetside Heights       |           1 | 1184928.66
+ Kirkton Village               |           2 | 1184375.41
+ Montesside Park               |           2 | 1184223.53
+ Port Jay Heights              |           3 | 1183781.73
+ East Melissaberg Ridge        |           1 | 1182241.78
+ Ashleyview Bay                |           1 | 1180230.86
+ Welchmouth Estates            |           2 | 1180224.15
+ South Kimberly Park           |           2 | 1179721.52
+ Jessetown Heights             |           2 | 1179253.87
+ Woodardbury Park              |           2 | 1178321.83
+ New Jenniferberg Bay          |           2 | 1177421.27
+ Grayton Gardens               |           1 | 1177197.98
+ Lake Brookeport Estates       |           1 | 1176348.16
+ South Shawnfort Gardens       |           1 | 1174107.01
+ East Brandon Heights          |           1 | 1173074.74
+ Amandaland Bay                |           3 | 1170991.47
+ Lake Sarah Heights            |           2 | 1170820.58
+ Markberg Heights              |           1 | 1170125.90
+ Davidview Bay                 |           1 | 1167821.18
+ New Michelle Village          |           1 | 1166717.67
+ West Craigport Village        |           3 | 1166438.35
+ Hoodbury Estates              |           2 | 1165885.37
+ Lake Jenniferborough Gardens  |           2 | 1165491.05
+ East Stephenburgh Estates     |           1 | 1164888.91
+ Michelleberg Gardens          |           1 | 1164030.69
+ West Shawnberg Ridge          |           1 | 1163504.07
+ South Mark Bay                |           3 | 1162996.40
+ Port Alexismouth Village      |           2 | 1162615.99
+ North Dana Gardens            |           2 | 1162555.66
+ Lake Steven Estates           |           2 | 1161008.89
+ Lynchtown Ridge               |           3 | 1159692.81
+ Thomasfort Park               |           2 | 1158011.34
+ Jeffreyberg Bay               |           1 | 1157196.81
+ New Kathleenfurt Park         |           3 | 1155343.71
+ Lake Annaland Estates         |           2 | 1154969.51
+ Port Christopherburgh Bay     |           1 | 1152021.23
+ New Katelynshire Heights      |           1 | 1150593.27
+ Port Kristinburgh Gardens     |           2 | 1150080.57
+ Samanthahaven Gardens         |           3 | 1149461.73
+ East Vincent Estates          |           3 | 1148816.64
+ Swansonberg Estates           |           1 | 1147477.55
+ Port Julie Bay                |           1 | 1147464.33
+ Vaughnfurt Estates            |           5 | 1145555.88
+ Huangborough Bay              |           3 | 1145530.07
+ South Joseph Park             |           2 | 1145217.93
+ South Ericshire Ridge         |           3 | 1143334.72
+ Nathanville Estates           |           2 | 1143196.74
+ Kathleenville Village         |           1 | 1142629.17
+ West Vincentfurt Village      |           2 | 1142369.49
+ North Sarah Bay               |           1 | 1141715.92
+ Angelabury Bay                |           2 | 1140574.72
+ Lake Michelleport Estates     |           4 | 1140458.37
+ Port Daniel Gardens           |           2 | 1140371.30
+ North Deborah Bay             |           2 | 1140086.02
+ Brownton Ridge                |           1 | 1138612.47
+ Robinsonland Gardens          |           1 | 1138139.14
+ Arroyoville Park              |           2 | 1138028.68
+ Kimhaven Ridge                |           3 | 1137528.74
+ Lake Brandonfurt Village      |           1 | 1136281.21
+ Millsmouth Bay                |           1 | 1136095.05
+ Alejandroview Park            |           2 | 1134912.79
+ Anneland Heights              |           1 | 1133916.53
+ North Kayla Bay               |           2 | 1133037.66
+ Timothyburgh Bay              |           1 | 1131905.62
+ Richardsborough Park          |           1 | 1130340.39
+ New Michael Gardens           |           1 | 1127350.96
+ Matthewville Ridge            |           1 | 1125955.65
+ New Christinaton Bay          |           1 | 1125817.52
+ West Eddie Bay                |           1 | 1125649.35
+ Michelleport Gardens          |           2 | 1125572.59
+ Davidview Heights             |           3 | 1125436.45
+ Tanyaview Park                |           1 | 1125164.39
+ Port Ricardomouth Bay         |           1 | 1123131.91
+ South Chad Bay                |           4 | 1122999.38
+ New Russellside Bay           |           1 | 1119264.70
+ New Conniefort Village        |           2 | 1118360.68
+ South Codychester Gardens     |           1 | 1118310.87
+ Lake Gregory Village          |           1 | 1117731.00
+ Lake Georgemouth Heights      |           3 | 1117046.37
+ Randyville Ridge              |           2 | 1114572.12
+ Brownborough Park             |           2 | 1113739.24
+ Carriechester Estates         |           1 | 1112356.61
+ Port Stephaniechester Estates |           1 | 1111798.23
+ Lewisport Park                |           2 | 1111302.73
+ North Marybury Village        |           4 | 1111071.27
+ Port Eric Estates             |           1 | 1109706.50
+ Robinsonville Heights         |           1 | 1109257.68
+ West Evanmouth Park           |           3 | 1109122.13
+ Brooksfurt Park               |           2 | 1108997.13
+ Lake Heatherfurt Park         |           1 | 1108133.94
+ Daughertyview Village         |           1 | 1108001.02
+ Johnsonmouth Bay              |           1 | 1107528.08
+ Wallaceside Village           |           4 | 1107228.89
+ Lorimouth Heights             |           3 | 1106745.88
+ Donnatown Bay                 |           4 | 1106501.22
+ Brownside Village             |           2 | 1106428.83
+ Armstrongfurt Estates         |           2 | 1106157.86
+ East Shannon Heights          |           2 | 1105782.39
+ Jordanville Estates           |           1 | 1105238.66
+ Davidside Estates             |           2 | 1105164.63
+ South Raymondberg Gardens     |           1 | 1105023.83
+ Newmanshire Heights           |           1 | 1104279.87
+ Gomezton Ridge                |           3 | 1102742.79
+ Ashleyview Gardens            |           2 | 1101303.34
+ Lake Donna Heights            |           1 | 1100487.22
+ East Jesseshire Village       |           3 | 1095885.76
+ Goldenmouth Estates           |           1 | 1095088.90
+ West David Village            |           3 | 1094368.35
+ Nobleport Bay                 |           1 | 1094073.18
+ New Cassidy Estates           |           2 | 1093761.23
+ Douglastown Park              |           5 | 1093734.14
+ South John Park               |           1 | 1093529.98
+ Christianton Heights          |           3 | 1091338.09
+ Lake Rebecca Heights          |           2 | 1090214.81
+ Port Jacobtown Gardens        |           2 | 1089546.20
+ Schwartzbury Village          |           1 | 1089380.60
+ Richardland Park              |           2 | 1089302.54
+ New Jonathan Park             |           2 | 1087927.14
+ South Patricia Estates        |           2 | 1084933.91
+ East Blakeshire Ridge         |           1 | 1084849.09
+ Lake Nathaniel Park           |           1 | 1083996.71
+ Sullivanview Bay              |           1 | 1083547.20
+ North Anitaside Bay           |           2 | 1081166.60
+ Tammymouth Ridge              |           3 | 1081115.06
+ Whitefort Ridge               |           3 | 1080174.56
+ Robertmouth Gardens           |           2 | 1080074.21
+ Snydertown Heights            |           1 | 1079222.51
+ Lake Jason Gardens            |           3 | 1078960.39
+ North Kristen Bay             |           1 | 1078707.31
+ Brianstad Heights             |           3 | 1078688.69
+ North Richardmouth Estates    |           2 | 1076556.39
+ South Tiffanychester Bay      |           1 | 1076474.53
+ Lisabury Estates              |           2 | 1075603.22
+ Guzmantown Park               |           3 | 1074559.96
+ Natalietown Bay               |           2 | 1073584.90
+ Flowersside Estates           |           2 | 1072962.63
+ West Diane Bay                |           1 | 1071125.42
+ South Monicaside Estates      |           1 | 1071023.31
+ Wendytown Heights             |           4 | 1070337.82
+ Bennettland Village           |           3 | 1069532.61
+ South John Heights            |           2 | 1069265.34
+ South Debraborough Village    |           2 | 1067743.99
+ Port Michelle Ridge           |           1 | 1066279.55
+ Jessemouth Gardens            |           1 | 1066150.95
+ Meganville Ridge              |           1 | 1065891.78
+ Richardfurt Bay               |           2 | 1064996.56
+ Trevorville Estates           |           1 | 1064424.41
+ Murphyland Village            |           2 | 1064225.53
+ Phillipsfort Village          |           3 | 1063264.81
+ Port Jason Park               |           1 | 1063037.75
+ West Shariburgh Park          |           1 | 1063010.53
+ New Samuel Estates            |           1 | 1061182.38
+ Port Judy Bay                 |           2 | 1058931.04
+ Ellisfurt Heights             |           1 | 1058875.90
+ West Edward Estates           |           1 | 1057748.52
+ West Markland Heights         |           2 | 1057330.03
+ Ericksonville Bay             |           2 | 1057110.70
+ West Regina Village           |           2 | 1056215.34
+ Davismouth Bay                |           1 | 1055663.76
+ Lake Benjamin Heights         |           2 | 1055559.09
+ Fitzgeraldmouth Gardens       |           3 | 1054889.64
+ Johnnybury Bay                |           1 | 1054673.32
+ East Jennifer Village         |           1 | 1054592.18
+ East Donald Heights           |           2 | 1052465.31
+ New Yolandamouth Estates      |           2 | 1051968.89
+ Cruzchester Park              |           2 | 1051836.04
+ South Patricia Village        |           1 | 1051685.31
+ New David Ridge               |           3 | 1050944.52
+ Bellhaven Park                |           4 | 1049945.51
+ Griffinfort Village           |           4 | 1049853.71
+ East Theresa Bay              |           2 | 1049227.26
+ Danielberg Ridge              |           4 | 1048374.27
+ Gonzalezbury Ridge            |           1 | 1047350.74
+ South Nicholeville Village    |           5 | 1047073.98
+ Lauraside Heights             |           1 | 1046024.10
+ Lake Marissaview Park         |           1 | 1044966.86
+ West Cynthiafurt Ridge        |           2 | 1044509.22
+ Marymouth Ridge               |           2 | 1043377.71
+ Maryborough Ridge             |           1 | 1041650.84
+ Port Jason Village            |           1 | 1041490.36
+ Joshuaton Heights             |           1 | 1040940.32
+ New Jacob Ridge               |           3 | 1040608.73
+ Lake Jessica Gardens          |           1 | 1040367.92
+ Thomasbury Heights            |           2 | 1040357.78
+ West Brendaside Village       |           3 | 1039510.79
+ Port Brenda Ridge             |           1 | 1037694.16
+ Knightburgh Village           |           2 | 1036921.36
+ Rachelburgh Heights           |           1 | 1034361.01
+ New Michelle Bay              |           3 | 1033043.28
+ Conleymouth Park              |           1 | 1032705.23
+ Nicholasland Estates          |           1 | 1032683.55
+ West Dustinmouth Heights      |           3 | 1031235.16
+ South Evanburgh Bay           |           1 | 1030801.39
+ North Ashley Estates          |           3 | 1030688.07
+ East Cherylbury Heights       |           1 | 1029916.01
+ Skinnermouth Heights          |           2 | 1029729.22
+ North Joanna Gardens          |           2 | 1029421.53
+ Dianeland Bay                 |           2 | 1028814.33
+ East Rodneyville Park         |           2 | 1028142.06
+ East Stevenhaven Gardens      |           2 | 1027168.53
+ Martinberg Estates            |           1 | 1026597.96
+ New Laurenberg Bay            |           2 | 1024800.91
+ Deannaton Ridge               |           1 | 1023537.98
+ Port Andrew Gardens           |           1 | 1023377.23
+ East Crystalburgh Bay         |           1 | 1022853.62
+ New Coreyfurt Park            |           2 | 1022206.21
+ Jacquelinemouth Heights       |           2 | 1021835.79
+ Savannahchester Ridge         |           3 | 1021530.88
+ New Donnabury Heights         |           2 | 1020361.80
+ Port Jasminechester Bay       |           2 | 1017511.78
+ New Jodiborough Ridge         |           1 | 1017386.52
+ Port Justinberg Heights       |           3 | 1017299.45
+ West Angel Park               |           2 | 1017065.35
+ New Triciahaven Heights       |           1 | 1016816.56
+ Stephanieton Gardens          |           4 | 1015153.51
+ North Laura Heights           |           1 | 1014747.93
+ North Erica Heights           |           1 | 1013090.07
+ East Christopher Park         |           2 | 1011876.36
+ West Krystalfurt Village      |           2 | 1010283.93
+ East Caitlinport Village      |           3 | 1009013.29
+ Tyroneshire Heights           |           1 | 1008913.25
+ Powellland Village            |           1 | 1007881.10
+ Samuelview Ridge              |           2 | 1007713.34
+ Elizabethport Village         |           5 | 1007109.34
+ Lake Jeffrey Estates          |           2 | 1007068.75
+ New Stevenberg Ridge          |           3 | 1005777.42
+ Stephaniemouth Gardens        |           3 | 1005596.89
+ East Brandon Estates          |           1 | 1005429.26
+ Davidhaven Ridge              |           2 | 1004879.01
+ South Lori Heights            |           3 | 1003537.06
+ North Megan Park              |           1 | 1002913.94
+ Palmerborough Ridge           |           1 | 1002447.76
+ Berryfurt Ridge               |           2 | 1002047.47
+ South Natalietown Gardens     |           2 | 1001895.28
+ Port Heather Bay              |           2 | 1001524.80
+ Chapmanland Park              |           1 |  997428.55
+ Lake Jeffrey Gardens          |           2 |  997291.93
+ North Kimberly Park           |           1 |  995565.20
+ Paynestad Gardens             |           1 |  994861.57
+ Dakotamouth Bay               |           2 |  994522.19
+ Sharonton Ridge               |           2 |  993990.61
+ South Anthony Estates         |           1 |  992344.67
+ Williemouth Gardens           |           3 |  991735.28
+ Mossburgh Heights             |           1 |  990005.11
+ Millerbury Heights            |           1 |  989379.86
+ North Laurenton Heights       |           1 |  988872.35
+ Chadmouth Gardens             |           2 |  987675.65
+ Brownview Park                |           1 |  987418.87
+ Port Andreastad Park          |           2 |  986608.61
+ Patelshire Gardens            |           1 |  986439.85
+ Vickiborough Heights          |           3 |  986122.50
+ Aliciaton Park                |           2 |  985807.75
+ East Michael Bay              |           1 |  985338.28
+ Port Vanessa Ridge            |           2 |  984953.96
+ West Garrett Heights          |           3 |  984570.48
+ South Michaelshire Gardens    |           1 |  984110.87
+ West Josephmouth Estates      |           1 |  984081.06
+ Flynnstad Heights             |           1 |  982898.76
+ Bergermouth Village           |           3 |  982790.12
+ Martinezport Gardens          |           2 |  982595.27
+ Hardyport Estates             |           2 |  981971.43
+ Loganburgh Ridge              |           3 |  981561.87
+ Reynoldston Ridge             |           4 |  979861.93
+ Kimberlyhaven Ridge           |           2 |  978303.17
+ Herrerachester Bay            |           2 |  978048.57
+ Martinfort Bay                |           4 |  977974.09
+ Garciafort Bay                |           2 |  977575.35
+ Port Matthew Park             |           3 |  977428.08
+ Laurastad Village             |           2 |  977413.53
+ Port Stephen Bay              |           1 |  974128.12
+ North Joshuahaven Village     |           3 |  974124.01
+ North Kristenside Bay         |           3 |  972259.32
+ New Christinafurt Heights     |           1 |  970900.60
+ Olsenview Estates             |           1 |  970495.14
+ Allisonland Heights           |           1 |  970209.07
+ East Thomasshire Village      |           2 |  970083.67
+ Thompsonmouth Heights         |           2 |  969653.11
+ Brownton Village              |           2 |  969454.15
+ Port Savannahland Village     |           1 |  968574.25
+ West Dennisview Heights       |           2 |  968050.12
+ Newtonbury Park               |           2 |  966861.47
+ West Brandonstad Gardens      |           1 |  966708.20
+ Williamsview Gardens          |           2 |  965340.27
+ South Brendachester Ridge     |           1 |  965166.42
+ Davisstad Bay                 |           1 |  965089.44
+ East Jamesburgh Estates       |           1 |  965037.97
+ Teresabury Estates            |           5 |  962580.82
+ Timothyville Bay              |           1 |  962167.68
+ Lake Stevenberg Estates       |           1 |  961753.50
+ East Devon Gardens            |           1 |  961194.50
+ Wendyport Heights             |           2 |  961110.78
+ South Emilyport Heights       |           1 |  959746.75
+ East Linda Park               |           1 |  959381.51
+ East Lisafurt Ridge           |           2 |  959318.15
+ Michaeltown Bay               |           3 |  958939.80
+ Katelynberg Bay               |           1 |  958540.40
+ West Jonathantown Park        |           6 |  957831.10
+ East Paulfurt Ridge           |           3 |  956221.19
+ Steelebury Bay                |           2 |  955659.80
+ Phillipshire Estates          |           4 |  955572.79
+ East Debbie Park              |           2 |  953571.10
+ Reedchester Ridge             |           2 |  953471.06
+ Hunterbury Park               |           4 |  952409.25
+ Williamsstad Estates          |           1 |  951261.33
+ West John Heights             |           1 |  950827.28
+ Jenniferland Gardens          |           2 |  946122.11
+ Danielberg Park               |           1 |  945463.52
+ Starkstad Park                |           2 |  944032.23
+ East Lisa Village             |           1 |  943572.96
+ Toddside Park                 |           3 |  943441.02
+ Port Nichole Park             |           1 |  942848.61
+ Maryshire Estates             |           2 |  942591.83
+ Port Ronald Village           |           1 |  941254.22
+ Cherylville Gardens           |           1 |  941034.91
+ Paulstad Estates              |           2 |  941026.17
+ Kimville Heights              |           3 |  940929.88
+ Port Shaun Heights            |           2 |  939679.79
+ West Michelle Village         |           1 |  939658.71
+ West Kelsey Ridge             |           2 |  939193.46
+ Reyesmouth Heights            |           2 |  938928.81
+ Harrischester Park            |           1 |  937237.18
+ Thompsonmouth Park            |           8 |  936893.53
+ Port Jeffrey Ridge            |           2 |  935555.44
+ East Amy Ridge                |           2 |  934592.83
+ South Hollyfurt Ridge         |           2 |  934308.00
+ Parsonsmouth Bay              |           1 |  933470.30
+ Erictown Bay                  |           2 |  932888.44
+ Kimberlyland Bay              |           3 |  932588.47
+ Tinaview Ridge                |           3 |  932201.40
+ West Aaronton Ridge           |           3 |  932135.76
+ Johnnymouth Ridge             |           2 |  931458.10
+ Brianhaven Bay                |           1 |  930919.93
+ North Jacob Ridge             |           2 |  930422.07
+ Port Shane Heights            |           1 |  927904.16
+ Marissashire Bay              |           2 |  926966.73
+ West Travisland Village       |           2 |  924997.28
+ Sandersview Heights           |           2 |  923743.90
+ Michaelland Estates           |           2 |  921499.77
+ South Taylor Estates          |           3 |  920198.43
+ Wallacemouth Estates          |           1 |  920076.02
+ South Jonathan Village        |           1 |  918919.77
+ Sarahfurt Heights             |           2 |  915002.18
+ Nguyenton Village             |           1 |  914910.19
+ Chaneyview Gardens            |           2 |  914765.77
+ Stevensshire Ridge            |           1 |  914496.34
+ New Katherineburgh Village    |           1 |  914425.84
+ Wallaceland Estates           |           1 |  913860.30
+ Carrieside Gardens            |           2 |  913270.77
+ Lake Ian Bay                  |           2 |  912911.19
+ East Reginaldside Park        |           2 |  910922.19
+ Jimmyville Heights            |           1 |  910544.51
+ Coffeyfurt Park               |           1 |  910289.02
+ Prestonchester Heights        |           2 |  909400.06
+ West Matthew Bay              |           3 |  908713.70
+ Larryhaven Bay                |           2 |  908207.27
+ South Tylerstad Ridge         |           2 |  906411.36
+ Millerville Bay               |           1 |  906408.50
+ New Lauren Park               |           3 |  905557.12
+ East Benjamin Village         |           1 |  905373.37
+ North Ronaldshire Heights     |           2 |  904814.61
+ Lake Megan Bay                |           3 |  904721.26
+ Katherinefurt Ridge           |           2 |  904482.83
+ New Maria Heights             |           3 |  904365.79
+ Port Gabriel Heights          |           1 |  903969.56
+ Kevinfurt Estates             |           1 |  903943.77
+ Hernandezborough Heights      |           1 |  902762.70
+ Hallmouth Bay                 |           1 |  902461.86
+ Lake Russell Bay              |           2 |  899665.25
+ Amyburgh Estates              |           2 |  899154.75
+ Port Kelly Bay                |           2 |  898035.36
+ South Christopherfurt Village |           3 |  896751.10
+ Billhaven Heights             |           3 |  896285.45
+ South Johnville Bay           |           1 |  895974.22
+ Kelleystad Heights            |           2 |  895957.71
+ Johnnyview Estates            |           1 |  894334.19
+ East Matthew Bay              |           2 |  893792.87
+ South Shannonview Ridge       |           1 |  891367.89
+ New Michael Park              |           3 |  888725.31
+ Leonardville Ridge            |           3 |  887183.24
+ East Jameshaven Gardens       |           1 |  886351.93
+ Kimberlyburgh Ridge           |           1 |  886347.06
+ South Carol Ridge             |           1 |  885996.01
+ West Tracyton Ridge           |           1 |  885980.10
+ East Amyborough Gardens       |           2 |  885676.48
+ South Alexland Gardens        |           1 |  884634.12
+ Whitneyhaven Village          |           2 |  884561.76
+ Bryanfort Ridge               |           1 |  884108.76
+ West Donaldside Ridge         |           1 |  883893.75
+ Stephanieville Village        |           1 |  883188.95
+ New Kyleville Heights         |           1 |  882601.50
+ Jeremyside Heights            |           2 |  882567.10
+ North Caroline Bay            |           1 |  881414.22
+ South David Estates           |           1 |  880987.21
+ New Joshua Village            |           3 |  880690.72
+ North Michaelfort Gardens     |           1 |  879659.09
+ West Cathy Estates            |           2 |  879373.28
+ West Timothyport Village      |           1 |  875201.54
+ Ingramborough Park            |           1 |  874726.34
+ Brownburgh Ridge              |           2 |  874620.03
+ Shaneshire Bay                |           1 |  873968.90
+ Taylorburgh Village           |           2 |  873814.43
+ New Tanya Park                |           3 |  873135.41
+ Dianafort Village             |           1 |  872531.03
+ North Stephenbury Park        |           1 |  872101.37
+ Rodneytown Village            |           1 |  870645.82
+ West Karenbury Village        |           2 |  869434.90
+ Johnsonshire Park             |           2 |  868501.80
+ Silvashire Park               |           3 |  866230.16
+ Lake Carlos Bay               |           1 |  863846.97
+ North Jeromehaven Village     |           2 |  863271.52
+ Jacobsport Ridge              |           1 |  862885.05
+ Bushfurt Bay                  |           1 |  862653.01
+ Claireshire Ridge             |           1 |  861559.64
+ North Brian Park              |           2 |  860769.96
+ Port Johnnyshire Park         |           3 |  860387.62
+ North Robertside Heights      |           2 |  858985.59
+ Richardmouth Gardens          |           1 |  857652.56
+ Lake Candice Bay              |           2 |  856636.28
+ Lake Cynthiaport Ridge        |           2 |  855966.48
+ Webbbury Gardens              |           1 |  855902.85
+ South Troy Park               |           3 |  855763.26
+ Port Adambury Bay             |           2 |  855516.41
+ Davidchester Gardens          |           3 |  853673.18
+ Gonzalezland Heights          |           1 |  853481.83
+ Port Deanside Gardens         |           1 |  852890.12
+ Saunderston Ridge             |           2 |  850720.31
+ South Michael Bay             |           3 |  849597.86
+ Christyfort Bay               |           1 |  849416.69
+ Harrisville Gardens           |           1 |  848590.19
+ Olsonberg Heights             |           1 |  848345.10
+ Frankside Estates             |           1 |  847798.95
+ Lake Kimberly Park            |           5 |  847738.04
+ West Tammyview Estates        |           1 |  847300.84
+ Barkerchester Village         |           1 |  846649.23
+ New Randy Heights             |           2 |  845399.51
+ Morrisburgh Bay               |           2 |  843973.36
+ Port Jeffrey Park             |           1 |  843965.28
+ West Connorshire Ridge        |           1 |  843803.24
+ Madisonhaven Park             |           4 |  843021.54
+ Colefort Ridge                |           1 |  841402.93
+ Lake Williamville Park        |           2 |  840362.96
+ South Heather Estates         |           2 |  839118.67
+ New Deannamouth Park          |           2 |  838109.62
+ Jamesland Estates             |           1 |  835129.05
+ Smithfort Ridge               |           2 |  834834.98
+ East Michelletown Bay         |           2 |  833744.82
+ Brianshire Village            |           2 |  833623.79
+ Harrisonstad Ridge            |           3 |  833619.79
+ Timothymouth Bay              |           2 |  833214.92
+ East Williammouth Gardens     |           1 |  830650.33
+ New Charles Ridge             |           3 |  830258.97
+ Jamesbury Heights             |           2 |  830028.56
+ Port Garychester Gardens      |           2 |  828356.36
+ New Johnathan Heights         |           3 |  828324.32
+ Christianland Heights         |           2 |  826172.56
+ Lake Katherineport Park       |           2 |  825933.40
+ Maystad Ridge                 |           1 |  823998.43
+ Diazfurt Park                 |           3 |  823998.09
+ South Aaronfort Heights       |           1 |  822855.06
+ Port Morgan Village           |           2 |  822823.29
+ East Debraborough Village     |           1 |  820119.36
+ Ellisonshire Park             |           1 |  819312.79
+ South Sherri Village          |           3 |  817777.00
+ Port Elizabeth Gardens        |           1 |  815676.25
+ Blakestad Bay                 |           1 |  814400.27
+ West Steven Heights           |           2 |  814244.71
+ New Shellyborough Estates     |           1 |  813948.66
+ Lake Joseph Ridge             |           4 |  813621.76
+ Hintonmouth Estates           |           2 |  810619.81
+ West Michaelbury Estates      |           1 |  810097.35
+ North Donna Bay               |           1 |  809971.57
+ Dianechester Village          |           2 |  809071.03
+ Scottport Estates             |           1 |  807840.98
+ South Brianna Gardens         |           1 |  807595.71
+ South Jamiehaven Gardens      |           1 |  807522.88
+ Port John Ridge               |           1 |  806774.02
+ West Shelly Park              |           2 |  805350.15
+ Port Jamesshire Ridge         |           2 |  805007.37
+ West Williamview Bay          |           1 |  804616.55
+ New Alejandro Ridge           |           1 |  803617.62
+ Derekborough Heights          |           2 |  803101.91
+ East Michaelhaven Heights     |           1 |  802039.16
+ Garyberg Park                 |           1 |  799610.05
+ Philipchester Park            |           1 |  799586.59
+ North Deniseland Village      |           1 |  798774.53
+ North Douglaston Gardens      |           1 |  798581.62
+ Dennishaven Ridge             |           2 |  798171.90
+ Bennettmouth Heights          |           1 |  795393.26
+ North Gregorychester Village  |           2 |  794971.72
+ Lake Maryburgh Ridge          |           5 |  794763.46
+ Judyport Gardens              |           2 |  794585.49
+ Port Nicholas Estates         |           1 |  794564.37
+ Daviston Estates              |           1 |  792808.93
+ West Xavier Park              |           1 |  792796.23
+ Lake Christian Bay            |           2 |  792035.10
+ Larrybury Village             |           2 |  791976.33
+ East Nicole Village           |           2 |  791855.96
+ Lopezburgh Park               |           3 |  791848.13
+ Hayesview Estates             |           2 |  791723.42
+ Jacobfort Bay                 |           2 |  790948.32
+ Richardsview Ridge            |           1 |  788331.42
+ Lake Lori Heights             |           1 |  786587.69
+ Port Johnathanton Park        |           1 |  786514.28
+ Amandabury Estates            |           2 |  786490.56
+ Sullivanberg Estates          |           3 |  785601.66
+ New Andrewborough Ridge       |           3 |  784957.24
+ New Adrian Ridge              |           3 |  784246.92
+ Odonnellbury Gardens          |           3 |  784094.65
+ Nicolestad Park               |           2 |  784091.95
+ Grantburgh Heights            |           1 |  783959.35
+ Mitchellland Heights          |           1 |  782818.85
+ Greenland Estates             |           1 |  782095.68
+ South Jamie Estates           |           4 |  781847.87
+ Julieside Bay                 |           2 |  779590.61
+ Buckberg Village              |           2 |  779465.31
+ East Madison Estates          |           3 |  778911.54
+ Port Anthonyhaven Heights     |           2 |  778761.72
+ New Joshuashire Heights       |           4 |  778047.10
+ Michaelburgh Village          |           1 |  777648.25
+ Martinezberg Bay              |           3 |  776594.21
+ Smithville Estates            |           3 |  776178.42
+ South Elizabeth Bay           |           2 |  776124.81
+ Rodgersview Ridge             |           1 |  775890.96
+ Butlerport Bay                |           3 |  774489.74
+ South Colton Bay              |           1 |  774320.57
+ Clintonport Heights           |           1 |  774141.68
+ Lake Rachelborough Estates    |           1 |  773462.05
+ West David Estates            |           1 |  772836.44
+ East David Bay                |           2 |  772210.66
+ Port Kerry Heights            |           2 |  771775.45
+ Port Charlesside Estates      |           2 |  771652.89
+ Mccoyside Gardens             |           3 |  770953.39
+ Smithport Village             |           1 |  769616.49
+ Lake Brandon Gardens          |           2 |  768809.91
+ Port Bethany Gardens          |           3 |  767160.28
+ Skinnerton Village            |           2 |  765046.08
+ Martinburgh Ridge             |           1 |  764551.18
+ Cowanville Ridge              |           2 |  763839.98
+ Parktown Gardens              |           1 |  763239.12
+ West Ashley Park              |           2 |  762151.55
+ West Johnbury Ridge           |           3 |  762116.34
+ Davisfort Ridge               |           3 |  761267.01
+ Lake Coreyshire Heights       |           2 |  759871.56
+ South Pamelamouth Heights     |           3 |  759296.21
+ East Sandra Estates           |           3 |  757371.13
+ New Stevenshire Park          |           2 |  756854.49
+ Port Janice Bay               |           2 |  756567.35
+ Port Audrey Village           |           1 |  756374.09
+ New Danielle Gardens          |           1 |  756317.87
+ Port Mathew Park              |           1 |  753524.40
+ South Timothybury Ridge       |           2 |  753072.82
+ North Rhondaside Village      |           3 |  752528.21
+ Judithborough Bay             |           2 |  751395.82
+ Morganview Ridge              |           1 |  749693.61
+ North Christopherstad Village |           1 |  749238.26
+ Mossbury Village              |           3 |  747788.77
+ Duncanstad Ridge              |           1 |  745696.35
+ Florestown Bay                |           1 |  744227.01
+ West Brandonbury Bay          |           1 |  743886.50
+ Annatown Heights              |           2 |  743852.53
+ North Samuel Park             |           2 |  743215.64
+ Carlsonside Park              |           1 |  743001.47
+ West Joshua Estates           |           3 |  741931.77
+ New Edwinmouth Village        |           2 |  741713.30
+ East Carloshaven Heights      |           1 |  741688.74
+ Wellsfort Estates             |           1 |  741326.36
+ Port Marktown Park            |           2 |  740042.05
+ Brittanyside Park             |           2 |  738742.95
+ Ronaldbury Ridge              |           2 |  736718.64
+ Whiteton Bay                  |           1 |  735970.60
+ New Joanneland Heights        |           2 |  735137.94
+ East Angelatown Ridge         |           3 |  734638.38
+ East Ryan Park                |           1 |  734194.14
+ New Lisa Estates              |           1 |  734003.08
+ Lake Kariborough Village      |           3 |  732495.34
+ New Kyle Village              |           3 |  732097.02
+ Alyssaland Park               |           2 |  731180.59
+ Jenniferberg Gardens          |           4 |  730532.09
+ Cooktown Estates              |           1 |  728278.86
+ Edwardschester Village        |           3 |  725953.73
+ Saraside Village              |           2 |  723678.55
+ New Danielland Bay            |           4 |  723413.12
+ Kevinside Estates             |           1 |  722921.77
+ Bettyville Ridge              |           1 |  722281.28
+ North Savannah Heights        |           3 |  722269.86
+ Marthachester Park            |           1 |  721997.86
+ North Amberland Village       |           1 |  721921.88
+ South Olivia Bay              |           4 |  721846.83
+ Port Paul Heights             |           2 |  721622.22
+ North Michaelburgh Estates    |           3 |  721481.13
+ Lake Albert Village           |           1 |  721417.06
+ Sarahbury Village             |           1 |  719418.87
+ Stuarthaven Park              |           1 |  718895.26
+ West Bethside Bay             |           2 |  718758.94
+ Victorhaven Bay               |           3 |  718720.22
+ Stevensonburgh Village        |           1 |  714404.58
+ Millerport Bay                |           2 |  714305.58
+ Lake Jamesport Gardens        |           1 |  713269.34
+ Judyburgh Ridge               |           3 |  712586.09
+ North Kimberlychester Estates |           2 |  711145.74
+ Sampsonfurt Park              |           2 |  711143.28
+ Doylebury Park                |           1 |  710836.73
+ Wadehaven Estates             |           2 |  709637.13
+ East Rebecca Gardens          |           1 |  709168.14
+ West Alexis Park              |           1 |  708844.32
+ Markmouth Park                |           2 |  708660.41
+ Anthonystad Village           |           2 |  708228.26
+ Rodneyside Estates            |           2 |  706867.62
+ Port Brian Estates            |           2 |  704822.53
+ Parkerchester Park            |           1 |  702368.91
+ South Shane Heights           |           1 |  701979.72
+ Deborahberg Heights           |           1 |  701968.52
+ Lewisburgh Gardens            |           1 |  701914.50
+ Williamburgh Gardens          |           3 |  701535.37
+ New Drewmouth Village         |           2 |  700645.05
+ New Sharonfort Gardens        |           1 |  699970.45
+ Port Richard Gardens          |           1 |  699614.60
+ Mccormickberg Park            |           3 |  697120.22
+ North Frank Bay               |           1 |  696878.93
+ New Jesus Estates             |           1 |  694510.01
+ Lake Ericaside Gardens        |           2 |  694097.02
+ Jennifershire Village         |           1 |  693994.13
+ Stevefort Ridge               |           1 |  693860.06
+ Nathanmouth Park              |           3 |  693600.22
+ West Lisa Bay                 |           2 |  692636.19
+ Lake Andrea Bay               |           2 |  692257.93
+ Jessicafort Heights           |           2 |  692179.11
+ Jonestown Estates             |           1 |  691214.27
+ Hallville Ridge               |           2 |  691019.17
+ West Patricialand Village     |           2 |  690577.72
+ Foxview Bay                   |           2 |  688394.54
+ Prestonland Heights           |           3 |  687304.95
+ New Debbie Heights            |           3 |  686944.38
+ Jamieburgh Estates            |           2 |  686853.50
+ Hamiltonbury Village          |           1 |  686784.11
+ New Joshuafurt Village        |           1 |  682786.44
+ Edwardmouth Heights           |           1 |  682481.73
+ Zacharystad Heights           |           2 |  681073.83
+ Lake John Heights             |           3 |  680907.40
+ Taylorberg Village            |           1 |  680315.82
+ Lake Alyssaberg Heights       |           3 |  678901.21
+ Judychester Ridge             |           3 |  678469.71
+ Lake Markmouth Bay            |           2 |  677674.37
+ West Audrey Bay               |           2 |  677532.95
+ Thomasborough Ridge           |           2 |  677474.11
+ Wuburgh Ridge                 |           1 |  677344.06
+ Marcusborough Ridge           |           2 |  677280.99
+ Ashleyport Heights            |           1 |  677124.00
+ North Jessica Park            |           2 |  676039.53
+ South Bradyfort Ridge         |           2 |  675536.09
+ North Matthew Village         |           1 |  675514.89
+ North Williamville Gardens    |           1 |  674470.58
+ East Jodiport Village         |           2 |  673656.46
+ Daniellebury Village          |           1 |  671987.83
+ Reedshire Park                |           2 |  670830.38
+ North Calebstad Village       |           1 |  670640.93
+ Port Julieland Estates        |           1 |  667418.90
+ East Jennifer Heights         |           1 |  665875.64
+ Jessicahaven Ridge            |           2 |  665007.72
+ Wisemouth Village             |           1 |  664216.21
+ Rodriguezchester Estates      |           3 |  664007.77
+ Debbiechester Bay             |           2 |  662954.56
+ South Anna Heights            |           2 |  662714.87
+ East Darlene Estates          |           2 |  660109.80
+ Lake Theresa Estates          |           1 |  659875.66
+ Williamsborough Village       |           2 |  659498.28
+ Sanfordmouth Ridge            |           2 |  659492.00
+ East Heather Park             |           1 |  659197.68
+ Jamesfort Park                |           2 |  658958.26
+ New Thomas Heights            |           2 |  658425.68
+ Russellberg Bay               |           2 |  657307.49
+ Seanland Bay                  |           1 |  656387.01
+ North Patrick Bay             |           3 |  652369.83
+ Lake Renee Ridge              |           1 |  648787.90
+ Ramosfort Village             |           2 |  647950.14
+ South Lauren Park             |           1 |  647019.58
+ South Joshua Park             |           1 |  646259.20
+ Donnaview Gardens             |           4 |  644217.21
+ Stephaniemouth Village        |           2 |  644100.78
+ Lopezborough Heights          |           1 |  642247.26
+ East Patricia Heights         |           2 |  642015.99
+ Ashleyberg Heights            |           1 |  641998.23
+ Port Sheila Estates           |           2 |  641952.28
+ West Mariemouth Gardens       |           2 |  641645.72
+ Port Brandonchester Heights   |           1 |  641428.57
+ Darlenefort Ridge             |           1 |  640673.63
+ South Richard Village         |           1 |  637879.43
+ Rodgersside Heights           |           1 |  637479.23
+ Cathyfurt Village             |           1 |  635395.14
+ East Nicholas Gardens         |           1 |  632929.03
+ Port Bruce Bay                |           3 |  632062.58
+ Stephensonhaven Ridge         |           3 |  631104.85
+ East William Estates          |           1 |  630308.86
+ West Keith Gardens            |           1 |  628228.68
+ Perezville Estates            |           2 |  628034.11
+ West Marissa Village          |           1 |  627164.02
+ Angelfort Ridge               |           2 |  624849.05
+ Lake Kayla Village            |           2 |  622508.79
+ New Stevenside Ridge          |           1 |  621143.41
+ Tylermouth Bay                |           2 |  619993.83
+ Port Jenniferfort Heights     |           3 |  618457.06
+ Villegastown Heights          |           1 |  617906.33
+ New Melissa Gardens           |           1 |  615985.95
+ Heiditon Bay                  |           1 |  615022.10
+ Donberg Gardens               |           3 |  614890.22
+ Port Elizabethton Village     |           1 |  614715.96
+ New Williambury Ridge         |           1 |  613369.00
+ South Trevorberg Bay          |           1 |  613059.04
+ Port David Park               |           1 |  612362.26
+ Lake Jacqueline Gardens       |           3 |  608198.85
+ West Cory Park                |           1 |  607343.41
+ East Kimberlyport Gardens     |           2 |  606692.84
+ Millerburgh Bay               |           1 |  605916.90
+ Jenningsstad Village          |           2 |  605202.27
+ Bakermouth Bay                |           2 |  604034.36
+ Larsenchester Estates         |           2 |  604012.42
+ Lake Courtneychester Park     |           2 |  603709.06
+ Littletown Estates            |           1 |  603566.98
+ Tamarahaven Bay               |           3 |  601793.81
+ Christopherfurt Bay           |           1 |  601791.24
+ Pattersonmouth Village        |           1 |  600038.21
+ Davidhaven Park               |           3 |  598938.40
+ East Michaelhaven Ridge       |           3 |  598200.25
+ Thompsonmouth Estates         |           2 |  597560.95
+ East Gloriatown Village       |           2 |  597468.01
+ Lake Anthony Heights          |           2 |  597120.01
+ Dickersonborough Ridge        |           2 |  595499.04
+ Lake Joshua Ridge             |           2 |  595320.79
+ Ericshire Gardens             |           2 |  593535.73
+ West Janet Village            |           2 |  592085.66
+ North Loriberg Estates        |           1 |  589807.31
+ Robertburgh Ridge             |           1 |  588476.29
+ West Aaronport Bay            |           2 |  586305.88
+ Smithmouth Village            |           2 |  584183.10
+ Rodgersview Park              |           1 |  583836.69
+ Port Alexis Estates           |           2 |  583795.14
+ Lake Ronald Bay               |           3 |  582221.02
+ West Reneechester Village     |           2 |  582045.53
+ Stevensonview Ridge           |           1 |  581188.12
+ Joshuachester Ridge           |           1 |  580872.75
+ Jamesstad Gardens             |           3 |  580692.09
+ Watersstad Park               |           1 |  579607.63
+ Heatherview Estates           |           2 |  579455.74
+ Lake Joanna Village           |           3 |  579175.21
+ Collinsburgh Gardens          |           2 |  579093.99
+ West Dustinchester Bay        |           3 |  578391.76
+ Lake Tammystad Heights        |           1 |  578355.52
+ Douglashaven Ridge            |           2 |  577963.70
+ Sharpberg Heights             |           1 |  577232.40
+ Lake Blakeberg Park           |           1 |  576250.01
+ Thompsonville Heights         |           3 |  575603.94
+ West Luke Bay                 |           2 |  572591.96
+ Duncantown Ridge              |           1 |  571217.01
+ Lake Alexander Ridge          |           1 |  569150.14
+ East Josephton Bay            |           1 |  567992.92
+ New Josephland Gardens        |           1 |  567312.14
+ Port Morgan Ridge             |           1 |  565636.44
+ Jamiestad Village             |           1 |  562837.43
+ Jillshire Village             |           2 |  562777.60
+ Angelshire Park               |           1 |  562615.40
+ Allisonburgh Village          |           1 |  559012.45
+ New Robert Estates            |           1 |  558620.56
+ North Karen Ridge             |           2 |  558221.13
+ Martinezburgh Heights         |           1 |  558159.05
+ Scottport Heights             |           1 |  557972.09
+ Hooverbury Estates            |           1 |  557842.61
+ Lake Phillip Estates          |           1 |  556538.58
+ South Michaelton Village      |           2 |  553451.83
+ Lopezfurt Park                |           1 |  552959.16
+ Harpershire Ridge             |           2 |  551309.07
+ North Latoyaview Bay          |           1 |  551301.14
+ North Barry Heights           |           2 |  550960.11
+ South Michaelburgh Park       |           1 |  547714.55
+ West Jonathan Gardens         |           2 |  545250.70
+ Bakerhaven Heights            |           1 |  545183.45
+ New Jackiefort Estates        |           3 |  544397.80
+ Heathermouth Bay              |           2 |  543853.27
+ Estradastad Village           |           2 |  543490.48
+ Wrightland Gardens            |           2 |  537706.02
+ Lake Alison Bay               |           1 |  537386.99
+ Timothyburgh Heights          |           2 |  537376.79
+ Dianeville Estates            |           1 |  536450.44
+ East Paulview Heights         |           1 |  535446.89
+ Lake Edwardview Estates       |           2 |  534861.91
+ Anaton Estates                |           2 |  533196.79
+ New Shannon Village           |           3 |  531991.07
+ Port Kyle Gardens             |           1 |  531887.43
+ Rodriguezberg Park            |           1 |  531763.48
+ North Thomas Estates          |           1 |  530081.61
+ East Janetville Gardens       |           1 |  527785.41
+ Port Robertshire Heights      |           1 |  523153.51
+ West Danielleborough Gardens  |           2 |  520158.00
+ Hallton Gardens               |           2 |  517675.40
+ Caseyport Village             |           1 |  517670.13
+ Port Michael Ridge            |           2 |  517417.31
+ Vanessafort Bay               |           1 |  516907.50
+ Hallton Heights               |           1 |  515147.16
+ New Cody Village              |           2 |  513048.50
+ Aaronchester Ridge            |           1 |  510825.65
+ North Jamiemouth Park         |           1 |  510716.13
+ Janettown Gardens             |           1 |  509895.11
+ New Reginald Estates          |           1 |  509119.38
+ Port Judymouth Bay            |           1 |  508489.53
+ Thompsonland Heights          |           1 |  507497.81
+ Erinmouth Gardens             |           2 |  501487.84
+ New Sarah Ridge               |           1 |  500816.95
+ Port John Village             |           1 |  500230.03
+(1547 rows)
+

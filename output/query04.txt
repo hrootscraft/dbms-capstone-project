@@ -1,0 +1,14 @@
+ property_id |                             address                              |   price    |      neighborhood       |      agent      
+-------------+------------------------------------------------------------------+------------+-------------------------+-----------------
+        1956 | 512 Watson Springs, North Julianton Ridge, South Courtney        | 1999647.52 | North Julianton Ridge   | Tonya Bennett
+        1871 | 129 Walters Village, West Laurenbury Park, Adamsbury             | 1998064.55 | West Laurenbury Park    | Justin Peck
+        1599 | 4196 Damon Lodge Suite 277, East Ashley Village, Lake Ryanfort   | 1997500.54 | East Ashley Village     | Cory Douglas
+         675 | 28121 Trevino Shoal, New Julie Ridge, Morrishaven                | 1994300.86 | New Julie Ridge         | Anthony Wilson
+        1337 | 6389 Garcia Stravenue, North Erikaport Village, Grahamborough    | 1993008.85 | North Erikaport Village | Kimberly Zamora
+         128 | 70588 Roy Center Suite 381, Rogersfort Bay, East Lisa            | 1986373.35 | Rogersfort Bay          | Tyler Gutierrez
+        1760 | 662 Jeffrey Stream Apt. 495, South Henry Bay, Ramosport          |    1976636 | South Henry Bay         | Kaitlyn Nelson
+        2905 | 8235 Austin Radial Suite 472, Kristineville Ridge, South Annette | 1963465.46 | Kristineville Ridge     | Daniel Clark
+         533 | 44366 Reeves Knoll Suite 354, East Noah Estates, West Jennifer   | 1960923.04 | East Noah Estates       | Amber Mcknight
+         140 | 30412 Sandra Brooks Apt. 250, Port Emily Village, North James    | 1956519.64 | Port Emily Village      | Rachel Medina
+(10 rows)
+

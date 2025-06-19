@@ -1,0 +1,26 @@
+==== Trigger 1 – schema objects ====
+CREATE TABLE
+CREATE FUNCTION
+DROP TRIGGER
+CREATE TRIGGER
+---- Trigger 1 objects created ----
+==== Trigger 1 – demo run ====
+CREATE PROCEDURE
+TRUNCATE TABLE
+-- audit table truncated --
+-- Successful sale (should commit) --
+CALL
+-- Audit after success --
+ id | tx_id |              note              |           logged_at           
+----+-------+--------------------------------+-------------------------------
+  1 |  3001 | Sale recorded for property 950 | 2025-06-18 23:05:44.351387-04
+(1 row)
+
+-- Failing sale (duplicate key expected) --
+-- Audit after failure (should be unchanged) --
+ id | tx_id |              note              |           logged_at           
+----+-------+--------------------------------+-------------------------------
+  1 |  3001 | Sale recorded for property 950 | 2025-06-18 23:05:44.351387-04
+(1 row)
+
+---- Trigger 1 demo complete ----

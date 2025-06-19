@@ -1,0 +1,24 @@
+==== Trigger 2 – schema objects ====
+CREATE FUNCTION
+DROP TRIGGER
+CREATE TRIGGER
+---- Trigger 2 objects created ----
+==== Trigger 2 – demo run ====
+-- Selecting demo property with no active listings --
+SELECT 1
+-- Property chosen --
+ property_id 
+-------------
+           1
+(1 row)
+
+-- First active listing (should succeed) --
+INSERT 0 1
+-- Second active listing (should fail) --
+-- Verify only one active listing exists --
+ active_cnt 
+------------
+          1
+(1 row)
+
+---- Trigger 2 demo complete ----
