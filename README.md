@@ -44,12 +44,12 @@ psql -U $USER -d real_estate -v ON_ERROR_STOP=1 -f stored_pgm_procedure2.sql | t
 psql -U $USER -d real_estate -v ON_ERROR_STOP=1 -f stored_pgm_procedure3.sql | tee output/stored_pgm_procedure3.txt
 
 # 6. performance study
-psql -U $USER -d real_estate -f indexed_performance.sql | tee indexed_performance.txt
+psql -U $USER -d real_estate -f indexedperformance.sql | tee indexedperformance.txt
 ````
 
 > **Log files**
 > *transaction\_trigger1.txt* and *transaction\_trigger2.txt* show the trigger demos.
-> *indexed\_performance.txt* captures baseline vs improved `EXPLAIN ANALYZE`.
+> *indexedperformance.txt* captures baseline vs improved `EXPLAIN ANALYZE`.
 
 ---
 
